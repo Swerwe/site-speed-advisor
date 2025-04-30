@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "target": "ES2020",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node",
+      "baseUrl": "./src",
+      "paths": {
+        "@config/*": ["config/*"],
+        "@core/*": ["core/*"],
+        "@loaders/*": ["loaders/*"],
+        "@analyzers/*": ["analyzers/*"],
+        "@recommendations/*": ["recommendations/*"],
+        "@reports/*": ["reports/*"],
+        "@utils/*": ["utils/*"],
+        "@types/*": ["types/*"]
+      }
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "**/*.test.ts"]
+}
