@@ -1,3 +1,5 @@
+import { PerformanceScore } from "../utils/performanceScore";
+
 // src/recommendations/types.ts
 export type LCPRecommendations = {
     mainMessage: string | null;
@@ -10,5 +12,6 @@ export type TBTRecommendations = {
 export type RecommendationObject = {
     lcpRecommendations: LCPRecommendations | null;
     tbtRecommendations: TBTRecommendations | null;
-    recommendations: string[]
+    recommendations: string[];
+    performanceScore: number;
 }

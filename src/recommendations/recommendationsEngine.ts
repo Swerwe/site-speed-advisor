@@ -1,10 +1,10 @@
-// src/recommendations/recommendationsEngine.ts
+import { calculatePerformanceScore } from '../utils/performanceScore';
 import { PerformanceMetrics } from '../types/analysisResult';
 import { logger } from '../utils/logger';
 import { analyzeLCP } from './helpers/analyzeLCP';
 import { analyzeTBT } from './helpers/analyzeTBT';
 import { RecommendationObject } from './types';
-
+// TODO: Сделать общими тайминги из TODO
 export async function generateRecommendations(
   analysis: PerformanceMetrics,
 ): Promise<RecommendationObject> {
@@ -15,7 +15,9 @@ export async function generateRecommendations(
       lcpRecommendations: null,
       tbtRecommendations: null,
       recommendations: [],
+      performanceScore: 0
     };
+    recommendationObject.performanceScore = calculatePerformanceScore(analysis).percentage;
     const lcpRecommendations = analyzeLCP(analysis.lcp);
     recommendationObject.lcpRecommendations = lcpRecommendations;
     const tbtRecommendations = analyzeTBT(analysis.tbt);
@@ -72,28 +74,12 @@ export async function generateRecommendations(
       );
     }
 
-    if (analysis.requests > 50) {
-      recommendationObject.recommendations.push(
-        `Сократите количество запросов (сейчас ${analysis.requests}). ` +
-          'Объедините CSS/JS файлы, используйте спрайты для изображений, задействуйте мультиплексирование HTTP/2.',
-      );
-    }
 
     // Рекомендации для обратной совместимости
     if (analysis.loadTime > 3000) {
       recommendationObject.recommendations.push(
         'Оптимизируйте общее время загрузки (сейчас ' +
           `${analysis.loadTime}мс). Смотрите конкретные рекомендации выше.`,
-      );
-    }
-
-    // Общие рекомендации
-    if (analysis.requests > 0) {
-      recommendationObject.recommendations.push(
-        'Убедитесь, что для всех статических ресурсов правильно настроены заголовки кэширования.',
-      );
-      recommendationObject.recommendations.push(
-        'Рассмотрите возможность предзагрузки критических ресурсов с помощью <link rel="preload">.',
       );
     }
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import MetricAlert from './MetricAlert';
 import { MetricsComponentProps } from './types';
-import { DEFAULT_THRESHOLDS } from './MetricAlert/constants';
+import { DEFAULT_THRESHOLDS } from '../../../constants/defaultThresholds';
 
 const MetricsComponent: React.FC<MetricsComponentProps> = ({ data }) => {
   return (
@@ -42,7 +42,6 @@ const MetricsComponent: React.FC<MetricsComponentProps> = ({ data }) => {
         thresholds={DEFAULT_THRESHOLDS.pageSize} 
         />
         <MetricAlert name="DOM Size" value={data.domSize} thresholds={DEFAULT_THRESHOLDS.domSize} />
-        {/* <MetricAlert name="Requests" value={data.requests} thresholds={DEFAULT_THRESHOLDS.requests} /> */}
     </div>
   );
 };

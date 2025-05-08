@@ -7,6 +7,7 @@ import { generateRecommendations } from '../recommendations/recommendationsEngin
 import { generateReport } from '../reports/reportGenerator';
 import { config } from '../config/config';
 import { logger } from '../utils/logger';
+// import { calculatePerformanceScore } from '../utils/performanceScore';
 
 export class MainController {
   private url: string;
@@ -24,7 +25,7 @@ export class MainController {
       
       // Step 2: Analyze collected data
       const analysisResult = await analyzePage(pageData);
-      
+      // console.log(calculatePerformanceScore(analysisResult))
       // Step 3: Generate recommendations
       const recommendationObject = await generateRecommendations(analysisResult);
       

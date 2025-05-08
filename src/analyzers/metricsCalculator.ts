@@ -1,4 +1,3 @@
-import { PerformanceMetrics } from '../types/analysisResult';
 import { PageData } from '../types/pageData';
 
 export async function calculateMetrics(pageData: PageData) {

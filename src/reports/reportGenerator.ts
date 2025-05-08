@@ -10,7 +10,6 @@ export async function generateReport(data: ReportData): Promise<void> {
   try {
     logger.info('Generating report');
     
-    // Ensure output directory exists
     if (!fs.existsSync(config.report.outputPath)) {
       fs.mkdirSync(config.report.outputPath, { recursive: true });
     }

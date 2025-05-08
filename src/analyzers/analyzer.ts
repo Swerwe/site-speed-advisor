@@ -11,7 +11,6 @@ export async function analyzePage(pageData: PageData): Promise<PerformanceMetric
     return {
       ...metrics,
       pageSize: Buffer.byteLength(pageData.pageContent, 'utf8'),
-      requests: 0, // todo
       domSize: pageData.pageContent.split('</').length - 1,
     } ;
   } catch (error) {

@@ -13,6 +13,7 @@ import {
 } from './styles';
 import MetricsComponent from './Metrics';
 import { Recommendations } from './Recommendations';
+import { PerformanceScoreChart } from './PerformanceScore';
 
 interface ReportProps {
   data: ReportData;
@@ -36,7 +37,7 @@ export const Report: React.FC<ReportProps> = ({ data }) => {
             <p>
                 <strong>Date:</strong> {new Date().toLocaleString()}
             </p>
-
+            <PerformanceScoreChart percentage={data.recommendationObject.performanceScore} />
             <div style={{display:'flex', gap: '20px'}}>
                 <MetricsComponent data={data} />
                 <Recommendations recommendationObject={data.recommendationObject} />

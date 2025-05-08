@@ -10,7 +10,6 @@ export interface MetricsData {
     firstContentfulPaint: number;
     pageSize: number;
     domSize: number;
-    requests: number;
   }
   
   export interface MetricsComponentProps {
