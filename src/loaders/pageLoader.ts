@@ -18,7 +18,7 @@ export async function loadPage(url: string): Promise<PageData> {
 
     // Navigate to the page
     const response = await page.goto(url, {
-        waitUntil: 'networkidle2',
+        waitUntil: 'load',
         timeout: 30000,
     });
 

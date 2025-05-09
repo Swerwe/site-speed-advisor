@@ -13,7 +13,8 @@ import {
 } from './styles';
 import MetricsComponent from './Metrics';
 import { Recommendations } from './Recommendations';
-import { PerformanceScoreChart } from './PerformanceScore';
+import { PerformanceScore} from './PerformanceScore';
+import { Description } from './Description';
 
 interface ReportProps {
   data: ReportData;
@@ -26,32 +27,21 @@ export const Report: React.FC<ReportProps> = ({ data }) => {
         <head>
             <meta charSet="UTF-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-            <title>Performance Report - {data.url}</title>
+            <title>Отчет о производительности - {data.url}</title>
         </head>
         <body>
             <GlobalStyle>
-            <Title>Performance Report</Title>
-            <p>
-                <strong>URL:</strong> {data.url}
-            </p>
-            <p>
-                <strong>Date:</strong> {new Date().toLocaleString()}
-            </p>
-            <PerformanceScoreChart percentage={data.recommendationObject.performanceScore} />
-            <div style={{display:'flex', gap: '20px'}}>
-                <MetricsComponent data={data} />
+            <Title style={{marginLeft: '15px'}}>Отчет о производительности</Title>
+            <div style={{display:'flex', gap: '50px', alignItems: "start"}}>
+              <div>
+                <PerformanceScore performanceScore={data.recommendationObject.performanceScore} />
                 <Recommendations recommendationObject={data.recommendationObject} />
+              </div>
+              <div>
+                <Description url ={data.url} />
+                <MetricsComponent data={data} />
+              </div>
             </div>
-
-            {data.screenshot && (
-                <>
-                <h2>Screenshot</h2>
-                <ScreenshotImage
-                    src={`data:image/png;base64,${data.screenshot.toString('base64')}`}
-                    alt="Page screenshot"
-                />
-                </>
-            )}
             </GlobalStyle>
         </body>
         </html>

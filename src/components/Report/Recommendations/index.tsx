@@ -1,52 +1,85 @@
 import React from "react";
 import { RecommendationObject } from "../../../recommendations/types";
+import {
+  Card,
+  CardContent,
+  Typography,
+  Divider,
+  List,
+  ListItem,
+  ListItemIcon,
+  ListItemText,
+  Box,
+} from "@mui/material";
+import CheckCircleIcon from "@mui/icons-material/CheckCircle";
+
 type Props = {
-    recommendationObject: RecommendationObject;
-  };
-  
+  recommendationObject: RecommendationObject;
+};
+
 export const Recommendations: React.FC<Props> = ({ recommendationObject }) => {
-const { recommendations, lcpRecommendations, tbtRecommendations } = recommendationObject;
+  const { recommendations, lcpRecommendations, tbtRecommendations } = recommendationObject;
 
-return (
-    <div className="space-y-6 p-4">
-    {recommendations.length > 0 && (
-        <section>
-        <h2 className="text-xl font-semibold mb-2">Общие рекомендации</h2>
-        <ul className="list-disc list-inside space-y-1">
-            {recommendations.map((rec, i) => (
-            <li key={`general-${i}`}>{rec}</li>
-            ))}
-        </ul>
-        </section>
-    )}
+  const renderList = (items: string[], prefix: string) => (
+    <List>
+      {items.map((rec, i) => (
+        <ListItem key={`${prefix}-${i}`} disablePadding>
+          <ListItemIcon sx={{ minWidth: 32 }}>
+            <CheckCircleIcon color="primary" />
+          </ListItemIcon>
+          <ListItemText primary={rec} />
+        </ListItem>
+      ))}
+    </List>
+  );
 
-    {lcpRecommendations && (
-        <section>
-        <h2 className="text-xl font-semibold mb-2">Рекомендации по LCP</h2>
-        {lcpRecommendations.mainMessage && (
-            <p className="mb-2 text-gray-700">{lcpRecommendations.mainMessage}</p>
-        )}
-        <ul className="list-disc list-inside space-y-1">
-            {lcpRecommendations.recommendations.map((rec, i) => (
-            <li key={`lcp-${i}`}>{rec}</li>
-            ))}
-        </ul>
-        </section>
-    )}
+  return (
+    <Box sx={{ display: "flex", flexDirection: "column", gap: 3, padding: 2, maxWidth: "700px" }}>
+      {recommendations.length > 0 && (
+        <Card elevation={3}>
+          <CardContent>
+            <Typography variant="h6" gutterBottom>
+              Общие рекомендации
+            </Typography>
+            <Divider sx={{ mb: 2 }} />
+            {renderList(recommendations, "general")}
+          </CardContent>
+        </Card>
+      )}
 
-    {tbtRecommendations && (
-        <section>
-        <h2 className="text-xl font-semibold mb-2">Рекомендации по TBT</h2>
-        {tbtRecommendations.mainMessage && (
-            <p className="mb-2 text-gray-700">{tbtRecommendations.mainMessage}</p>
-        )}
-        <ul className="list-disc list-inside space-y-1">
-            {tbtRecommendations.recommendations.map((rec, i) => (
-            <li key={`tbt-${i}`}>{rec}</li>
-            ))}
-        </ul>
-        </section>
-    )}
-    </div>
-);
+      {lcpRecommendations && (
+        <Card elevation={3}>
+          <CardContent>
+            <Typography variant="h6" gutterBottom>
+              Рекомендации по уменьшению Largest Contentful Paint
+            </Typography>
+            <Divider sx={{ mb: 2 }} />
+            {lcpRecommendations.mainMessage && (
+              <Typography variant="body2" color="text.secondary" sx={{ mb: 1 }}>
+                {lcpRecommendations.mainMessage}
+              </Typography>
+            )}
+            {renderList(lcpRecommendations.recommendations, "lcp")}
+          </CardContent>
+        </Card>
+      )}
+
+      {tbtRecommendations && (
+        <Card elevation={3}>
+          <CardContent>
+            <Typography variant="h6" gutterBottom>
+              Рекомендации по уменьшению Total Blocking Time
+            </Typography>
+            <Divider sx={{ mb: 2 }} />
+            {tbtRecommendations.mainMessage && (
+              <Typography variant="body2" color="text.secondary" sx={{ mb: 1 }}>
+                {tbtRecommendations.mainMessage}
+              </Typography>
+            )}
+            {renderList(tbtRecommendations.recommendations, "tbt")}
+          </CardContent>
+        </Card>
+      )}
+    </Box>
+  );
 };

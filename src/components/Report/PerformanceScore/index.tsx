@@ -1,47 +1,11 @@
-import React from 'react';
-
-type Props = {
-  percentage: number; // 0–100
-};
-
-const getColor = (percentage: number): string => {
-  if (percentage >= 80) return '#2ecc71'; // зелёный
-  if (percentage >= 55) return '#f39c12'; // оранжевый
-  return '#e74c3c'; // красный
-};
-
-export const PerformanceScoreChart: React.FC<Props> = ({ percentage }) => {
-  const dashArray = `${percentage}, 100`;
-  const color = getColor(percentage);
-
-  return (
-    <div style={{ width: 200, fontFamily: 'sans-serif' }}>
-      <svg viewBox="0 0 36 36" width="200" height="200">
-        {/* Фоновый круг */}
-        <path
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke="#ecf0f1"
-          strokeWidth="2.5"
-        />
-        {/* Прогресс */}
-        <path
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke={color}
-          strokeWidth="2.5"
-          strokeDasharray={dashArray}
-          strokeLinecap="round"
-        />
-        {/* Подписи */}
-        <text x="18.3" y="21" fill={color} fontSize="8" textAnchor="middle" fontWeight="bold">
-          {percentage}
-        </text>
-      </svg>
+import React from "react";
+import { PerformanceScoreChart } from "./PerformanceScoreChart";
+interface PerformanceScore {
+    performanceScore: number;
+}
+export const PerformanceScore: React.FC<PerformanceScore> = ({ performanceScore }) => {
+    return <div style={{display: "flex", alignItems: "center", marginLeft: "15px"}}>
+        <PerformanceScoreChart percentage={performanceScore} />
+        <span style={{ fontWeight: 600, fontSize: "24px", maxWidth: "220px", paddingLeft: "20px"}}>Общая производительность</span>
     </div>
-  );
-};
+}

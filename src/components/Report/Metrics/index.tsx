@@ -6,7 +6,6 @@ import { DEFAULT_THRESHOLDS } from '../../../constants/defaultThresholds';
 const MetricsComponent: React.FC<MetricsComponentProps> = ({ data }) => {
   return (
     <div>
-        <h2>Метрики производительности веб-приложения:</h2>
         <MetricAlert name="Load Time" value={data.loadTime} thresholds={DEFAULT_THRESHOLDS.loadTime} />
         <MetricAlert name="DOM Ready Time" value={data.domReadyTime} thresholds={DEFAULT_THRESHOLDS.domReadyTime} />
         <MetricAlert 

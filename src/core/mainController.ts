@@ -7,8 +7,9 @@ import { generateRecommendations } from '../recommendations/recommendationsEngin
 import { generateReport } from '../reports/reportGenerator';
 import { config } from '../config/config';
 import { logger } from '../utils/logger';
+import { crawlDomain } from '../loaders/crawlDomain';
+import { averagePerformanceMetrics } from '../utils/averagePerformanceMetrics';
 // import { calculatePerformanceScore } from '../utils/performanceScore';
-
 export class MainController {
   private url: string;
 
@@ -21,14 +22,22 @@ export class MainController {
       logger.info(`Starting analysis for URL: ${this.url}`);
 
       // Step 1: Load page and collect raw data
+
       const pageData = await loadPage(this.url);
-      
+      // const pageDataArray = await crawlDomain(this.url, 3);
+      // console.log(pageDataArray.map(data => data.timingMetrics))
+      // const analysisResultArray = await Promise.all(pageDataArray.map(async (pageData) => {
+      //   const pageMetrics = await analyzePage(pageData);
+      //   if (pageMetrics.domContentLoadedTime < 0 || pageMetrics.loadTime < 0) return null
+      //   return pageMetrics
+
+      // }));
       // Step 2: Analyze collected data
-      const analysisResult = await analyzePage(pageData);
-      // console.log(calculatePerformanceScore(analysisResult))
+      const  analysisResult = await analyzePage(pageData);
+      // const analysisResult = averagePerformanceMetrics(analysisResultArray);
       // Step 3: Generate recommendations
       const recommendationObject = await generateRecommendations(analysisResult);
-      
+
       // Step 4: Generate report
       await generateReport({
         url: this.url,
