@@ -1,7 +1,4 @@
 import { Page } from 'puppeteer';
-import { PerfMetrics } from './types';
-// import { setupLCPObserver } from './lcpObserver';
-// import { setupTBTObserver } from './tbtObserver';
 import { lcpObject, tbtObject } from '../types/pageData';
 
 export async function injectPerfObserver(page: Page): Promise<void> {
@@ -60,7 +57,7 @@ export async function injectPerfObserver(page: Page): Promise<void> {
       lastTime = now;
     }, 50);
 
-    // Collect Largest Contentful Paint (LCP)
+    // Largest Contentful Paint (LCP)
     const lcpObserver = new PerformanceObserver((entryList) => {
       const entries = entryList.getEntries() as PerformanceEntry[];
       const lastEntry = entries[entries.length - 1] as any; // LCP entry

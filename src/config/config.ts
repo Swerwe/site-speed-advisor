@@ -7,6 +7,7 @@ export interface Config {
         height: number;
       };
     };
+    crawling: boolean;
     report: {
       outputPath: string;
       formats: ('html' | 'pdf')[];
@@ -22,6 +23,7 @@ export interface Config {
         height: 768,
       },
     },
+    crawling: false,
     report: {
       outputPath: './reports',
       formats: ['html', 'pdf'],

@@ -1,17 +1,13 @@
-import { Metrics } from "puppeteer";
-
 export interface PageData {
   url: string;
   pageTitle: string;
   pageContent: string;
   screenshot?: Uint8Array<ArrayBufferLike>;
-  performanceMetrics: Metrics;
   webVitals: {
     tbt: tbtObject;
     lcp: lcpObject;
   };
   timingMetrics: TimingMetrics;
-  lighthouseMetrics: any | null;
 }
 
 export interface TimingMetrics {

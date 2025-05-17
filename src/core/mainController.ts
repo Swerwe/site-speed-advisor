@@ -25,7 +25,6 @@ export class MainController {
 
       const pageData = await loadPage(this.url);
       // const pageDataArray = await crawlDomain(this.url, 3);
-      // console.log(pageDataArray.map(data => data.timingMetrics))
       // const analysisResultArray = await Promise.all(pageDataArray.map(async (pageData) => {
       //   const pageMetrics = await analyzePage(pageData);
       //   if (pageMetrics.domContentLoadedTime < 0 || pageMetrics.loadTime < 0) return null
