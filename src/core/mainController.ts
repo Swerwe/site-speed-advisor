@@ -19,7 +19,7 @@ export class MainController {
       logger.info(`Starting analysis for URL: ${this.url}`);
 
       if (config.crawling){
-        const { pageDataArray } = await crawlDomain(this.url, 100);
+        const { pageDataArray } = await crawlDomain(this.url, 10);
 
         const analysisResultArray = await Promise.all(pageDataArray.map(async (pageData) => {
           const pageMetrics = await analyzePage(pageData);
