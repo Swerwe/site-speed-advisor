@@ -18,7 +18,7 @@ export async function loadPage(url: string): Promise<PageData> {
 
     const response = await page.goto(url, {
         waitUntil: 'load',
-        timeout: 30000,
+        timeout: 90000,
     });
 
     if (!response || !response.ok()) {

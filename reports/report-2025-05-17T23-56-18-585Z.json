@@ -1,0 +1,674 @@
+{
+  "https://phys.spbu.ru/": {
+    "url": "https://phys.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 246,
+    "ttfb": 244,
+    "domContentLoadedTime": 628,
+    "tti": 618,
+    "fullyLoadedTime": 1665,
+    "lcp": {
+      "value": 1732,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/images/slides/online_courses_new.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1665,
+    "domReadyTime": 1329,
+    "firstPaint": 320,
+    "firstContentfulPaint": 618,
+    "pageSize": 39021,
+    "domSize": 334
+  },
+  "https://phys.spbu.ru/fakultet.html": {
+    "url": "https://phys.spbu.ru/fakultet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 117,
+    "ttfb": 116,
+    "domContentLoadedTime": 465,
+    "tti": 458,
+    "fullyLoadedTime": 706,
+    "lcp": {
+      "value": 572,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 706,
+    "domReadyTime": 518,
+    "firstPaint": 178,
+    "firstContentfulPaint": 458,
+    "pageSize": 25943,
+    "domSize": 257
+  },
+  "https://phys.spbu.ru/fakultet/istoriya.html": {
+    "url": "https://phys.spbu.ru/fakultet/istoriya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 100,
+    "ttfb": 97,
+    "domContentLoadedTime": 379,
+    "tti": 371,
+    "fullyLoadedTime": 726,
+    "lcp": {
+      "value": 456,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 726,
+    "domReadyTime": 573,
+    "firstPaint": 146,
+    "firstContentfulPaint": 371,
+    "pageSize": 25995,
+    "domSize": 257
+  },
+  "https://phys.spbu.ru/fakultet/znamenitye-vypuskniki.html": {
+    "url": "https://phys.spbu.ru/fakultet/znamenitye-vypuskniki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 88,
+    "ttfb": 88,
+    "domContentLoadedTime": 428,
+    "tti": 421,
+    "fullyLoadedTime": 692,
+    "lcp": {
+      "value": 456,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 692,
+    "domReadyTime": 548,
+    "firstPaint": 137,
+    "firstContentfulPaint": 421,
+    "pageSize": 21712,
+    "domSize": 309
+  },
+  "https://phys.spbu.ru/fakultet/vydayushchiesya-sotrudniki.html": {
+    "url": "https://phys.spbu.ru/fakultet/vydayushchiesya-sotrudniki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 178,
+    "ttfb": 177,
+    "domContentLoadedTime": 439,
+    "tti": 432,
+    "fullyLoadedTime": 939,
+    "lcp": {
+      "value": 472,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 939,
+    "domReadyTime": 706,
+    "firstPaint": 226,
+    "firstContentfulPaint": 432,
+    "pageSize": 19351,
+    "domSize": 247
+  },
+  "https://phys.spbu.ru/abitur.html": {
+    "url": "https://phys.spbu.ru/abitur.html",
+    "redirectTime": 0,
+    "serverResponseTime": 130,
+    "ttfb": 129,
+    "domContentLoadedTime": 562,
+    "tti": 555,
+    "fullyLoadedTime": 60512,
+    "lcp": {
+      "value": 592,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60512,
+    "domReadyTime": 60325,
+    "firstPaint": 177,
+    "firstContentfulPaint": 555,
+    "pageSize": 25310,
+    "domSize": 298
+  },
+  "https://phys.spbu.ru/studying.html": {
+    "url": "https://phys.spbu.ru/studying.html",
+    "redirectTime": 0,
+    "serverResponseTime": 99,
+    "ttfb": 97,
+    "domContentLoadedTime": 415,
+    "tti": 406,
+    "fullyLoadedTime": 631,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 631,
+    "domReadyTime": 478,
+    "firstPaint": 145,
+    "firstContentfulPaint": 406,
+    "pageSize": 26256,
+    "domSize": 260
+  },
+  "https://phys.spbu.ru/studying/bachelor.html": {
+    "url": "https://phys.spbu.ru/studying/bachelor.html",
+    "redirectTime": 0,
+    "serverResponseTime": 95,
+    "ttfb": 94,
+    "domContentLoadedTime": 376,
+    "tti": 369,
+    "fullyLoadedTime": 1072,
+    "lcp": {
+      "value": 460,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1072,
+    "domReadyTime": 864,
+    "firstPaint": 201,
+    "firstContentfulPaint": 369,
+    "pageSize": 21425,
+    "domSize": 251
+  },
+  "https://phys.spbu.ru/studying/magistratura.html": {
+    "url": "https://phys.spbu.ru/studying/magistratura.html",
+    "redirectTime": 0,
+    "serverResponseTime": 88,
+    "ttfb": 86,
+    "domContentLoadedTime": 330,
+    "tti": 323,
+    "fullyLoadedTime": 1383,
+    "lcp": {
+      "value": 428,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1383,
+    "domReadyTime": 1238,
+    "firstPaint": 136,
+    "firstContentfulPaint": 323,
+    "pageSize": 20725,
+    "domSize": 245
+  },
+  "https://phys.spbu.ru/studying/aspirantura-i-doktorantura.html": {
+    "url": "https://phys.spbu.ru/studying/aspirantura-i-doktorantura.html",
+    "redirectTime": 0,
+    "serverResponseTime": 82,
+    "ttfb": 81,
+    "domContentLoadedTime": 321,
+    "tti": 314,
+    "fullyLoadedTime": 650,
+    "lcp": {
+      "value": 412,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 650,
+    "domReadyTime": 501,
+    "firstPaint": 142,
+    "firstContentfulPaint": 314,
+    "pageSize": 24278,
+    "domSize": 283
+  },
+  "https://phys.spbu.ru/studying/praktiki.html": {
+    "url": "https://phys.spbu.ru/studying/praktiki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 84,
+    "domContentLoadedTime": 419,
+    "tti": 413,
+    "fullyLoadedTime": 796,
+    "lcp": {
+      "value": 500,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 796,
+    "domReadyTime": 653,
+    "firstPaint": 134,
+    "firstContentfulPaint": 413,
+    "pageSize": 21863,
+    "domSize": 269
+  },
+  "https://phys.spbu.ru/studying/studencheskij-sovet.html": {
+    "url": "https://phys.spbu.ru/studying/studencheskij-sovet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 142,
+    "ttfb": 142,
+    "domContentLoadedTime": 414,
+    "tti": 407,
+    "fullyLoadedTime": 900,
+    "lcp": {
+      "value": 452,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 900,
+    "domReadyTime": 707,
+    "firstPaint": 188,
+    "firstContentfulPaint": 407,
+    "pageSize": 20071,
+    "domSize": 250
+  },
+  "https://phys.spbu.ru/studying/perevody-vosstan.html": {
+    "url": "https://phys.spbu.ru/studying/perevody-vosstan.html",
+    "redirectTime": 0,
+    "serverResponseTime": 131,
+    "ttfb": 130,
+    "domContentLoadedTime": 457,
+    "tti": 451,
+    "fullyLoadedTime": 695,
+    "lcp": {
+      "value": 492,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 695,
+    "domReadyTime": 492,
+    "firstPaint": 197,
+    "firstContentfulPaint": 451,
+    "pageSize": 22363,
+    "domSize": 267
+  },
+  "https://phys.spbu.ru/dekanat.html": {
+    "url": "https://phys.spbu.ru/dekanat.html",
+    "redirectTime": 0,
+    "serverResponseTime": 84,
+    "ttfb": 83,
+    "domContentLoadedTime": 423,
+    "tti": 415,
+    "fullyLoadedTime": 766,
+    "lcp": {
+      "value": 448,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/content/File/deanery/photos/kovalchuk.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 766,
+    "domReadyTime": 541,
+    "firstPaint": 217,
+    "firstContentfulPaint": 415,
+    "pageSize": 23726,
+    "domSize": 283
+  },
+  "https://phys.spbu.ru/dekanat/studotdel.html": {
+    "url": "https://phys.spbu.ru/dekanat/studotdel.html",
+    "redirectTime": 0,
+    "serverResponseTime": 87,
+    "ttfb": 85,
+    "domContentLoadedTime": 863,
+    "tti": 855,
+    "fullyLoadedTime": 1163,
+    "lcp": {
+      "value": 968,
+      "lcpElementType": "text",
+      "lcpElementTag": "h3",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1163,
+    "domReadyTime": 751,
+    "firstPaint": 405,
+    "firstContentfulPaint": 855,
+    "pageSize": 24561,
+    "domSize": 343
+  },
+  "https://phys.spbu.ru/dekanat/uchmet.html": {
+    "url": "https://phys.spbu.ru/dekanat/uchmet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 74,
+    "ttfb": 73,
+    "domContentLoadedTime": 838,
+    "tti": 830,
+    "fullyLoadedTime": 1400,
+    "lcp": {
+      "value": 904,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1400,
+    "domReadyTime": 942,
+    "firstPaint": 448,
+    "firstContentfulPaint": 830,
+    "pageSize": 20488,
+    "domSize": 257
+  },
+  "https://phys.spbu.ru/dekanat/otdel-tekhnicheskoj-podderzhki.html": {
+    "url": "https://phys.spbu.ru/dekanat/otdel-tekhnicheskoj-podderzhki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 313,
+    "ttfb": 311,
+    "domContentLoadedTime": 910,
+    "tti": 903,
+    "fullyLoadedTime": 1335,
+    "lcp": {
+      "value": 988,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1335,
+    "domReadyTime": 854,
+    "firstPaint": 473,
+    "firstContentfulPaint": 903,
+    "pageSize": 19727,
+    "domSize": 243
+  },
+  "https://phys.spbu.ru/dekanat/otdel-dokumentatsionnogo-obespecheniya.html": {
+    "url": "https://phys.spbu.ru/dekanat/otdel-dokumentatsionnogo-obespecheniya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 78,
+    "ttfb": 77,
+    "domContentLoadedTime": 318,
+    "tti": 311,
+    "fullyLoadedTime": 560,
+    "lcp": {
+      "value": 384,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 560,
+    "domReadyTime": 414,
+    "firstPaint": 140,
+    "firstContentfulPaint": 311,
+    "pageSize": 20733,
+    "domSize": 265
+  },
+  "https://phys.spbu.ru/vypuskniku.html": {
+    "url": "https://phys.spbu.ru/vypuskniku.html",
+    "redirectTime": 0,
+    "serverResponseTime": 69,
+    "ttfb": 69,
+    "domContentLoadedTime": 296,
+    "tti": 291,
+    "fullyLoadedTime": 538,
+    "lcp": {
+      "value": 328,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 538,
+    "domReadyTime": 411,
+    "firstPaint": 124,
+    "firstContentfulPaint": 291,
+    "pageSize": 19724,
+    "domSize": 264
+  },
+  "https://phys.spbu.ru/library.html": {
+    "url": "https://phys.spbu.ru/library.html",
+    "redirectTime": 0,
+    "serverResponseTime": 110,
+    "ttfb": 94,
+    "domContentLoadedTime": 312,
+    "tti": 306,
+    "fullyLoadedTime": 581,
+    "lcp": {
+      "value": 400,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 581,
+    "domReadyTime": 436,
+    "firstPaint": 140,
+    "firstContentfulPaint": 306,
+    "pageSize": 47123,
+    "domSize": 557
+  },
+  "https://phys.spbu.ru/#offcanvas": {
+    "url": "https://phys.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 96,
+    "ttfb": 95,
+    "domContentLoadedTime": 1716,
+    "tti": 1705,
+    "fullyLoadedTime": 2065,
+    "lcp": {
+      "value": 1788,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://phys.spbu.ru/images/phys-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2065,
+    "domReadyTime": 623,
+    "firstPaint": 1433,
+    "firstContentfulPaint": 1705,
+    "pageSize": 39142,
+    "domSize": 335
+  }
+}

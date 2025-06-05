@@ -1,0 +1,1474 @@
+{
+  "https://econ.spbu.ru/ru": {
+    "url": "https://econ.spbu.ru/ru",
+    "redirectTime": 0,
+    "serverResponseTime": 52,
+    "ttfb": 34,
+    "domContentLoadedTime": 330,
+    "tti": 318,
+    "fullyLoadedTime": 569,
+    "lcp": {
+      "value": 540,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/slider819/public/photo_2023-04-28_15-23-30.jpg?itok=lP6kJeLf",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 569,
+    "domReadyTime": 484,
+    "firstPaint": 81,
+    "firstContentfulPaint": 318,
+    "pageSize": 179233,
+    "domSize": 838
+  },
+  "https://econ.spbu.ru/ru#": {
+    "url": "https://econ.spbu.ru/ru#",
+    "redirectTime": 0,
+    "serverResponseTime": 52,
+    "ttfb": 34,
+    "domContentLoadedTime": 265,
+    "tti": 254,
+    "fullyLoadedTime": 623,
+    "lcp": {
+      "value": 336,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/slider819/public/photo_2023-04-28_15-23-30.jpg?itok=lP6kJeLf",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 623,
+    "domReadyTime": 542,
+    "firstPaint": 78,
+    "firstContentfulPaint": 254,
+    "pageSize": 179094,
+    "domSize": 837
+  },
+  "https://econ.spbu.ru/ru/o-fakultete": {
+    "url": "https://econ.spbu.ru/ru/o-fakultete",
+    "redirectTime": 0,
+    "serverResponseTime": 78,
+    "ttfb": 43,
+    "domContentLoadedTime": 578,
+    "tti": 572,
+    "fullyLoadedTime": 823,
+    "lcp": {
+      "value": 656,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 823,
+    "domReadyTime": 419,
+    "firstPaint": 397,
+    "firstContentfulPaint": 572,
+    "pageSize": 196437,
+    "domSize": 915
+  },
+  "https://econ.spbu.ru/ru#collapse-mobile-0": {
+    "url": "https://econ.spbu.ru/ru#collapse-mobile-0",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 35,
+    "domContentLoadedTime": 650,
+    "tti": 628,
+    "fullyLoadedTime": 938,
+    "lcp": {
+      "value": 696,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/slider819/public/photo_2023-04-28_15-23-30.jpg?itok=lP6kJeLf",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 938,
+    "domReadyTime": 853,
+    "firstPaint": 80,
+    "firstContentfulPaint": 628,
+    "pageSize": 179094,
+    "domSize": 837
+  },
+  "https://econ.spbu.ru/ru/fakultet/istoriya-fakulteta": {
+    "url": "https://econ.spbu.ru/ru/fakultet/istoriya-fakulteta",
+    "redirectTime": 0,
+    "serverResponseTime": 52,
+    "ttfb": 33,
+    "domContentLoadedTime": 404,
+    "tti": 397,
+    "fullyLoadedTime": 607,
+    "lcp": {
+      "value": 292,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/leadimage/public/otkrytka_esk3.jpg?itok=qE46Xo1n",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 607,
+    "domReadyTime": 524,
+    "firstPaint": 81,
+    "firstContentfulPaint": 397,
+    "pageSize": 209928,
+    "domSize": 954
+  },
+  "https://econ.spbu.ru/ru/o-fakultete/apparat-dekana": {
+    "url": "https://econ.spbu.ru/ru/o-fakultete/apparat-dekana",
+    "redirectTime": 0,
+    "serverResponseTime": 51,
+    "ttfb": 30,
+    "domContentLoadedTime": 251,
+    "tti": 244,
+    "fullyLoadedTime": 484,
+    "lcp": {
+      "value": 268,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/portret240_grey/public/margania.jpg?itok=0IC30fQ-",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 484,
+    "domReadyTime": 404,
+    "firstPaint": 77,
+    "firstContentfulPaint": 244,
+    "pageSize": 191821,
+    "domSize": 900
+  },
+  "https://econ.spbu.ru/ru/fakultet/kafedry-fakulteta": {
+    "url": "https://econ.spbu.ru/ru/fakultet/kafedry-fakulteta",
+    "redirectTime": 0,
+    "serverResponseTime": 119,
+    "ttfb": 99,
+    "domContentLoadedTime": 1526,
+    "tti": 1520,
+    "fullyLoadedTime": 2967,
+    "lcp": {
+      "value": 1604,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/thumb69x67/public/img_2475.jpg?itok=WzJUEPaF",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2967,
+    "domReadyTime": 1610,
+    "firstPaint": 1350,
+    "firstContentfulPaint": 1520,
+    "pageSize": 193623,
+    "domSize": 901
+  },
+  "https://econ.spbu.ru/ru/fakultet/strukturnye-podrazdeleniya-rektorata": {
+    "url": "https://econ.spbu.ru/ru/fakultet/strukturnye-podrazdeleniya-rektorata",
+    "redirectTime": 0,
+    "serverResponseTime": 149,
+    "ttfb": 125,
+    "domContentLoadedTime": 371,
+    "tti": 365,
+    "fullyLoadedTime": 603,
+    "lcp": {
+      "value": 396,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 603,
+    "domReadyTime": 419,
+    "firstPaint": 176,
+    "firstContentfulPaint": 365,
+    "pageSize": 190106,
+    "domSize": 889
+  },
+  "https://econ.spbu.ru/ru/fakultet/sodruzhestvo-ekonomistov-vypusknikov-spbgu": {
+    "url": "https://econ.spbu.ru/ru/fakultet/sodruzhestvo-ekonomistov-vypusknikov-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 168,
+    "ttfb": 132,
+    "domContentLoadedTime": 2005,
+    "tti": 1999,
+    "fullyLoadedTime": 2784,
+    "lcp": {
+      "value": 2048,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2784,
+    "domReadyTime": 1026,
+    "firstPaint": 1750,
+    "firstContentfulPaint": 1999,
+    "pageSize": 203644,
+    "domSize": 1007
+  },
+  "https://econ.spbu.ru/ru/fakultet/contacts": {
+    "url": "https://econ.spbu.ru/ru/fakultet/contacts",
+    "redirectTime": 0,
+    "serverResponseTime": 313,
+    "ttfb": 167,
+    "domContentLoadedTime": 1234,
+    "tti": 1212,
+    "fullyLoadedTime": 1670,
+    "lcp": {
+      "value": 1416,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/slider/public/dsc_1025.jpg?itok=W0FcqZX2",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1670,
+    "domReadyTime": 1337,
+    "firstPaint": 327,
+    "firstContentfulPaint": 1212,
+    "pageSize": 201549,
+    "domSize": 1034
+  },
+  "https://econ.spbu.ru/ru/o-fakultete/svedeniya-ob-akkreditaciyah-obrazovatelnyh-programm": {
+    "url": "https://econ.spbu.ru/ru/o-fakultete/svedeniya-ob-akkreditaciyah-obrazovatelnyh-programm",
+    "redirectTime": 0,
+    "serverResponseTime": 133,
+    "ttfb": 98,
+    "domContentLoadedTime": 644,
+    "tti": 637,
+    "fullyLoadedTime": 878,
+    "lcp": {
+      "value": 664,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 878,
+    "domReadyTime": 423,
+    "firstPaint": 447,
+    "firstContentfulPaint": 637,
+    "pageSize": 216894,
+    "domSize": 1165
+  },
+  "https://econ.spbu.ru/ru/postupayushchim": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim",
+    "redirectTime": 0,
+    "serverResponseTime": 84,
+    "ttfb": 48,
+    "domContentLoadedTime": 306,
+    "tti": 298,
+    "fullyLoadedTime": 893,
+    "lcp": {
+      "value": 336,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 893,
+    "domReadyTime": 779,
+    "firstPaint": 109,
+    "firstContentfulPaint": 298,
+    "pageSize": 205140,
+    "domSize": 1032
+  },
+  "https://econ.spbu.ru/ru#collapse-mobile-1": {
+    "url": "https://econ.spbu.ru/ru#collapse-mobile-1",
+    "redirectTime": 0,
+    "serverResponseTime": 68,
+    "ttfb": 49,
+    "domContentLoadedTime": 289,
+    "tti": 277,
+    "fullyLoadedTime": 60217,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/slider819/public/photo_2023-04-28_15-23-30.jpg?itok=lP6kJeLf",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60217,
+    "domReadyTime": 60112,
+    "firstPaint": 100,
+    "firstContentfulPaint": 277,
+    "pageSize": 179088,
+    "domSize": 836
+  },
+  "https://econ.spbu.ru/ru/postupayushchim/bakalavriat": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim/bakalavriat",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 33,
+    "domContentLoadedTime": 573,
+    "tti": 567,
+    "fullyLoadedTime": 787,
+    "lcp": {
+      "value": 616,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 787,
+    "domReadyTime": 397,
+    "firstPaint": 383,
+    "firstContentfulPaint": 567,
+    "pageSize": 171123,
+    "domSize": 791
+  },
+  "https://econ.spbu.ru/ru/postupayushchim/magistratura": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim/magistratura",
+    "redirectTime": 0,
+    "serverResponseTime": 82,
+    "ttfb": 34,
+    "domContentLoadedTime": 268,
+    "tti": 262,
+    "fullyLoadedTime": 504,
+    "lcp": {
+      "value": 296,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 504,
+    "domReadyTime": 418,
+    "firstPaint": 82,
+    "firstContentfulPaint": 262,
+    "pageSize": 178289,
+    "domSize": 849
+  },
+  "https://econ.spbu.ru/ru/postupayushchim/aspirantura": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim/aspirantura",
+    "redirectTime": 0,
+    "serverResponseTime": 53,
+    "ttfb": 34,
+    "domContentLoadedTime": 258,
+    "tti": 251,
+    "fullyLoadedTime": 60196,
+    "lcp": {
+      "value": 292,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60196,
+    "domReadyTime": 60111,
+    "firstPaint": 80,
+    "firstContentfulPaint": 251,
+    "pageSize": 169317,
+    "domSize": 758
+  },
+  "https://econ.spbu.ru/ru/postupayushchim/podgotovitelnye-kursy": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim/podgotovitelnye-kursy",
+    "redirectTime": 0,
+    "serverResponseTime": 65,
+    "ttfb": 45,
+    "domContentLoadedTime": 300,
+    "tti": 295,
+    "fullyLoadedTime": 507,
+    "lcp": {
+      "value": 324,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 507,
+    "domReadyTime": 411,
+    "firstPaint": 92,
+    "firstContentfulPaint": 295,
+    "pageSize": 171638,
+    "domSize": 764
+  },
+  "https://econ.spbu.ru/ru/postupayushchim/ekonomiko-matematicheskaya-shkola": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim/ekonomiko-matematicheskaya-shkola",
+    "redirectTime": 0,
+    "serverResponseTime": 129,
+    "ttfb": 105,
+    "domContentLoadedTime": 333,
+    "tti": 328,
+    "fullyLoadedTime": 688,
+    "lcp": {
+      "value": 356,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 688,
+    "domReadyTime": 526,
+    "firstPaint": 155,
+    "firstContentfulPaint": 328,
+    "pageSize": 180754,
+    "domSize": 805
+  },
+  "https://econ.spbu.ru/ru/postupayushchim/povyshenie-kvalifikacii-prepodavateley": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim/povyshenie-kvalifikacii-prepodavateley",
+    "redirectTime": 0,
+    "serverResponseTime": 180,
+    "ttfb": 156,
+    "domContentLoadedTime": 1136,
+    "tti": 1129,
+    "fullyLoadedTime": 4077,
+    "lcp": {
+      "value": 1032,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4077,
+    "domReadyTime": 3482,
+    "firstPaint": 588,
+    "firstContentfulPaint": 1129,
+    "pageSize": 170388,
+    "domSize": 766
+  },
+  "https://econ.spbu.ru/ru/postupayushchim/programmy-dlya-lic-s-vysshim-obrazovaniem": {
+    "url": "https://econ.spbu.ru/ru/postupayushchim/programmy-dlya-lic-s-vysshim-obrazovaniem",
+    "redirectTime": 0,
+    "serverResponseTime": 165,
+    "ttfb": 112,
+    "domContentLoadedTime": 484,
+    "tti": 477,
+    "fullyLoadedTime": 1680,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1680,
+    "domReadyTime": 1515,
+    "firstPaint": 160,
+    "firstContentfulPaint": 477,
+    "pageSize": 170965,
+    "domSize": 767
+  },
+  "https://econ.spbu.ru/ru/studentam": {
+    "url": "https://econ.spbu.ru/ru/studentam",
+    "redirectTime": 0,
+    "serverResponseTime": 136,
+    "ttfb": 114,
+    "domContentLoadedTime": 348,
+    "tti": 342,
+    "fullyLoadedTime": 563,
+    "lcp": {
+      "value": 404,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 563,
+    "domReadyTime": 393,
+    "firstPaint": 163,
+    "firstContentfulPaint": 342,
+    "pageSize": 189958,
+    "domSize": 911
+  },
+  "https://econ.spbu.ru/ru/v-spbgu-rabotaet-proekt-akademiya-predprinimatelstva#overlay-context=ru": {
+    "url": "https://econ.spbu.ru/ru/v-spbgu-rabotaet-proekt-akademiya-predprinimatelstva#overlay-context=ru",
+    "redirectTime": 0,
+    "serverResponseTime": 582,
+    "ttfb": 364,
+    "domContentLoadedTime": 3450,
+    "tti": 3437,
+    "fullyLoadedTime": 4151,
+    "lcp": {
+      "value": 3452,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/leadimage/public/zastavka_1.jpg?itok=HiFAlYSg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4151,
+    "domReadyTime": 2166,
+    "firstPaint": 1977,
+    "firstContentfulPaint": 3437,
+    "pageSize": 199858,
+    "domSize": 929
+  },
+  "https://econ.spbu.ru/ru/studentam/rasporyazheniya-ob-utverzhdenii-raspisaniya-zanyatiy": {
+    "url": "https://econ.spbu.ru/ru/studentam/rasporyazheniya-ob-utverzhdenii-raspisaniya-zanyatiy",
+    "redirectTime": 0,
+    "serverResponseTime": 180,
+    "ttfb": 157,
+    "domContentLoadedTime": 379,
+    "tti": 373,
+    "fullyLoadedTime": 762,
+    "lcp": {
+      "value": 392,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 762,
+    "domReadyTime": 552,
+    "firstPaint": 203,
+    "firstContentfulPaint": 373,
+    "pageSize": 169847,
+    "domSize": 775
+  },
+  "https://econ.spbu.ru/ru/fakultet/infrastruktura": {
+    "url": "https://econ.spbu.ru/ru/fakultet/infrastruktura",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 34,
+    "domContentLoadedTime": 265,
+    "tti": 260,
+    "fullyLoadedTime": 480,
+    "lcp": {
+      "value": 296,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 480,
+    "domReadyTime": 395,
+    "firstPaint": 81,
+    "firstContentfulPaint": 260,
+    "pageSize": 168339,
+    "domSize": 752
+  },
+  "https://econ.spbu.ru/ru/studentam/studencheskiy-sovet-ekonomicheskogo-fakulteta": {
+    "url": "https://econ.spbu.ru/ru/studentam/studencheskiy-sovet-ekonomicheskogo-fakulteta",
+    "redirectTime": 0,
+    "serverResponseTime": 178,
+    "ttfb": 156,
+    "domContentLoadedTime": 383,
+    "tti": 376,
+    "fullyLoadedTime": 579,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/leadimage/public/000041_01.jpg?itok=49YtQuUM",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 579,
+    "domReadyTime": 370,
+    "firstPaint": 202,
+    "firstContentfulPaint": 376,
+    "pageSize": 176252,
+    "domSize": 806
+  },
+  "https://econ.spbu.ru/ru/studentam/rekvizity-spbgu": {
+    "url": "https://econ.spbu.ru/ru/studentam/rekvizity-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 68,
+    "ttfb": 48,
+    "domContentLoadedTime": 262,
+    "tti": 256,
+    "fullyLoadedTime": 496,
+    "lcp": {
+      "value": 292,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 496,
+    "domReadyTime": 398,
+    "firstPaint": 93,
+    "firstContentfulPaint": 256,
+    "pageSize": 168610,
+    "domSize": 762
+  },
+  "https://econ.spbu.ru/ru/studentam/vybor-elektivnyh-disciplin": {
+    "url": "https://econ.spbu.ru/ru/studentam/vybor-elektivnyh-disciplin",
+    "redirectTime": 0,
+    "serverResponseTime": 161,
+    "ttfb": 138,
+    "domContentLoadedTime": 362,
+    "tti": 357,
+    "fullyLoadedTime": 564,
+    "lcp": {
+      "value": 380,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 564,
+    "domReadyTime": 373,
+    "firstPaint": 183,
+    "firstContentfulPaint": 357,
+    "pageSize": 168311,
+    "domSize": 746
+  },
+  "https://econ.spbu.ru/ru/studentam/mezhdunarodnaya-deyatelnost-0": {
+    "url": "https://econ.spbu.ru/ru/studentam/mezhdunarodnaya-deyatelnost-0",
+    "redirectTime": 0,
+    "serverResponseTime": 52,
+    "ttfb": 32,
+    "domContentLoadedTime": 240,
+    "tti": 234,
+    "fullyLoadedTime": 727,
+    "lcp": {
+      "value": 260,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 727,
+    "domReadyTime": 640,
+    "firstPaint": 85,
+    "firstContentfulPaint": 234,
+    "pageSize": 175019,
+    "domSize": 773
+  },
+  "https://econ.spbu.ru/ru/studentam/perevody-i-vosstanovleniya": {
+    "url": "https://econ.spbu.ru/ru/studentam/perevody-i-vosstanovleniya",
+    "redirectTime": 0,
+    "serverResponseTime": 186,
+    "ttfb": 162,
+    "domContentLoadedTime": 399,
+    "tti": 393,
+    "fullyLoadedTime": 700,
+    "lcp": {
+      "value": 428,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 700,
+    "domReadyTime": 474,
+    "firstPaint": 220,
+    "firstContentfulPaint": 393,
+    "pageSize": 169524,
+    "domSize": 759
+  },
+  "https://econ.spbu.ru/ru/studentam/praktika-dlya-obuchayushchihsya": {
+    "url": "https://econ.spbu.ru/ru/studentam/praktika-dlya-obuchayushchihsya",
+    "redirectTime": 0,
+    "serverResponseTime": 118,
+    "ttfb": 98,
+    "domContentLoadedTime": 320,
+    "tti": 314,
+    "fullyLoadedTime": 520,
+    "lcp": {
+      "value": 360,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 520,
+    "domReadyTime": 371,
+    "firstPaint": 144,
+    "firstContentfulPaint": 314,
+    "pageSize": 175020,
+    "domSize": 818
+  },
+  "https://econ.spbu.ru/ru/studentam/centr-karer-spbgu-ekonomika": {
+    "url": "https://econ.spbu.ru/ru/studentam/centr-karer-spbgu-ekonomika",
+    "redirectTime": 0,
+    "serverResponseTime": 169,
+    "ttfb": 149,
+    "domContentLoadedTime": 463,
+    "tti": 457,
+    "fullyLoadedTime": 741,
+    "lcp": {
+      "value": 544,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/avatar_long_0.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 741,
+    "domReadyTime": 538,
+    "firstPaint": 196,
+    "firstContentfulPaint": 457,
+    "pageSize": 177376,
+    "domSize": 868
+  },
+  "https://econ.spbu.ru/ru/studentam/shkola-biznesa": {
+    "url": "https://econ.spbu.ru/ru/studentam/shkola-biznesa",
+    "redirectTime": 0,
+    "serverResponseTime": 56,
+    "ttfb": 38,
+    "domContentLoadedTime": 253,
+    "tti": 247,
+    "fullyLoadedTime": 613,
+    "lcp": {
+      "value": 276,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 613,
+    "domReadyTime": 525,
+    "firstPaint": 85,
+    "firstContentfulPaint": 247,
+    "pageSize": 173769,
+    "domSize": 785
+  },
+  "https://econ.spbu.ru/ru/sotrudnikam": {
+    "url": "https://econ.spbu.ru/ru/sotrudnikam",
+    "redirectTime": 0,
+    "serverResponseTime": 58,
+    "ttfb": 39,
+    "domContentLoadedTime": 257,
+    "tti": 251,
+    "fullyLoadedTime": 614,
+    "lcp": {
+      "value": 280,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 614,
+    "domReadyTime": 524,
+    "firstPaint": 86,
+    "firstContentfulPaint": 251,
+    "pageSize": 194865,
+    "domSize": 972
+  },
+  "https://econ.spbu.ru/ru/nauka": {
+    "url": "https://econ.spbu.ru/ru/nauka",
+    "redirectTime": 0,
+    "serverResponseTime": 51,
+    "ttfb": 30,
+    "domContentLoadedTime": 519,
+    "tti": 512,
+    "fullyLoadedTime": 781,
+    "lcp": {
+      "value": 612,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 781,
+    "domReadyTime": 698,
+    "firstPaint": 78,
+    "firstContentfulPaint": 512,
+    "pageSize": 190277,
+    "domSize": 890
+  },
+  "https://econ.spbu.ru/ru#collapse-mobile-4": {
+    "url": "https://econ.spbu.ru/ru#collapse-mobile-4",
+    "redirectTime": 0,
+    "serverResponseTime": 66,
+    "ttfb": 47,
+    "domContentLoadedTime": 516,
+    "tti": 496,
+    "fullyLoadedTime": 8011,
+    "lcp": {
+      "value": 556,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/slider819/public/photo_2023-04-28_15-23-30.jpg?itok=lP6kJeLf",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 8011,
+    "domReadyTime": 7904,
+    "firstPaint": 102,
+    "firstContentfulPaint": 496,
+    "pageSize": 179087,
+    "domSize": 836
+  },
+  "https://econ.spbu.ru/ru/nauka/ekonomisty-pochetnye-professora-spbgu": {
+    "url": "https://econ.spbu.ru/ru/nauka/ekonomisty-pochetnye-professora-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 186,
+    "ttfb": 164,
+    "domContentLoadedTime": 384,
+    "tti": 379,
+    "fullyLoadedTime": 728,
+    "lcp": {
+      "value": 428,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 728,
+    "domReadyTime": 510,
+    "firstPaint": 210,
+    "firstContentfulPaint": 379,
+    "pageSize": 169852,
+    "domSize": 738
+  },
+  "https://econ.spbu.ru/ru/nauka/sovety-i-komissii": {
+    "url": "https://econ.spbu.ru/ru/nauka/sovety-i-komissii",
+    "redirectTime": 0,
+    "serverResponseTime": 161,
+    "ttfb": 126,
+    "domContentLoadedTime": 1624,
+    "tti": 1618,
+    "fullyLoadedTime": 2153,
+    "lcp": {
+      "value": 1632,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2153,
+    "domReadyTime": 760,
+    "firstPaint": 1386,
+    "firstContentfulPaint": 1618,
+    "pageSize": 162698,
+    "domSize": 693
+  },
+  "https://econ.spbu.ru/ru/nauka/laboratorii-i-centry": {
+    "url": "https://econ.spbu.ru/ru/nauka/laboratorii-i-centry",
+    "redirectTime": 0,
+    "serverResponseTime": 380,
+    "ttfb": 354,
+    "domContentLoadedTime": 1806,
+    "tti": 1800,
+    "fullyLoadedTime": 3239,
+    "lcp": {
+      "value": 1848,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/thumb69x67/public/img_2754_0.jpg?itok=LJFKvWFv",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3239,
+    "domReadyTime": 1613,
+    "firstPaint": 1619,
+    "firstContentfulPaint": 1800,
+    "pageSize": 164529,
+    "domSize": 691
+  },
+  "https://econ.spbu.ru/ru/nauka/konkursy-i-granty": {
+    "url": "https://econ.spbu.ru/ru/nauka/konkursy-i-granty",
+    "redirectTime": 0,
+    "serverResponseTime": 257,
+    "ttfb": 236,
+    "domContentLoadedTime": 468,
+    "tti": 463,
+    "fullyLoadedTime": 686,
+    "lcp": {
+      "value": 488,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 686,
+    "domReadyTime": 394,
+    "firstPaint": 284,
+    "firstContentfulPaint": 463,
+    "pageSize": 162402,
+    "domSize": 694
+  },
+  "https://econ.spbu.ru/ru/nauka/vestnik-spbgu": {
+    "url": "https://econ.spbu.ru/ru/nauka/vestnik-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 63,
+    "ttfb": 28,
+    "domContentLoadedTime": 1569,
+    "tti": 1563,
+    "fullyLoadedTime": 3120,
+    "lcp": {
+      "value": 1564,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3120,
+    "domReadyTime": 1823,
+    "firstPaint": 1290,
+    "firstContentfulPaint": 1563,
+    "pageSize": 176073,
+    "domSize": 731
+  },
+  "https://econ.spbu.ru/ru/nauka/ekonomisty-na-forume-truda": {
+    "url": "https://econ.spbu.ru/ru/nauka/ekonomisty-na-forume-truda",
+    "redirectTime": 0,
+    "serverResponseTime": 71,
+    "ttfb": 39,
+    "domContentLoadedTime": 257,
+    "tti": 251,
+    "fullyLoadedTime": 652,
+    "lcp": {
+      "value": 284,
+      "lcpElementType": "text",
+      "lcpElementTag": "h2"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 652,
+    "domReadyTime": 563,
+    "firstPaint": 84,
+    "firstContentfulPaint": 251,
+    "pageSize": 191570,
+    "domSize": 796
+  },
+  "https://econ.spbu.ru/ru/nauka/spisok-i-reyting-nauchno-pedagogicheskih-rabotnikov": {
+    "url": "https://econ.spbu.ru/ru/nauka/spisok-i-reyting-nauchno-pedagogicheskih-rabotnikov",
+    "redirectTime": 0,
+    "serverResponseTime": 75,
+    "ttfb": 41,
+    "domContentLoadedTime": 291,
+    "tti": 282,
+    "fullyLoadedTime": 500,
+    "lcp": {
+      "value": 316,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 500,
+    "domReadyTime": 398,
+    "firstPaint": 99,
+    "firstContentfulPaint": 282,
+    "pageSize": 221700,
+    "domSize": 1985
+  },
+  "https://econ.spbu.ru/ru/news-events": {
+    "url": "https://econ.spbu.ru/ru/news-events",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 36,
+    "domContentLoadedTime": 356,
+    "tti": 347,
+    "fullyLoadedTime": 547,
+    "lcp": {
+      "value": 400,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/leadimage_preview/public/ks25_graphic_main_sc.png-12.jpg?itok=3UWqiDXz",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 547,
+    "domReadyTime": 459,
+    "firstPaint": 84,
+    "firstContentfulPaint": 347,
+    "pageSize": 178289,
+    "domSize": 835
+  },
+  "https://econ.spbu.ru/ru#collapse-mobile-9": {
+    "url": "https://econ.spbu.ru/ru#collapse-mobile-9",
+    "redirectTime": 0,
+    "serverResponseTime": 226,
+    "ttfb": 203,
+    "domContentLoadedTime": 458,
+    "tti": 446,
+    "fullyLoadedTime": 819,
+    "lcp": {
+      "value": 536,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/slider819/public/photo_2023-04-28_15-23-30.jpg?itok=lP6kJeLf",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 819,
+    "domReadyTime": 564,
+    "firstPaint": 249,
+    "firstContentfulPaint": 446,
+    "pageSize": 179094,
+    "domSize": 837
+  },
+  "https://econ.spbu.ru/ru/news-events/news": {
+    "url": "https://econ.spbu.ru/ru/news-events/news",
+    "redirectTime": 0,
+    "serverResponseTime": 199,
+    "ttfb": 181,
+    "domContentLoadedTime": 401,
+    "tti": 394,
+    "fullyLoadedTime": 606,
+    "lcp": {
+      "value": 416,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 606,
+    "domReadyTime": 377,
+    "firstPaint": 225,
+    "firstContentfulPaint": 394,
+    "pageSize": 167372,
+    "domSize": 770
+  },
+  "https://econ.spbu.ru/ru/news-events/events": {
+    "url": "https://econ.spbu.ru/ru/news-events/events",
+    "redirectTime": 0,
+    "serverResponseTime": 106,
+    "ttfb": 87,
+    "domContentLoadedTime": 331,
+    "tti": 320,
+    "fullyLoadedTime": 563,
+    "lcp": {
+      "value": 368,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 563,
+    "domReadyTime": 418,
+    "firstPaint": 139,
+    "firstContentfulPaint": 320,
+    "pageSize": 158124,
+    "domSize": 677
+  },
+  "https://econ.spbu.ru/ru/news-events/adverts": {
+    "url": "https://econ.spbu.ru/ru/news-events/adverts",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 37,
+    "domContentLoadedTime": 246,
+    "tti": 241,
+    "fullyLoadedTime": 794,
+    "lcp": {
+      "value": 300,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 794,
+    "domReadyTime": 708,
+    "firstPaint": 83,
+    "firstContentfulPaint": 241,
+    "pageSize": 158412,
+    "domSize": 692
+  },
+  "https://econ.spbu.ru/ru/people": {
+    "url": "https://econ.spbu.ru/ru/people",
+    "redirectTime": 0,
+    "serverResponseTime": 77,
+    "ttfb": 28,
+    "domContentLoadedTime": 477,
+    "tti": 470,
+    "fullyLoadedTime": 668,
+    "lcp": {
+      "value": 332,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://econ.spbu.ru/sites/default/files/styles/portret240_grey/public/alipov.jpg?itok=0EvA322_",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 668,
+    "domReadyTime": 579,
+    "firstPaint": 86,
+    "firstContentfulPaint": 470,
+    "pageSize": 201488,
+    "domSize": 995
+  }
+}

@@ -1,6 +1,3 @@
-import { Page } from 'puppeteer';
-import { PageData } from '../types/pageData';
-// import { AnalysisResult } from '../types/analysisResult';
 import { loadPage } from '../loaders/pageLoader';
 import { analyzePage } from '../analyzers/analyzer';
 import { generateRecommendations } from '../recommendations/recommendationsEngine';
@@ -9,7 +6,7 @@ import { config } from '../config/config';
 import { logger } from '../utils/logger';
 import { crawlDomain } from '../loaders/crawlDomain';
 import { averagePerformanceMetrics } from '../utils/averagePerformanceMetrics';
-// import { calculatePerformanceScore } from '../utils/performanceScore';
+
 export class MainController {
   private url: string;
 
@@ -21,28 +18,49 @@ export class MainController {
     try {
       logger.info(`Starting analysis for URL: ${this.url}`);
 
-      // Step 1: Load page and collect raw data
+      if (config.crawling){
+        const { pageDataArray } = await crawlDomain(this.url, 100);
 
-      const pageData = await loadPage(this.url);
-      // const pageDataArray = await crawlDomain(this.url, 3);
-      // const analysisResultArray = await Promise.all(pageDataArray.map(async (pageData) => {
-      //   const pageMetrics = await analyzePage(pageData);
-      //   if (pageMetrics.domContentLoadedTime < 0 || pageMetrics.loadTime < 0) return null
-      //   return pageMetrics
+        const analysisResultArray = await Promise.all(pageDataArray.map(async (pageData) => {
+          const pageMetrics = await analyzePage(pageData);
+          if (pageMetrics.domContentLoadedTime < 0 || pageMetrics.loadTime < 0) return null
+          return pageMetrics
+        }));
+        const {averageAnalysisResult, metricsObject} = averagePerformanceMetrics(analysisResultArray);
+        
+        const pageData = await loadPage(this.url);
 
-      // }));
-      // Step 2: Analyze collected data
-      const  analysisResult = await analyzePage(pageData);
-      // const analysisResult = averagePerformanceMetrics(analysisResultArray);
-      // Step 3: Generate recommendations
-      const recommendationObject = await generateRecommendations(analysisResult);
+        // Step 2: Analyze collected data
+        const  analysisResult = await analyzePage(pageData);
+        // Step 3: Generate recommendations
+        const recommendationObject = await generateRecommendations(analysisResult);
+        await generateReport({
+          ...analysisResult,
+          metricsObject,
+          url: this.url,
+          recommendationObject,
+        });
+        
 
-      // Step 4: Generate report
-      await generateReport({
-        url: this.url,
-        ...analysisResult,
-        recommendationObject,
-      });
+
+
+      }else{
+        const pageData = await loadPage(this.url);
+
+        // Step 2: Analyze collected data
+        const  analysisResult = await analyzePage(pageData);
+        // Step 3: Generate recommendations
+        const recommendationObject = await generateRecommendations(analysisResult);
+              // Step 4: Generate report
+        // await generateReport({
+        //   ...analysisResult,
+        //   url: this.url,
+        //   recommendationObject,
+        // });
+
+      }
+
+
 
       logger.info('Analysis completed successfully');
     } catch (error: any) {

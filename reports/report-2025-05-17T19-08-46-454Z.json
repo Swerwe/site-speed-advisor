@@ -1,0 +1,34 @@
+{
+  "https://chem.spbu.ru/": {
+    "url": "https://chem.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 117,
+    "ttfb": 97,
+    "domContentLoadedTime": 704,
+    "tti": 685,
+    "fullyLoadedTime": 3589,
+    "lcp": {
+      "value": 2276,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://chem.spbu.ru/images/nedchem.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3589,
+    "domReadyTime": 3351,
+    "firstPaint": 226,
+    "firstContentfulPaint": 685,
+    "pageSize": 71438,
+    "domSize": 804
+  }
+}

@@ -1,0 +1,1600 @@
+{
+  "https://math-cs.spbu.ru/": {
+    "url": "https://math-cs.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 413,
+    "ttfb": 412,
+    "domContentLoadedTime": 1971,
+    "tti": 1960,
+    "fullyLoadedTime": 2722,
+    "lcp": {
+      "value": 2448,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2722,
+    "domReadyTime": 1035,
+    "firstPaint": 1678,
+    "firstContentfulPaint": 1960,
+    "pageSize": 67541,
+    "domSize": 477
+  },
+  "https://math-cs.spbu.ru/#": {
+    "url": "https://math-cs.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 952,
+    "ttfb": 950,
+    "domContentLoadedTime": 2170,
+    "tti": 2159,
+    "fullyLoadedTime": 3296,
+    "lcp": {
+      "value": 3364,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 1,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 1021.4000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3296,
+    "domReadyTime": 2282,
+    "firstPaint": 1005,
+    "firstContentfulPaint": 2159,
+    "pageSize": 67541,
+    "domSize": 477
+  },
+  "https://math-cs.spbu.ru/o-programme-o-programme/council/": {
+    "url": "https://math-cs.spbu.ru/o-programme-o-programme/council/",
+    "redirectTime": 0,
+    "serverResponseTime": 517,
+    "ttfb": 515,
+    "domContentLoadedTime": 789,
+    "tti": 785,
+    "fullyLoadedTime": 1109,
+    "lcp": {
+      "value": 868,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/uploads/2017/07/Petrov-Viktor-Aleksandrovich-e1505397144937-150x150.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 1,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 579.6000000238419,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1109,
+    "domReadyTime": 540,
+    "firstPaint": 562,
+    "firstContentfulPaint": 785,
+    "pageSize": 56406,
+    "domSize": 361
+  },
+  "https://math-cs.spbu.ru/bsc-programmes/": {
+    "url": "https://math-cs.spbu.ru/bsc-programmes/",
+    "redirectTime": 0,
+    "serverResponseTime": 601,
+    "ttfb": 599,
+    "domContentLoadedTime": 1545,
+    "tti": 1540,
+    "fullyLoadedTime": 1841,
+    "lcp": {
+      "value": 1500,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1841,
+    "domReadyTime": 865,
+    "firstPaint": 967,
+    "firstContentfulPaint": 1540,
+    "pageSize": 52758,
+    "domSize": 361
+  },
+  "https://math-cs.spbu.ru/bsc-math/": {
+    "url": "https://math-cs.spbu.ru/bsc-math/",
+    "redirectTime": 0,
+    "serverResponseTime": 476,
+    "ttfb": 475,
+    "domContentLoadedTime": 1651,
+    "tti": 1647,
+    "fullyLoadedTime": 1708,
+    "lcp": {
+      "value": 1368,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1708,
+    "domReadyTime": 943,
+    "firstPaint": 760,
+    "firstContentfulPaint": 1647,
+    "pageSize": 58385,
+    "domSize": 383
+  },
+  "https://math-cs.spbu.ru/bsc-mse/": {
+    "url": "https://math-cs.spbu.ru/bsc-mse/",
+    "redirectTime": 0,
+    "serverResponseTime": 875,
+    "ttfb": 874,
+    "domContentLoadedTime": 1239,
+    "tti": 1235,
+    "fullyLoadedTime": 1502,
+    "lcp": {
+      "value": 1284,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "li",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 973.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1502,
+    "domReadyTime": 536,
+    "firstPaint": 960,
+    "firstContentfulPaint": 1235,
+    "pageSize": 57784,
+    "domSize": 380
+  },
+  "https://math-cs.spbu.ru/bsc-ai360/": {
+    "url": "https://math-cs.spbu.ru/bsc-ai360/",
+    "redirectTime": 0,
+    "serverResponseTime": 413,
+    "ttfb": 370,
+    "domContentLoadedTime": 60714,
+    "tti": 60711,
+    "fullyLoadedTime": 61038,
+    "lcp": {
+      "value": 60696,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 61038,
+    "domReadyTime": 625,
+    "firstPaint": 60404,
+    "firstContentfulPaint": 60711,
+    "pageSize": 54860,
+    "domSize": 365
+  },
+  "https://math-cs.spbu.ru/msc-math/": {
+    "url": "https://math-cs.spbu.ru/msc-math/",
+    "redirectTime": 0,
+    "serverResponseTime": 386,
+    "ttfb": 383,
+    "domContentLoadedTime": 727,
+    "tti": 719,
+    "fullyLoadedTime": 60718,
+    "lcp": {
+      "value": 788,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 1,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 458.59999999403954,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60718,
+    "domReadyTime": 60265,
+    "firstPaint": 444,
+    "firstContentfulPaint": 719,
+    "pageSize": 58716,
+    "domSize": 381
+  },
+  "https://math-cs.spbu.ru/covremennaya-matematika/": {
+    "url": "https://math-cs.spbu.ru/covremennaya-matematika/",
+    "redirectTime": 0,
+    "serverResponseTime": 2225,
+    "ttfb": 2223,
+    "domContentLoadedTime": 3173,
+    "tti": 3163,
+    "fullyLoadedTime": 3543,
+    "lcp": {
+      "value": 2800,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/logo-main.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3543,
+    "domReadyTime": 1258,
+    "firstPaint": 2277,
+    "firstContentfulPaint": 3163,
+    "pageSize": 56330,
+    "domSize": 353
+  },
+  "https://math-cs.spbu.ru/sovet-op/": {
+    "url": "https://math-cs.spbu.ru/sovet-op/",
+    "redirectTime": 0,
+    "serverResponseTime": 5200,
+    "ttfb": 5198,
+    "domContentLoadedTime": 5468,
+    "tti": 5465,
+    "fullyLoadedTime": 5710,
+    "lcp": {
+      "value": 5488,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 5710,
+    "domReadyTime": 412,
+    "firstPaint": 5289,
+    "firstContentfulPaint": 5465,
+    "pageSize": 51456,
+    "domSize": 358
+  },
+  "https://math-cs.spbu.ru/news": {
+    "url": "https://math-cs.spbu.ru/news",
+    "redirectTime": 258,
+    "serverResponseTime": 331,
+    "ttfb": 330,
+    "domContentLoadedTime": 816,
+    "tti": 812,
+    "fullyLoadedTime": 1123,
+    "lcp": {
+      "value": 896,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/uploads/2025/05/image-7-750x563.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1123,
+    "domReadyTime": 526,
+    "firstPaint": 593,
+    "firstContentfulPaint": 812,
+    "pageSize": 55486,
+    "domSize": 386
+  },
+  "https://math-cs.spbu.ru/news/": {
+    "url": "https://math-cs.spbu.ru/news/",
+    "redirectTime": 0,
+    "serverResponseTime": 340,
+    "ttfb": 339,
+    "domContentLoadedTime": 1170,
+    "tti": 1165,
+    "fullyLoadedTime": 1308,
+    "lcp": {
+      "value": 924,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/uploads/2025/05/image-7-750x563.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1308,
+    "domReadyTime": 908,
+    "firstPaint": 394,
+    "firstContentfulPaint": 1165,
+    "pageSize": 55347,
+    "domSize": 385
+  },
+  "https://math-cs.spbu.ru/category/spbunews/": {
+    "url": "https://math-cs.spbu.ru/category/spbunews/",
+    "redirectTime": 0,
+    "serverResponseTime": 307,
+    "ttfb": 306,
+    "domContentLoadedTime": 630,
+    "tti": 626,
+    "fullyLoadedTime": 857,
+    "lcp": {
+      "value": 676,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 21,
+      "longTasks": [
+        {
+          "duration": 71,
+          "startTime": 362.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 857,
+    "domReadyTime": 500,
+    "firstPaint": 353,
+    "firstContentfulPaint": 626,
+    "pageSize": 60862,
+    "domSize": 404
+  },
+  "https://math-cs.spbu.ru/category/dean/": {
+    "url": "https://math-cs.spbu.ru/category/dean/",
+    "redirectTime": 0,
+    "serverResponseTime": 1800,
+    "ttfb": 1798,
+    "domContentLoadedTime": 2229,
+    "tti": 2225,
+    "fullyLoadedTime": 2516,
+    "lcp": {
+      "value": 2180,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2516,
+    "domReadyTime": 661,
+    "firstPaint": 1846,
+    "firstContentfulPaint": 2225,
+    "pageSize": 57984,
+    "domSize": 403
+  },
+  "https://math-cs.spbu.ru/abiturientam/admissions-contacts/": {
+    "url": "https://math-cs.spbu.ru/abiturientam/admissions-contacts/",
+    "redirectTime": 0,
+    "serverResponseTime": 814,
+    "ttfb": 811,
+    "domContentLoadedTime": 1052,
+    "tti": 1045,
+    "fullyLoadedTime": 1452,
+    "lcp": {
+      "value": 1116,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1452,
+    "domReadyTime": 587,
+    "firstPaint": 859,
+    "firstContentfulPaint": 1045,
+    "pageSize": 55297,
+    "domSize": 385
+  },
+  "https://math-cs.spbu.ru/admission-bsc/": {
+    "url": "https://math-cs.spbu.ru/admission-bsc/",
+    "redirectTime": 0,
+    "serverResponseTime": 428,
+    "ttfb": 426,
+    "domContentLoadedTime": 667,
+    "tti": 663,
+    "fullyLoadedTime": 1324,
+    "lcp": {
+      "value": 704,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1324,
+    "domReadyTime": 842,
+    "firstPaint": 473,
+    "firstContentfulPaint": 663,
+    "pageSize": 57181,
+    "domSize": 414
+  },
+  "https://math-cs.spbu.ru/pravila-priema-aspirantura/": {
+    "url": "https://math-cs.spbu.ru/pravila-priema-aspirantura/",
+    "redirectTime": 0,
+    "serverResponseTime": 317,
+    "ttfb": 316,
+    "domContentLoadedTime": 2032,
+    "tti": 2027,
+    "fullyLoadedTime": 2504,
+    "lcp": {
+      "value": 2168,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 245,
+      "longTasks": [
+        {
+          "duration": 295,
+          "startTime": 1389.9000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2504,
+    "domReadyTime": 1121,
+    "firstPaint": 1377,
+    "firstContentfulPaint": 2028,
+    "pageSize": 56685,
+    "domSize": 375
+  },
+  "https://math-cs.spbu.ru/historical-notes/": {
+    "url": "https://math-cs.spbu.ru/historical-notes/",
+    "redirectTime": 0,
+    "serverResponseTime": 3274,
+    "ttfb": 3238,
+    "domContentLoadedTime": 3584,
+    "tti": 3578,
+    "fullyLoadedTime": 4087,
+    "lcp": {
+      "value": 3552,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4087,
+    "domReadyTime": 720,
+    "firstPaint": 3360,
+    "firstContentfulPaint": 3578,
+    "pageSize": 81386,
+    "domSize": 807
+  },
+  "https://math-cs.spbu.ru/materials/": {
+    "url": "https://math-cs.spbu.ru/materials/",
+    "redirectTime": 0,
+    "serverResponseTime": 553,
+    "ttfb": 552,
+    "domContentLoadedTime": 950,
+    "tti": 946,
+    "fullyLoadedTime": 2850,
+    "lcp": {
+      "value": 952,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2850,
+    "domReadyTime": 2211,
+    "firstPaint": 630,
+    "firstContentfulPaint": 946,
+    "pageSize": 61617,
+    "domSize": 420
+  },
+  "https://math-cs.spbu.ru/zadat-vopros-studentu/": {
+    "url": "https://math-cs.spbu.ru/zadat-vopros-studentu/",
+    "redirectTime": 0,
+    "serverResponseTime": 2055,
+    "ttfb": 2036,
+    "domContentLoadedTime": 2854,
+    "tti": 2850,
+    "fullyLoadedTime": 3781,
+    "lcp": {
+      "value": 2640,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3781,
+    "domReadyTime": 1691,
+    "firstPaint": 2081,
+    "firstContentfulPaint": 2850,
+    "pageSize": 64000,
+    "domSize": 457
+  },
+  "https://math-cs.spbu.ru/open-days/": {
+    "url": "https://math-cs.spbu.ru/open-days/",
+    "redirectTime": 0,
+    "serverResponseTime": 1517,
+    "ttfb": 1499,
+    "domContentLoadedTime": 2387,
+    "tti": 2383,
+    "fullyLoadedTime": 3018,
+    "lcp": {
+      "value": 2312,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 9,
+      "longTasks": [
+        {
+          "duration": 59,
+          "startTime": 1853.300000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3018,
+    "domReadyTime": 1179,
+    "firstPaint": 1831,
+    "firstContentfulPaint": 2383,
+    "pageSize": 54438,
+    "domSize": 374
+  },
+  "https://math-cs.spbu.ru/category/studentam/ot-uchebnogo-otdela/": {
+    "url": "https://math-cs.spbu.ru/category/studentam/ot-uchebnogo-otdela/",
+    "redirectTime": 0,
+    "serverResponseTime": 367,
+    "ttfb": 364,
+    "domContentLoadedTime": 748,
+    "tti": 741,
+    "fullyLoadedTime": 1128,
+    "lcp": {
+      "value": 808,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 1,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 494.90000000596046,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1128,
+    "domReadyTime": 638,
+    "firstPaint": 481,
+    "firstContentfulPaint": 741,
+    "pageSize": 62102,
+    "domSize": 404
+  },
+  "https://math-cs.spbu.ru/scholarships-rodnye-goroda/": {
+    "url": "https://math-cs.spbu.ru/scholarships-rodnye-goroda/",
+    "redirectTime": 0,
+    "serverResponseTime": 218,
+    "ttfb": 193,
+    "domContentLoadedTime": 802,
+    "tti": 796,
+    "fullyLoadedTime": 914,
+    "lcp": {
+      "value": 892,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "http://math-cs.spbu.ru/wp-content/uploads/2018/07/GPN-Maths-271-1024x683.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 914,
+    "domReadyTime": 616,
+    "firstPaint": 292,
+    "firstContentfulPaint": 796,
+    "pageSize": 56376,
+    "domSize": 368
+  },
+  "https://math-cs.spbu.ru/travel-grants/": {
+    "url": "https://math-cs.spbu.ru/travel-grants/",
+    "redirectTime": 0,
+    "serverResponseTime": 274,
+    "ttfb": 273,
+    "domContentLoadedTime": 741,
+    "tti": 737,
+    "fullyLoadedTime": 1408,
+    "lcp": {
+      "value": 828,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "li",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1408,
+    "domReadyTime": 939,
+    "firstPaint": 466,
+    "firstContentfulPaint": 737,
+    "pageSize": 55897,
+    "domSize": 371
+  },
+  "https://math-cs.spbu.ru/perevody-i-vosstanovleniya/": {
+    "url": "https://math-cs.spbu.ru/perevody-i-vosstanovleniya/",
+    "redirectTime": 0,
+    "serverResponseTime": 212,
+    "ttfb": 211,
+    "domContentLoadedTime": 555,
+    "tti": 550,
+    "fullyLoadedTime": 1326,
+    "lcp": {
+      "value": 600,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1326,
+    "domReadyTime": 1062,
+    "firstPaint": 258,
+    "firstContentfulPaint": 550,
+    "pageSize": 68170,
+    "domSize": 474
+  },
+  "https://math-cs.spbu.ru/curriculum/": {
+    "url": "https://math-cs.spbu.ru/curriculum/",
+    "redirectTime": 0,
+    "serverResponseTime": 237,
+    "ttfb": 198,
+    "domContentLoadedTime": 765,
+    "tti": 758,
+    "fullyLoadedTime": 921,
+    "lcp": {
+      "value": 596,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 921,
+    "domReadyTime": 658,
+    "firstPaint": 255,
+    "firstContentfulPaint": 758,
+    "pageSize": 57351,
+    "domSize": 417
+  },
+  "https://math-cs.spbu.ru/studencheskij-sovet/": {
+    "url": "https://math-cs.spbu.ru/studencheskij-sovet/",
+    "redirectTime": 0,
+    "serverResponseTime": 337,
+    "ttfb": 292,
+    "domContentLoadedTime": 784,
+    "tti": 779,
+    "fullyLoadedTime": 1156,
+    "lcp": {
+      "value": 704,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1156,
+    "domReadyTime": 780,
+    "firstPaint": 369,
+    "firstContentfulPaint": 779,
+    "pageSize": 55991,
+    "domSize": 406
+  },
+  "https://math-cs.spbu.ru/projects-studentsmcs/": {
+    "url": "https://math-cs.spbu.ru/projects-studentsmcs/",
+    "redirectTime": 0,
+    "serverResponseTime": 3627,
+    "ttfb": 3626,
+    "domContentLoadedTime": 3948,
+    "tti": 3945,
+    "fullyLoadedTime": 4438,
+    "lcp": {
+      "value": 3928,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 12,
+      "longTasks": [
+        {
+          "duration": 62,
+          "startTime": 3713.699999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4438,
+    "domReadyTime": 730,
+    "firstPaint": 3705,
+    "firstContentfulPaint": 3945,
+    "pageSize": 61115,
+    "domSize": 425
+  },
+  "https://math-cs.spbu.ru/publikatsii/": {
+    "url": "https://math-cs.spbu.ru/publikatsii/",
+    "redirectTime": 0,
+    "serverResponseTime": 306,
+    "ttfb": 287,
+    "domContentLoadedTime": 921,
+    "tti": 917,
+    "fullyLoadedTime": 1173,
+    "lcp": {
+      "value": 752,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "li",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1173,
+    "domReadyTime": 754,
+    "firstPaint": 412,
+    "firstContentfulPaint": 917,
+    "pageSize": 88181,
+    "domSize": 583
+  },
+  "https://math-cs.spbu.ru/grants/": {
+    "url": "https://math-cs.spbu.ru/grants/",
+    "redirectTime": 0,
+    "serverResponseTime": 466,
+    "ttfb": 464,
+    "domContentLoadedTime": 800,
+    "tti": 797,
+    "fullyLoadedTime": 1188,
+    "lcp": {
+      "value": 844,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 4,
+      "longTasks": [
+        {
+          "duration": 54,
+          "startTime": 608.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1188,
+    "domReadyTime": 587,
+    "firstPaint": 593,
+    "firstContentfulPaint": 797,
+    "pageSize": 58950,
+    "domSize": 412
+  },
+  "https://math-cs.spbu.ru/kollokvium-fmkn/": {
+    "url": "https://math-cs.spbu.ru/kollokvium-fmkn/",
+    "redirectTime": 0,
+    "serverResponseTime": 1253,
+    "ttfb": 1251,
+    "domContentLoadedTime": 1508,
+    "tti": 1505,
+    "fullyLoadedTime": 2025,
+    "lcp": {
+      "value": 1540,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2025,
+    "domReadyTime": 722,
+    "firstPaint": 1295,
+    "firstContentfulPaint": 1505,
+    "pageSize": 59822,
+    "domSize": 446
+  },
+  "https://math-cs.spbu.ru/laboratoriya-veroyatnostnye-metody-v-analize/": {
+    "url": "https://math-cs.spbu.ru/laboratoriya-veroyatnostnye-metody-v-analize/",
+    "redirectTime": 0,
+    "serverResponseTime": 303,
+    "ttfb": 302,
+    "domContentLoadedTime": 845,
+    "tti": 841,
+    "fullyLoadedTime": 1317,
+    "lcp": {
+      "value": 748,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 177,
+      "longTasks": [
+        {
+          "duration": 227,
+          "startTime": 350.39999997615814,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 1317,
+    "domReadyTime": 970,
+    "firstPaint": 345,
+    "firstContentfulPaint": 841,
+    "pageSize": 55893,
+    "domSize": 381
+  },
+  "https://math-cs.spbu.ru/maalab/": {
+    "url": "https://math-cs.spbu.ru/maalab/",
+    "redirectTime": 0,
+    "serverResponseTime": 446,
+    "ttfb": 446,
+    "domContentLoadedTime": 1296,
+    "tti": 1292,
+    "fullyLoadedTime": 1683,
+    "lcp": {
+      "value": 1248,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1683,
+    "domReadyTime": 1174,
+    "firstPaint": 506,
+    "firstContentfulPaint": 1292,
+    "pageSize": 59135,
+    "domSize": 402
+  },
+  "https://math-cs.spbu.ru/research-areas/": {
+    "url": "https://math-cs.spbu.ru/research-areas/",
+    "redirectTime": 0,
+    "serverResponseTime": 383,
+    "ttfb": 382,
+    "domContentLoadedTime": 666,
+    "tti": 663,
+    "fullyLoadedTime": 960,
+    "lcp": {
+      "value": 672,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 960,
+    "domReadyTime": 511,
+    "firstPaint": 447,
+    "firstContentfulPaint": 663,
+    "pageSize": 53183,
+    "domSize": 369
+  },
+  "https://math-cs.spbu.ru/conference-complex-and-harmonic-analysis-and-its-applications/": {
+    "url": "https://math-cs.spbu.ru/conference-complex-and-harmonic-analysis-and-its-applications/",
+    "redirectTime": 0,
+    "serverResponseTime": 1917,
+    "ttfb": 1916,
+    "domContentLoadedTime": 2281,
+    "tti": 2278,
+    "fullyLoadedTime": 2629,
+    "lcp": {
+      "value": 2236,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2629,
+    "domReadyTime": 666,
+    "firstPaint": 1960,
+    "firstContentfulPaint": 2278,
+    "pageSize": 56618,
+    "domSize": 402
+  },
+  "https://math-cs.spbu.ru/people": {
+    "url": "https://math-cs.spbu.ru/people",
+    "redirectTime": 359,
+    "serverResponseTime": 480,
+    "ttfb": 480,
+    "domContentLoadedTime": 3995,
+    "tti": 3992,
+    "fullyLoadedTime": 4016,
+    "lcp": {
+      "value": 1308,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/uploads/2017/06/Ivanov-S.V-150x150.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4016,
+    "domReadyTime": 3175,
+    "firstPaint": 840,
+    "firstContentfulPaint": 3992,
+    "pageSize": 106239,
+    "domSize": 678
+  },
+  "https://math-cs.spbu.ru/people/": {
+    "url": "https://math-cs.spbu.ru/people/",
+    "redirectTime": 0,
+    "serverResponseTime": 355,
+    "ttfb": 354,
+    "domContentLoadedTime": 960,
+    "tti": 955,
+    "fullyLoadedTime": 1276,
+    "lcp": {
+      "value": 648,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/uploads/2017/06/Ivanov-S.V-150x150.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1276,
+    "domReadyTime": 871,
+    "firstPaint": 400,
+    "firstContentfulPaint": 955,
+    "pageSize": 106239,
+    "domSize": 678
+  },
+  "https://math-cs.spbu.ru/vakansii/": {
+    "url": "https://math-cs.spbu.ru/vakansii/",
+    "redirectTime": 0,
+    "serverResponseTime": 262,
+    "ttfb": 246,
+    "domContentLoadedTime": 496,
+    "tti": 491,
+    "fullyLoadedTime": 1187,
+    "lcp": {
+      "value": 536,
+      "lcpElementType": "text",
+      "lcpElementTag": "h3",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1187,
+    "domReadyTime": 894,
+    "firstPaint": 291,
+    "firstContentfulPaint": 491,
+    "pageSize": 81465,
+    "domSize": 675
+  },
+  "https://math-cs.spbu.ru/grantovaya-proektnaya-i-publikatsionnaya-aktivnost-npr-2/": {
+    "url": "https://math-cs.spbu.ru/grantovaya-proektnaya-i-publikatsionnaya-aktivnost-npr-2/",
+    "redirectTime": 0,
+    "serverResponseTime": 274,
+    "ttfb": 255,
+    "domContentLoadedTime": 1089,
+    "tti": 1082,
+    "fullyLoadedTime": 1164,
+    "lcp": {
+      "value": 528,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/logo-main.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 12,
+      "longTasks": [
+        {
+          "duration": 62,
+          "startTime": 983.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 1164,
+    "domReadyTime": 866,
+    "firstPaint": 296,
+    "firstContentfulPaint": 1082,
+    "pageSize": 463134,
+    "domSize": 3018
+  },
+  "https://math-cs.spbu.ru/publications2019/": {
+    "url": "https://math-cs.spbu.ru/publications2019/",
+    "redirectTime": 0,
+    "serverResponseTime": 993,
+    "ttfb": 958,
+    "domContentLoadedTime": 1883,
+    "tti": 1879,
+    "fullyLoadedTime": 2227,
+    "lcp": {
+      "value": 1896,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2227,
+    "domReadyTime": 975,
+    "firstPaint": 1250,
+    "firstContentfulPaint": 1879,
+    "pageSize": 116780,
+    "domSize": 968
+  },
+  "https://math-cs.spbu.ru/publications2020/": {
+    "url": "https://math-cs.spbu.ru/publications2020/",
+    "redirectTime": 0,
+    "serverResponseTime": 452,
+    "ttfb": 434,
+    "domContentLoadedTime": 691,
+    "tti": 688,
+    "fullyLoadedTime": 1167,
+    "lcp": {
+      "value": 704,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "li",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1167,
+    "domReadyTime": 681,
+    "firstPaint": 483,
+    "firstContentfulPaint": 688,
+    "pageSize": 128254,
+    "domSize": 1106
+  },
+  "https://math-cs.spbu.ru/publications2021/": {
+    "url": "https://math-cs.spbu.ru/publications2021/",
+    "redirectTime": 0,
+    "serverResponseTime": 285,
+    "ttfb": 260,
+    "domContentLoadedTime": 1106,
+    "tti": 1103,
+    "fullyLoadedTime": 1516,
+    "lcp": {
+      "value": 1024,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1516,
+    "domReadyTime": 1184,
+    "firstPaint": 330,
+    "firstContentfulPaint": 1103,
+    "pageSize": 91557,
+    "domSize": 808
+  },
+  "https://math-cs.spbu.ru/publications2022/": {
+    "url": "https://math-cs.spbu.ru/publications2022/",
+    "redirectTime": 0,
+    "serverResponseTime": 1059,
+    "ttfb": 1042,
+    "domContentLoadedTime": 1466,
+    "tti": 1463,
+    "fullyLoadedTime": 1793,
+    "lcp": {
+      "value": 1464,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1793,
+    "domReadyTime": 544,
+    "firstPaint": 1247,
+    "firstContentfulPaint": 1463,
+    "pageSize": 82402,
+    "domSize": 788
+  },
+  "https://math-cs.spbu.ru/publications2023/": {
+    "url": "https://math-cs.spbu.ru/publications2023/",
+    "redirectTime": 0,
+    "serverResponseTime": 214,
+    "ttfb": 199,
+    "domContentLoadedTime": 443,
+    "tti": 431,
+    "fullyLoadedTime": 774,
+    "lcp": {
+      "value": 496,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 774,
+    "domReadyTime": 499,
+    "firstPaint": 273,
+    "firstContentfulPaint": 431,
+    "pageSize": 78135,
+    "domSize": 758
+  },
+  "https://math-cs.spbu.ru/courses/required/": {
+    "url": "https://math-cs.spbu.ru/courses/required/",
+    "redirectTime": 0,
+    "serverResponseTime": 1049,
+    "ttfb": 1047,
+    "domContentLoadedTime": 1523,
+    "tti": 1517,
+    "fullyLoadedTime": 1827,
+    "lcp": {
+      "value": 1464,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1827,
+    "domReadyTime": 646,
+    "firstPaint": 1173,
+    "firstContentfulPaint": 1517,
+    "pageSize": 265568,
+    "domSize": 2100
+  },
+  "https://math-cs.spbu.ru/courses/special/": {
+    "url": "https://math-cs.spbu.ru/courses/special/",
+    "redirectTime": 0,
+    "serverResponseTime": 411,
+    "ttfb": 377,
+    "domContentLoadedTime": 880,
+    "tti": 876,
+    "fullyLoadedTime": 1316,
+    "lcp": {
+      "value": 856,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 30,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 1317.2000000178814,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1316,
+    "domReadyTime": 866,
+    "firstPaint": 442,
+    "firstContentfulPaint": 876,
+    "pageSize": 559799,
+    "domSize": 4428
+  },
+  "https://math-cs.spbu.ru/courses/video/": {
+    "url": "https://math-cs.spbu.ru/courses/video/",
+    "redirectTime": 0,
+    "serverResponseTime": 379,
+    "ttfb": 362,
+    "domContentLoadedTime": 2012,
+    "tti": 2006,
+    "fullyLoadedTime": 2460,
+    "lcp": {
+      "value": 1984,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2460,
+    "domReadyTime": 734,
+    "firstPaint": 1719,
+    "firstContentfulPaint": 2006,
+    "pageSize": 220482,
+    "domSize": 1950
+  },
+  "https://math-cs.spbu.ru/contacts/": {
+    "url": "https://math-cs.spbu.ru/contacts/",
+    "redirectTime": 0,
+    "serverResponseTime": 234,
+    "ttfb": 232,
+    "domContentLoadedTime": 666,
+    "tti": 662,
+    "fullyLoadedTime": 931,
+    "lcp": {
+      "value": 616,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://math-cs.spbu.ru/wp-content/themes/theme/img/Rodnye_Goroda_Logotype_2021_2%20(1).png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 931,
+    "domReadyTime": 553,
+    "firstPaint": 371,
+    "firstContentfulPaint": 662,
+    "pageSize": 55214,
+    "domSize": 409
+  }
+}

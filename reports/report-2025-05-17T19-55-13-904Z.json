@@ -1,0 +1,296 @@
+{
+  "https://foreignlang.spbu.ru/": {
+    "url": "https://foreignlang.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 69,
+    "ttfb": 31,
+    "domContentLoadedTime": 467,
+    "tti": 245,
+    "fullyLoadedTime": 3576,
+    "lcp": {
+      "value": 1340,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 42
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3576,
+    "domReadyTime": 3483,
+    "firstPaint": 86,
+    "firstContentfulPaint": 453,
+    "pageSize": 180827,
+    "domSize": 1042
+  },
+  "https://foreignlang.spbu.ru/faculty": {
+    "url": "https://foreignlang.spbu.ru/faculty",
+    "redirectTime": 0,
+    "serverResponseTime": 22,
+    "ttfb": 13,
+    "domContentLoadedTime": 387,
+    "tti": 361,
+    "fullyLoadedTime": 3685,
+    "lcp": {
+      "value": 1284,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 40
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3685,
+    "domReadyTime": 3503,
+    "firstPaint": 172,
+    "firstContentfulPaint": 368,
+    "pageSize": 341994,
+    "domSize": 3019
+  },
+  "https://foreignlang.spbu.ru/postupleniye": {
+    "url": "https://foreignlang.spbu.ru/postupleniye",
+    "redirectTime": 0,
+    "serverResponseTime": 22,
+    "ttfb": 21,
+    "domContentLoadedTime": 347,
+    "tti": 300,
+    "fullyLoadedTime": 608,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 608,
+    "domReadyTime": 514,
+    "firstPaint": 90,
+    "firstContentfulPaint": 342,
+    "pageSize": 112933,
+    "domSize": 753
+  },
+  "https://foreignlang.spbu.ru/obucheniye": {
+    "url": "https://foreignlang.spbu.ru/obucheniye",
+    "redirectTime": 0,
+    "serverResponseTime": 45,
+    "ttfb": 43,
+    "domContentLoadedTime": 3308,
+    "tti": 3288,
+    "fullyLoadedTime": 3331,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 32
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3331,
+    "domReadyTime": 3210,
+    "firstPaint": 116,
+    "firstContentfulPaint": 3294,
+    "pageSize": 89566,
+    "domSize": 545
+  },
+  "https://foreignlang.spbu.ru/dopolnitelnoe-obrazovanie": {
+    "url": "https://foreignlang.spbu.ru/dopolnitelnoe-obrazovanie",
+    "redirectTime": 0,
+    "serverResponseTime": 40,
+    "ttfb": 36,
+    "domContentLoadedTime": 240,
+    "tti": 232,
+    "fullyLoadedTime": 828,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 828,
+    "domReadyTime": 691,
+    "firstPaint": 128,
+    "firstContentfulPaint": 235,
+    "pageSize": 79003,
+    "domSize": 434
+  },
+  "https://foreignlang.spbu.ru/nauka": {
+    "url": "https://foreignlang.spbu.ru/nauka",
+    "redirectTime": 0,
+    "serverResponseTime": 26,
+    "ttfb": 25,
+    "domContentLoadedTime": 249,
+    "tti": 232,
+    "fullyLoadedTime": 867,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 34
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 867,
+    "domReadyTime": 783,
+    "firstPaint": 80,
+    "firstContentfulPaint": 246,
+    "pageSize": 90463,
+    "domSize": 546
+  },
+  "https://foreignlang.spbu.ru/sotrudnikam": {
+    "url": "https://foreignlang.spbu.ru/sotrudnikam",
+    "redirectTime": 0,
+    "serverResponseTime": 147,
+    "ttfb": 143,
+    "domContentLoadedTime": 521,
+    "tti": 488,
+    "fullyLoadedTime": 3713,
+    "lcp": {
+      "value": 1548,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3713,
+    "domReadyTime": 3434,
+    "firstPaint": 270,
+    "firstContentfulPaint": 517,
+    "pageSize": 78023,
+    "domSize": 419
+  },
+  "https://foreignlang.spbu.ru/kadrovyj-rezerv": {
+    "url": "https://foreignlang.spbu.ru/kadrovyj-rezerv",
+    "redirectTime": 0,
+    "serverResponseTime": 37,
+    "ttfb": 33,
+    "domContentLoadedTime": 365,
+    "tti": 345,
+    "fullyLoadedTime": 628,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 628,
+    "domReadyTime": 382,
+    "firstPaint": 238,
+    "firstContentfulPaint": 362,
+    "pageSize": 74282,
+    "domSize": 401
+  },
+  "https://foreignlang.spbu.ru/anonsy-novosti": {
+    "url": "https://foreignlang.spbu.ru/anonsy-novosti",
+    "redirectTime": 0,
+    "serverResponseTime": 15,
+    "ttfb": 11,
+    "domContentLoadedTime": 183,
+    "tti": 177,
+    "fullyLoadedTime": 756,
+    "lcp": {
+      "value": 808,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 35
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 756,
+    "domReadyTime": 663,
+    "firstPaint": 87,
+    "firstContentfulPaint": 180,
+    "pageSize": 182689,
+    "domSize": 1097
+  },
+  "https://foreignlang.spbu.ru/kontakty": {
+    "url": "https://foreignlang.spbu.ru/kontakty",
+    "redirectTime": 0,
+    "serverResponseTime": 28,
+    "ttfb": 27,
+    "domContentLoadedTime": 216,
+    "tti": 186,
+    "fullyLoadedTime": 656,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 39,
+      "longTasks": [
+        {
+          "duration": 89,
+          "startTime": 698.3000000119209,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 34
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 656,
+    "domReadyTime": 560,
+    "firstPaint": 93,
+    "firstContentfulPaint": 213,
+    "pageSize": 255940,
+    "domSize": 654
+  }
+}

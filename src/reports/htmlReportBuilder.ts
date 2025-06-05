@@ -11,7 +11,6 @@ import os from 'os';
 export async function generateHtmlReport(data: ReportData, outputPath: string): Promise<void> {
   try {
     logger.debug(`Generating HTML report at ${outputPath}`);
-
     const reportElement = React.createElement(Report, { data });
 
     // Render to static markup
@@ -35,6 +34,13 @@ export async function generateHtmlReport(data: ReportData, outputPath: string): 
 
     await browser.close();
     await fs.promises.unlink(tempHtmlPath);
+
+    // === Save JSON file ===
+    const jsonPath = outputPath.replace(/\.html?$/, '.json');
+    const jsonData = JSON.stringify(data.metricsObject, null, 2); // pretty-printed
+    await fs.promises.writeFile(jsonPath, jsonData);
+    logger.debug(`Saved JSON report at ${jsonPath}`);
+
   } catch (error) {
     logger.error(`Error generating report: ${(error as Error).message}`);
     console.error(error)

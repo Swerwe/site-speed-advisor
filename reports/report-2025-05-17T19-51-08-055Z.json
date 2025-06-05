@@ -1,0 +1,1512 @@
+{
+  "https://orient.spbu.ru/index.php/ru/": {
+    "url": "https://orient.spbu.ru/index.php/ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 742,
+    "ttfb": 724,
+    "domContentLoadedTime": 1646,
+    "tti": 1629,
+    "fullyLoadedTime": 32394,
+    "lcp": {
+      "value": 22500,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 6,
+      "longTasks": [
+        {
+          "duration": 56,
+          "startTime": 1546.199999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 47
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 32394,
+    "domReadyTime": 31432,
+    "firstPaint": 952,
+    "firstContentfulPaint": 1629,
+    "pageSize": 199029,
+    "domSize": 1387
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/facultet": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/facultet",
+    "redirectTime": 0,
+    "serverResponseTime": 491,
+    "ttfb": 472,
+    "domContentLoadedTime": 1030,
+    "tti": 1022,
+    "fullyLoadedTime": 4179,
+    "lcp": {
+      "value": 4140,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 42
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4179,
+    "domReadyTime": 3646,
+    "firstPaint": 522,
+    "firstContentfulPaint": 1022,
+    "pageSize": 94027,
+    "domSize": 803
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/istoriya-fakulteta": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/istoriya-fakulteta",
+    "redirectTime": 0,
+    "serverResponseTime": 466,
+    "ttfb": 444,
+    "domContentLoadedTime": 1219,
+    "tti": 1211,
+    "fullyLoadedTime": 4535,
+    "lcp": {
+      "value": 4436,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 42
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4535,
+    "domReadyTime": 4031,
+    "firstPaint": 494,
+    "firstContentfulPaint": 1211,
+    "pageSize": 85575,
+    "domSize": 775
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/rukovodstvo-fakulteta": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/rukovodstvo-fakulteta",
+    "redirectTime": 0,
+    "serverResponseTime": 499,
+    "ttfb": 481,
+    "domContentLoadedTime": 1011,
+    "tti": 997,
+    "fullyLoadedTime": 1506,
+    "lcp": {
+      "value": 1184,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1506,
+    "domReadyTime": 966,
+    "firstPaint": 530,
+    "firstContentfulPaint": 997,
+    "pageSize": 101279,
+    "domSize": 1015
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/komissii": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/komissii",
+    "redirectTime": 0,
+    "serverResponseTime": 330,
+    "ttfb": 329,
+    "domContentLoadedTime": 890,
+    "tti": 874,
+    "fullyLoadedTime": 1580,
+    "lcp": {
+      "value": 1008,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 24
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1580,
+    "domReadyTime": 1193,
+    "firstPaint": 377,
+    "firstContentfulPaint": 874,
+    "pageSize": 57278,
+    "domSize": 708
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/sovety-obrazovatelnykh-programm": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/sovety-obrazovatelnykh-programm",
+    "redirectTime": 0,
+    "serverResponseTime": 503,
+    "ttfb": 501,
+    "domContentLoadedTime": 1145,
+    "tti": 1131,
+    "fullyLoadedTime": 1618,
+    "lcp": {
+      "value": 1192,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1618,
+    "domReadyTime": 898,
+    "firstPaint": 711,
+    "firstContentfulPaint": 1131,
+    "pageSize": 57772,
+    "domSize": 714
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/kafedry": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/kafedry",
+    "redirectTime": 0,
+    "serverResponseTime": 541,
+    "ttfb": 536,
+    "domContentLoadedTime": 1173,
+    "tti": 1158,
+    "fullyLoadedTime": 6908,
+    "lcp": {
+      "value": 1304,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 6908,
+    "domReadyTime": 6300,
+    "firstPaint": 593,
+    "firstContentfulPaint": 1158,
+    "pageSize": 87777,
+    "domSize": 979
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/sotrudniki": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/sotrudniki",
+    "redirectTime": 0,
+    "serverResponseTime": 347,
+    "ttfb": 345,
+    "domContentLoadedTime": 3753,
+    "tti": 3739,
+    "fullyLoadedTime": 4392,
+    "lcp": {
+      "value": 3924,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 25
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4392,
+    "domReadyTime": 3993,
+    "firstPaint": 391,
+    "firstContentfulPaint": 3739,
+    "pageSize": 61594,
+    "domSize": 765
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/spisok-i-rejting-prepodavatelej": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/spisok-i-rejting-prepodavatelej",
+    "redirectTime": 0,
+    "serverResponseTime": 478,
+    "ttfb": 444,
+    "domContentLoadedTime": 1189,
+    "tti": 1176,
+    "fullyLoadedTime": 61293,
+    "lcp": {
+      "value": 1232,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 61293,
+    "domReadyTime": 60752,
+    "firstPaint": 530,
+    "firstContentfulPaint": 1176,
+    "pageSize": 134239,
+    "domSize": 2219
+  },
+  "https://orient.spbu.ru/index.php/ru/nauka/konkursy-i-granty": {
+    "url": "https://orient.spbu.ru/index.php/ru/nauka/konkursy-i-granty",
+    "redirectTime": 0,
+    "serverResponseTime": 515,
+    "ttfb": 513,
+    "domContentLoadedTime": 1345,
+    "tti": 1330,
+    "fullyLoadedTime": 6650,
+    "lcp": {
+      "value": 1392,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 24
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 6650,
+    "domReadyTime": 5995,
+    "firstPaint": 643,
+    "firstContentfulPaint": 1330,
+    "pageSize": 69927,
+    "domSize": 838
+  },
+  "https://orient.spbu.ru/index.php/ru/nauka/konferentsii": {
+    "url": "https://orient.spbu.ru/index.php/ru/nauka/konferentsii",
+    "redirectTime": 0,
+    "serverResponseTime": 567,
+    "ttfb": 539,
+    "domContentLoadedTime": 1305,
+    "tti": 1268,
+    "fullyLoadedTime": 16903,
+    "lcp": {
+      "value": 1484,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 32
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 16903,
+    "domReadyTime": 16212,
+    "firstPaint": 679,
+    "firstContentfulPaint": 1268,
+    "pageSize": 238739,
+    "domSize": 1529
+  },
+  "https://orient.spbu.ru/index.php/ru/o-fakultete/komissii/nauchnaya-komissiya": {
+    "url": "https://orient.spbu.ru/index.php/ru/o-fakultete/komissii/nauchnaya-komissiya",
+    "redirectTime": 0,
+    "serverResponseTime": 489,
+    "ttfb": 485,
+    "domContentLoadedTime": 2263,
+    "tti": 2248,
+    "fullyLoadedTime": 5696,
+    "lcp": {
+      "value": 2324,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 5696,
+    "domReadyTime": 4042,
+    "firstPaint": 1647,
+    "firstContentfulPaint": 2248,
+    "pageSize": 63610,
+    "domSize": 786
+  },
+  "https://orient.spbu.ru/index.php/ru/nauka/vestnik-spbgu": {
+    "url": "https://orient.spbu.ru/index.php/ru/nauka/vestnik-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 522,
+    "ttfb": 504,
+    "domContentLoadedTime": 1249,
+    "tti": 1234,
+    "fullyLoadedTime": 7655,
+    "lcp": {
+      "value": 1636,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 26
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7655,
+    "domReadyTime": 7005,
+    "firstPaint": 635,
+    "firstContentfulPaint": 1234,
+    "pageSize": 74871,
+    "domSize": 887
+  },
+  "https://orient.spbu.ru/index.php/ru/nauka/spisok-i-rejting-prepodavatelej": {
+    "url": "https://orient.spbu.ru/index.php/ru/nauka/spisok-i-rejting-prepodavatelej",
+    "redirectTime": 0,
+    "serverResponseTime": 611,
+    "ttfb": 588,
+    "domContentLoadedTime": 1160,
+    "tti": 1146,
+    "fullyLoadedTime": 28244,
+    "lcp": {
+      "value": 1348,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 28244,
+    "domReadyTime": 27576,
+    "firstPaint": 655,
+    "firstContentfulPaint": 1146,
+    "pageSize": 144299,
+    "domSize": 2327
+  },
+  "https://orient.spbu.ru/index.php/ru/dopobrazovanie1/kursy-vostochnykh-yazykov": {
+    "url": "https://orient.spbu.ru/index.php/ru/dopobrazovanie1/kursy-vostochnykh-yazykov",
+    "redirectTime": 0,
+    "serverResponseTime": 545,
+    "ttfb": 526,
+    "domContentLoadedTime": 1118,
+    "tti": 1100,
+    "fullyLoadedTime": 29516,
+    "lcp": {
+      "value": 1320,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 29516,
+    "domReadyTime": 28933,
+    "firstPaint": 570,
+    "firstContentfulPaint": 1100,
+    "pageSize": 88946,
+    "domSize": 836
+  },
+  "https://orient.spbu.ru/index.php/ru/dopobrazovanie1/professionalnaya-perepodgotovka": {
+    "url": "https://orient.spbu.ru/index.php/ru/dopobrazovanie1/professionalnaya-perepodgotovka",
+    "redirectTime": 0,
+    "serverResponseTime": 536,
+    "ttfb": 518,
+    "domContentLoadedTime": 1129,
+    "tti": 1115,
+    "fullyLoadedTime": 2263,
+    "lcp": {
+      "value": 1788,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2263,
+    "domReadyTime": 1595,
+    "firstPaint": 655,
+    "firstContentfulPaint": 1115,
+    "pageSize": 74727,
+    "domSize": 771
+  },
+  "https://orient.spbu.ru/index.php/ru/abiturientu/podgotovitelnye-kursy": {
+    "url": "https://orient.spbu.ru/index.php/ru/abiturientu/podgotovitelnye-kursy",
+    "redirectTime": 0,
+    "serverResponseTime": 497,
+    "ttfb": 495,
+    "domContentLoadedTime": 1212,
+    "tti": 1194,
+    "fullyLoadedTime": 4162,
+    "lcp": {
+      "value": 1396,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4162,
+    "domReadyTime": 3608,
+    "firstPaint": 542,
+    "firstContentfulPaint": 1194,
+    "pageSize": 82534,
+    "domSize": 907
+  },
+  "https://orient.spbu.ru/index.php/ru/biblioteka/kontakty-lib": {
+    "url": "https://orient.spbu.ru/index.php/ru/biblioteka/kontakty-lib",
+    "redirectTime": 0,
+    "serverResponseTime": 377,
+    "ttfb": 376,
+    "domContentLoadedTime": 1129,
+    "tti": 1113,
+    "fullyLoadedTime": 2385,
+    "lcp": {
+      "value": 1180,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2385,
+    "domReadyTime": 1800,
+    "firstPaint": 575,
+    "firstContentfulPaint": 1113,
+    "pageSize": 69489,
+    "domSize": 861
+  },
+  "https://orient.spbu.ru/index.php/ru/biblioteka/bibliotechnyj-sovet": {
+    "url": "https://orient.spbu.ru/index.php/ru/biblioteka/bibliotechnyj-sovet",
+    "redirectTime": 0,
+    "serverResponseTime": 496,
+    "ttfb": 477,
+    "domContentLoadedTime": 2333,
+    "tti": 2318,
+    "fullyLoadedTime": 2648,
+    "lcp": {
+      "value": 2492,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2648,
+    "domReadyTime": 904,
+    "firstPaint": 1738,
+    "firstContentfulPaint": 2318,
+    "pageSize": 88559,
+    "domSize": 968
+  },
+  "https://orient.spbu.ru/index.php/ru/novosti/bibliotechnye-novosti": {
+    "url": "https://orient.spbu.ru/index.php/ru/novosti/bibliotechnye-novosti",
+    "redirectTime": 0,
+    "serverResponseTime": 589,
+    "ttfb": 548,
+    "domContentLoadedTime": 1775,
+    "tti": 1737,
+    "fullyLoadedTime": 21465,
+    "lcp": {
+      "value": 1964,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 21465,
+    "domReadyTime": 20592,
+    "firstPaint": 859,
+    "firstContentfulPaint": 1737,
+    "pageSize": 234842,
+    "domSize": 1707
+  },
+  "https://orient.spbu.ru/index.php/ru/biblioteka/istoriya": {
+    "url": "https://orient.spbu.ru/index.php/ru/biblioteka/istoriya",
+    "redirectTime": 0,
+    "serverResponseTime": 515,
+    "ttfb": 481,
+    "domContentLoadedTime": 1459,
+    "tti": 1443,
+    "fullyLoadedTime": 2684,
+    "lcp": {
+      "value": 1556,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 25
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2684,
+    "domReadyTime": 2138,
+    "firstPaint": 534,
+    "firstContentfulPaint": 1443,
+    "pageSize": 65957,
+    "domSize": 761
+  },
+  "https://orient.spbu.ru/index.php/ru/biblioteka/fondy": {
+    "url": "https://orient.spbu.ru/index.php/ru/biblioteka/fondy",
+    "redirectTime": 0,
+    "serverResponseTime": 526,
+    "ttfb": 501,
+    "domContentLoadedTime": 1436,
+    "tti": 1421,
+    "fullyLoadedTime": 2612,
+    "lcp": {
+      "value": 1476,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 25
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2612,
+    "domReadyTime": 2054,
+    "firstPaint": 548,
+    "firstContentfulPaint": 1421,
+    "pageSize": 66161,
+    "domSize": 765
+  },
+  "https://orient.spbu.ru/index.php/ru/biblioteka/bibliotechno-arkhivnaya-praktika": {
+    "url": "https://orient.spbu.ru/index.php/ru/biblioteka/bibliotechno-arkhivnaya-praktika",
+    "redirectTime": 0,
+    "serverResponseTime": 502,
+    "ttfb": 469,
+    "domContentLoadedTime": 1377,
+    "tti": 1362,
+    "fullyLoadedTime": 3056,
+    "lcp": {
+      "value": 1512,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3056,
+    "domReadyTime": 2386,
+    "firstPaint": 658,
+    "firstContentfulPaint": 1362,
+    "pageSize": 99270,
+    "domSize": 1065
+  },
+  "https://orient.spbu.ru/index.php/ru/nashi-knigi": {
+    "url": "https://orient.spbu.ru/index.php/ru/nashi-knigi",
+    "redirectTime": 0,
+    "serverResponseTime": 520,
+    "ttfb": 497,
+    "domContentLoadedTime": 1251,
+    "tti": 1229,
+    "fullyLoadedTime": 9575,
+    "lcp": {
+      "value": 1652,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 9575,
+    "domReadyTime": 9018,
+    "firstPaint": 546,
+    "firstContentfulPaint": 1229,
+    "pageSize": 148422,
+    "domSize": 1240
+  },
+  "https://orient.spbu.ru/index.php/ru/novosti/vse-novosti": {
+    "url": "https://orient.spbu.ru/index.php/ru/novosti/vse-novosti",
+    "redirectTime": 0,
+    "serverResponseTime": 729,
+    "ttfb": 726,
+    "domContentLoadedTime": 1651,
+    "tti": 1613,
+    "fullyLoadedTime": 22475,
+    "lcp": {
+      "value": 1948,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 22475,
+    "domReadyTime": 21549,
+    "firstPaint": 911,
+    "firstContentfulPaint": 1613,
+    "pageSize": 227592,
+    "domSize": 1718
+  },
+  "https://orient.spbu.ru/index.php/ru/novosti/ob-yavleniya": {
+    "url": "https://orient.spbu.ru/index.php/ru/novosti/ob-yavleniya",
+    "redirectTime": 0,
+    "serverResponseTime": 550,
+    "ttfb": 521,
+    "domContentLoadedTime": 1324,
+    "tti": 1287,
+    "fullyLoadedTime": 28026,
+    "lcp": {
+      "value": 1412,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 28026,
+    "domReadyTime": 27424,
+    "firstPaint": 592,
+    "firstContentfulPaint": 1287,
+    "pageSize": 219582,
+    "domSize": 1704
+  },
+  "https://orient.spbu.ru/index.php/ru/novosti/novosti-konferentsij": {
+    "url": "https://orient.spbu.ru/index.php/ru/novosti/novosti-konferentsij",
+    "redirectTime": 0,
+    "serverResponseTime": 546,
+    "ttfb": 522,
+    "domContentLoadedTime": 1224,
+    "tti": 1193,
+    "fullyLoadedTime": 17882,
+    "lcp": {
+      "value": 1288,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 17882,
+    "domReadyTime": 17297,
+    "firstPaint": 574,
+    "firstContentfulPaint": 1193,
+    "pageSize": 250105,
+    "domSize": 1734
+  },
+  "https://orient.spbu.ru/index.php/ru/novosti/smi-o-nas": {
+    "url": "https://orient.spbu.ru/index.php/ru/novosti/smi-o-nas",
+    "redirectTime": 0,
+    "serverResponseTime": 675,
+    "ttfb": 567,
+    "domContentLoadedTime": 1399,
+    "tti": 1366,
+    "fullyLoadedTime": 25063,
+    "lcp": {
+      "value": 3324,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 25063,
+    "domReadyTime": 24408,
+    "firstPaint": 643,
+    "firstContentfulPaint": 1366,
+    "pageSize": 232885,
+    "domSize": 1706
+  },
+  "https://orient.spbu.ru/index.php/ru/novosti/arkhiv-foto-video": {
+    "url": "https://orient.spbu.ru/index.php/ru/novosti/arkhiv-foto-video",
+    "redirectTime": 0,
+    "serverResponseTime": 586,
+    "ttfb": 555,
+    "domContentLoadedTime": 3808,
+    "tti": 3774,
+    "fullyLoadedTime": 14491,
+    "lcp": {
+      "value": 4112,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 14491,
+    "domReadyTime": 13875,
+    "firstPaint": 603,
+    "firstContentfulPaint": 3774,
+    "pageSize": 147549,
+    "domSize": 1085
+  },
+  "https://orient.spbu.ru/index.php/ru/kontakty": {
+    "url": "https://orient.spbu.ru/index.php/ru/kontakty",
+    "redirectTime": 0,
+    "serverResponseTime": 515,
+    "ttfb": 498,
+    "domContentLoadedTime": 1063,
+    "tti": 1048,
+    "fullyLoadedTime": 61089,
+    "lcp": {
+      "value": 1148,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 34
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 61089,
+    "domReadyTime": 60537,
+    "firstPaint": 544,
+    "firstContentfulPaint": 1048,
+    "pageSize": 92305,
+    "domSize": 1026
+  },
+  "https://orient.spbu.ru/index.php/ru/abiturientu/bakalavriat/programmy-bakalavriat-2025": {
+    "url": "https://orient.spbu.ru/index.php/ru/abiturientu/bakalavriat/programmy-bakalavriat-2025",
+    "redirectTime": 0,
+    "serverResponseTime": 660,
+    "ttfb": 658,
+    "domContentLoadedTime": 1259,
+    "tti": 1245,
+    "fullyLoadedTime": 6614,
+    "lcp": {
+      "value": 1408,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 6614,
+    "domReadyTime": 5896,
+    "firstPaint": 706,
+    "firstContentfulPaint": 1245,
+    "pageSize": 93489,
+    "domSize": 1000
+  },
+  "https://orient.spbu.ru/index.php/ru/abiturientu/magistratura/programmy-magistratura-2025": {
+    "url": "https://orient.spbu.ru/index.php/ru/abiturientu/magistratura/programmy-magistratura-2025",
+    "redirectTime": 0,
+    "serverResponseTime": 519,
+    "ttfb": 509,
+    "domContentLoadedTime": 1565,
+    "tti": 1550,
+    "fullyLoadedTime": 4011,
+    "lcp": {
+      "value": 1660,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4011,
+    "domReadyTime": 3443,
+    "firstPaint": 556,
+    "firstContentfulPaint": 1550,
+    "pageSize": 81842,
+    "domSize": 920
+  },
+  "https://orient.spbu.ru/index.php/ru/abiturientu/aspirantura/programmy-2022": {
+    "url": "https://orient.spbu.ru/index.php/ru/abiturientu/aspirantura/programmy-2022",
+    "redirectTime": 0,
+    "serverResponseTime": 503,
+    "ttfb": 486,
+    "domContentLoadedTime": 1044,
+    "tti": 1030,
+    "fullyLoadedTime": 2079,
+    "lcp": {
+      "value": 1144,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2079,
+    "domReadyTime": 1514,
+    "firstPaint": 552,
+    "firstContentfulPaint": 1030,
+    "pageSize": 72551,
+    "domSize": 862
+  },
+  "https://orient.spbu.ru/index.php/ru/abiturientu/onlajn-prezentatsii": {
+    "url": "https://orient.spbu.ru/index.php/ru/abiturientu/onlajn-prezentatsii",
+    "redirectTime": 0,
+    "serverResponseTime": 455,
+    "ttfb": 436,
+    "domContentLoadedTime": 1067,
+    "tti": 1054,
+    "fullyLoadedTime": 2417,
+    "lcp": {
+      "value": 1156,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2417,
+    "domReadyTime": 1920,
+    "firstPaint": 485,
+    "firstContentfulPaint": 1054,
+    "pageSize": 77825,
+    "domSize": 937
+  },
+  "https://orient.spbu.ru/index.php/ru/abiturientu/spisok-i-rejting-prepodavatelej": {
+    "url": "https://orient.spbu.ru/index.php/ru/abiturientu/spisok-i-rejting-prepodavatelej",
+    "redirectTime": 0,
+    "serverResponseTime": 487,
+    "ttfb": 462,
+    "domContentLoadedTime": 1199,
+    "tti": 1186,
+    "fullyLoadedTime": 9107,
+    "lcp": {
+      "value": 1220,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 9107,
+    "domReadyTime": 8587,
+    "firstPaint": 508,
+    "firstContentfulPaint": 1186,
+    "pageSize": 139266,
+    "domSize": 2288
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/ucheba/uchebnyj-i-uchebno-metodicheskij-otdely": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/ucheba/uchebnyj-i-uchebno-metodicheskij-otdely",
+    "redirectTime": 0,
+    "serverResponseTime": 577,
+    "ttfb": 558,
+    "domContentLoadedTime": 1324,
+    "tti": 1309,
+    "fullyLoadedTime": 6219,
+    "lcp": {
+      "value": 1376,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 6219,
+    "domReadyTime": 5596,
+    "firstPaint": 608,
+    "firstContentfulPaint": 1309,
+    "pageSize": 81762,
+    "domSize": 947
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/ucheba/uchebnye-materialy": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/ucheba/uchebnye-materialy",
+    "redirectTime": 0,
+    "serverResponseTime": 538,
+    "ttfb": 521,
+    "domContentLoadedTime": 1712,
+    "tti": 1698,
+    "fullyLoadedTime": 5057,
+    "lcp": {
+      "value": 1764,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5057,
+    "domReadyTime": 4475,
+    "firstPaint": 569,
+    "firstContentfulPaint": 1698,
+    "pageSize": 91053,
+    "domSize": 1113
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/ucheba/promezhutochnaya-i-itogovaya-attestatsiya": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/ucheba/promezhutochnaya-i-itogovaya-attestatsiya",
+    "redirectTime": 0,
+    "serverResponseTime": 698,
+    "ttfb": 671,
+    "domContentLoadedTime": 1362,
+    "tti": 1348,
+    "fullyLoadedTime": 3656,
+    "lcp": {
+      "value": 1412,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 25
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3656,
+    "domReadyTime": 2925,
+    "firstPaint": 719,
+    "firstContentfulPaint": 1348,
+    "pageSize": 124079,
+    "domSize": 1342
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/ucheba/obuchenie-v-aspiranture": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/ucheba/obuchenie-v-aspiranture",
+    "redirectTime": 0,
+    "serverResponseTime": 512,
+    "ttfb": 510,
+    "domContentLoadedTime": 1081,
+    "tti": 1067,
+    "fullyLoadedTime": 6830,
+    "lcp": {
+      "value": 1188,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 6830,
+    "domReadyTime": 6262,
+    "firstPaint": 556,
+    "firstContentfulPaint": 1067,
+    "pageSize": 70140,
+    "domSize": 855
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/ucheba/otdel-organizatsii-praktik-i-sodejstviya-trudoustrojstvu": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/ucheba/otdel-organizatsii-praktik-i-sodejstviya-trudoustrojstvu",
+    "redirectTime": 0,
+    "serverResponseTime": 539,
+    "ttfb": 537,
+    "domContentLoadedTime": 1400,
+    "tti": 1387,
+    "fullyLoadedTime": 7019,
+    "lcp": {
+      "value": 1492,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 24
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 7019,
+    "domReadyTime": 6419,
+    "firstPaint": 586,
+    "firstContentfulPaint": 1387,
+    "pageSize": 74805,
+    "domSize": 883
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/ucheba/spisok-i-rejting-prepodavatelej": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/ucheba/spisok-i-rejting-prepodavatelej",
+    "redirectTime": 0,
+    "serverResponseTime": 601,
+    "ttfb": 577,
+    "domContentLoadedTime": 1357,
+    "tti": 1339,
+    "fullyLoadedTime": 5804,
+    "lcp": {
+      "value": 1484,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5804,
+    "domReadyTime": 4985,
+    "firstPaint": 805,
+    "firstContentfulPaint": 1339,
+    "pageSize": 144784,
+    "domSize": 2331
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/prochee/normativnye-akty": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/prochee/normativnye-akty",
+    "redirectTime": 0,
+    "serverResponseTime": 465,
+    "ttfb": 463,
+    "domContentLoadedTime": 1019,
+    "tti": 1005,
+    "fullyLoadedTime": 10211,
+    "lcp": {
+      "value": 1096,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 24
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 10211,
+    "domReadyTime": 9687,
+    "firstPaint": 512,
+    "firstContentfulPaint": 1005,
+    "pageSize": 67024,
+    "domSize": 810
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/prochee/studsovet": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/prochee/studsovet",
+    "redirectTime": 0,
+    "serverResponseTime": 518,
+    "ttfb": 501,
+    "domContentLoadedTime": 1094,
+    "tti": 1080,
+    "fullyLoadedTime": 4943,
+    "lcp": {
+      "value": 1176,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4943,
+    "domReadyTime": 4379,
+    "firstPaint": 552,
+    "firstContentfulPaint": 1080,
+    "pageSize": 70454,
+    "domSize": 870
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/prochee/vneuchebnaya-zhizn": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/prochee/vneuchebnaya-zhizn",
+    "redirectTime": 0,
+    "serverResponseTime": 542,
+    "ttfb": 541,
+    "domContentLoadedTime": 1106,
+    "tti": 1092,
+    "fullyLoadedTime": 7023,
+    "lcp": {
+      "value": 2528,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 24
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 7023,
+    "domReadyTime": 6428,
+    "firstPaint": 586,
+    "firstContentfulPaint": 1092,
+    "pageSize": 69620,
+    "domSize": 849
+  },
+  "https://orient.spbu.ru/index.php/ru/studentu/prochee/perevody-i-vosstanovleniya": {
+    "url": "https://orient.spbu.ru/index.php/ru/studentu/prochee/perevody-i-vosstanovleniya",
+    "redirectTime": 0,
+    "serverResponseTime": 502,
+    "ttfb": 460,
+    "domContentLoadedTime": 1427,
+    "tti": 1415,
+    "fullyLoadedTime": 7327,
+    "lcp": {
+      "value": 1460,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7327,
+    "domReadyTime": 6771,
+    "firstPaint": 543,
+    "firstContentfulPaint": 1415,
+    "pageSize": 96292,
+    "domSize": 1113
+  },
+  "https://orient.spbu.ru/index.php/ru/vypuskniku/vakansii": {
+    "url": "https://orient.spbu.ru/index.php/ru/vypuskniku/vakansii",
+    "redirectTime": 0,
+    "serverResponseTime": 519,
+    "ttfb": 517,
+    "domContentLoadedTime": 1072,
+    "tti": 1058,
+    "fullyLoadedTime": 6401,
+    "lcp": {
+      "value": 1160,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 6401,
+    "domReadyTime": 5820,
+    "firstPaint": 568,
+    "firstContentfulPaint": 1058,
+    "pageSize": 73349,
+    "domSize": 881
+  },
+  "https://orient.spbu.ru/index.php/ru/prepodavatelyu/kadrovyj-rezerv": {
+    "url": "https://orient.spbu.ru/index.php/ru/prepodavatelyu/kadrovyj-rezerv",
+    "redirectTime": 0,
+    "serverResponseTime": 523,
+    "ttfb": 521,
+    "domContentLoadedTime": 1461,
+    "tti": 1447,
+    "fullyLoadedTime": 5012,
+    "lcp": {
+      "value": 1548,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://orient.spbu.ru/images/banners/bogolubov-banner.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5012,
+    "domReadyTime": 4355,
+    "firstPaint": 646,
+    "firstContentfulPaint": 1447,
+    "pageSize": 57589,
+    "domSize": 713
+  }
+}

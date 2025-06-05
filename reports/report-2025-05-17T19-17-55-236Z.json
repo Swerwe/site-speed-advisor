@@ -1,0 +1,486 @@
+{
+  "https://theology.spbu.ru/": {
+    "url": "https://theology.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 370,
+    "ttfb": 368,
+    "domContentLoadedTime": 882,
+    "tti": 875,
+    "fullyLoadedTime": 2636,
+    "lcp": {
+      "value": 976,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2636,
+    "domReadyTime": 2025,
+    "firstPaint": 599,
+    "firstContentfulPaint": 875,
+    "pageSize": 35628,
+    "domSize": 259
+  },
+  "https://theology.spbu.ru/novosti-i-sobytiya/vse-novosti-i-sobytiya.html": {
+    "url": "https://theology.spbu.ru/novosti-i-sobytiya/vse-novosti-i-sobytiya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 202,
+    "ttfb": 201,
+    "domContentLoadedTime": 1655,
+    "tti": 1649,
+    "fullyLoadedTime": 1730,
+    "lcp": {
+      "value": 1728,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1730,
+    "domReadyTime": 389,
+    "firstPaint": 1331,
+    "firstContentfulPaint": 1649,
+    "pageSize": 16934,
+    "domSize": 183
+  },
+  "https://theology.spbu.ru/#": {
+    "url": "https://theology.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 401,
+    "ttfb": 399,
+    "domContentLoadedTime": 683,
+    "tti": 675,
+    "fullyLoadedTime": 2129,
+    "lcp": {
+      "value": 768,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2129,
+    "domReadyTime": 1651,
+    "firstPaint": 465,
+    "firstContentfulPaint": 675,
+    "pageSize": 35628,
+    "domSize": 259
+  },
+  "https://theology.spbu.ru/ob-institute/direktor.html": {
+    "url": "https://theology.spbu.ru/ob-institute/direktor.html",
+    "redirectTime": 0,
+    "serverResponseTime": 202,
+    "ttfb": 201,
+    "domContentLoadedTime": 468,
+    "tti": 462,
+    "fullyLoadedTime": 5912,
+    "lcp": {
+      "value": 560,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 5912,
+    "domReadyTime": 5650,
+    "firstPaint": 251,
+    "firstContentfulPaint": 462,
+    "pageSize": 32978,
+    "domSize": 217
+  },
+  "https://theology.spbu.ru/ob-institute/sotrudniki.html": {
+    "url": "https://theology.spbu.ru/ob-institute/sotrudniki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 310,
+    "ttfb": 308,
+    "domContentLoadedTime": 556,
+    "tti": 549,
+    "fullyLoadedTime": 6822,
+    "lcp": {
+      "value": 636,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://theology.spbu.ru/images/ovsyannikov.jpeg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 22
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 6822,
+    "domReadyTime": 6450,
+    "firstPaint": 358,
+    "firstContentfulPaint": 549,
+    "pageSize": 43509,
+    "domSize": 322
+  },
+  "https://theology.spbu.ru/ob-institute/intervyu.html": {
+    "url": "https://theology.spbu.ru/ob-institute/intervyu.html",
+    "redirectTime": 0,
+    "serverResponseTime": 181,
+    "ttfb": 180,
+    "domContentLoadedTime": 517,
+    "tti": 510,
+    "fullyLoadedTime": 717,
+    "lcp": {
+      "value": 628,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 717,
+    "domReadyTime": 403,
+    "firstPaint": 304,
+    "firstContentfulPaint": 510,
+    "pageSize": 16584,
+    "domSize": 159
+  },
+  "https://theology.spbu.ru/ob-institute/kafedry.html": {
+    "url": "https://theology.spbu.ru/ob-institute/kafedry.html",
+    "redirectTime": 0,
+    "serverResponseTime": 189,
+    "ttfb": 188,
+    "domContentLoadedTime": 508,
+    "tti": 501,
+    "fullyLoadedTime": 843,
+    "lcp": {
+      "value": 572,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 843,
+    "domReadyTime": 600,
+    "firstPaint": 235,
+    "firstContentfulPaint": 501,
+    "pageSize": 16396,
+    "domSize": 166
+  },
+  "https://theology.spbu.ru/abiturientu.html": {
+    "url": "https://theology.spbu.ru/abiturientu.html",
+    "redirectTime": 0,
+    "serverResponseTime": 209,
+    "ttfb": 208,
+    "domContentLoadedTime": 730,
+    "tti": 724,
+    "fullyLoadedTime": 834,
+    "lcp": {
+      "value": 820,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 834,
+    "domReadyTime": 529,
+    "firstPaint": 296,
+    "firstContentfulPaint": 724,
+    "pageSize": 17051,
+    "domSize": 200
+  },
+  "https://theology.spbu.ru/studentu.html": {
+    "url": "https://theology.spbu.ru/studentu.html",
+    "redirectTime": 0,
+    "serverResponseTime": 202,
+    "ttfb": 200,
+    "domContentLoadedTime": 658,
+    "tti": 650,
+    "fullyLoadedTime": 998,
+    "lcp": {
+      "value": 728,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 998,
+    "domReadyTime": 684,
+    "firstPaint": 304,
+    "firstContentfulPaint": 650,
+    "pageSize": 16915,
+    "domSize": 200
+  },
+  "https://theology.spbu.ru/studentu/obrazovatelnye-programmy.html": {
+    "url": "https://theology.spbu.ru/studentu/obrazovatelnye-programmy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 190,
+    "ttfb": 189,
+    "domContentLoadedTime": 746,
+    "tti": 740,
+    "fullyLoadedTime": 796,
+    "lcp": {
+      "value": 824,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 796,
+    "domReadyTime": 388,
+    "firstPaint": 399,
+    "firstContentfulPaint": 740,
+    "pageSize": 16936,
+    "domSize": 199
+  },
+  "https://theology.spbu.ru/voprosy-teologii.html": {
+    "url": "https://theology.spbu.ru/voprosy-teologii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 200,
+    "ttfb": 199,
+    "domContentLoadedTime": 60608,
+    "tti": 60601,
+    "fullyLoadedTime": 60842,
+    "lcp": {
+      "value": 60712,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theologyjournal/journal-new-2.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60842,
+    "domReadyTime": 492,
+    "firstPaint": 60339,
+    "firstContentfulPaint": 60601,
+    "pageSize": 14241,
+    "domSize": 183
+  },
+  "https://theology.spbu.ru/materialy/knigi.html": {
+    "url": "https://theology.spbu.ru/materialy/knigi.html",
+    "redirectTime": 0,
+    "serverResponseTime": 158,
+    "ttfb": 156,
+    "domContentLoadedTime": 779,
+    "tti": 773,
+    "fullyLoadedTime": 2314,
+    "lcp": {
+      "value": 1012,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2314,
+    "domReadyTime": 1758,
+    "firstPaint": 543,
+    "firstContentfulPaint": 773,
+    "pageSize": 21311,
+    "domSize": 176
+  },
+  "https://theology.spbu.ru/materialy/multimedia.html": {
+    "url": "https://theology.spbu.ru/materialy/multimedia.html",
+    "redirectTime": 0,
+    "serverResponseTime": 207,
+    "ttfb": 205,
+    "domContentLoadedTime": 592,
+    "tti": 585,
+    "fullyLoadedTime": 18877,
+    "lcp": {
+      "value": 768,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 646.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 18877,
+    "domReadyTime": 18615,
+    "firstPaint": 254,
+    "firstContentfulPaint": 585,
+    "pageSize": 16103,
+    "domSize": 167
+  },
+  "https://theology.spbu.ru/contacts.html": {
+    "url": "https://theology.spbu.ru/contacts.html",
+    "redirectTime": 0,
+    "serverResponseTime": 163,
+    "ttfb": 162,
+    "domContentLoadedTime": 397,
+    "tti": 391,
+    "fullyLoadedTime": 578,
+    "lcp": {
+      "value": 564,
+      "lcpElementType": "text",
+      "lcpElementTag": "h5",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 578,
+    "domReadyTime": 359,
+    "firstPaint": 211,
+    "firstContentfulPaint": 391,
+    "pageSize": 11227,
+    "domSize": 143
+  },
+  "https://theology.spbu.ru/#offcanvas": {
+    "url": "https://theology.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 386,
+    "ttfb": 385,
+    "domContentLoadedTime": 772,
+    "tti": 765,
+    "fullyLoadedTime": 1646,
+    "lcp": {
+      "value": 864,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://theology.spbu.ru/images/theology-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1646,
+    "domReadyTime": 1164,
+    "firstPaint": 462,
+    "firstContentfulPaint": 765,
+    "pageSize": 35628,
+    "domSize": 259
+  }
+}

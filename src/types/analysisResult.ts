@@ -1,27 +1,27 @@
 import { RecommendationObject } from "../recommendations/types";
 
 export interface PerformanceMetrics {
-  // Основные метрики производительности
+  url: string;
   redirectTime: number;
   serverResponseTime: number;
-  ttfb: number; // Time to First Byte
+  ttfb: number;
   domContentLoadedTime: number;
-  tti?: number; // Time to Interactive (опционально, так как может быть сложно вычислить)
+  tti?: number;
   fullyLoadedTime: number;
   
-  // Дополнительные метрики
+
   firstPaint: number;
   firstContentfulPaint: number;
   
-  // Ресурсные метрики
-  pageSize: number; // Общий размер страницы в байтах
-  domSize: number; // Размер DOM (количество элементов)
+
+  pageSize: number;
+  domSize: number;
   
-  // Дополнительные метрики для обратной совместимости
+
   loadTime: number;
   domReadyTime: number;
 
-  // WebVitals
+
   tbt: {
     value: number,
     longTasks: { duration: number, startTime: number, name: string }[];
@@ -41,6 +41,7 @@ export interface PerformanceMetrics {
 
 export interface ReportData extends PerformanceMetrics {
   url: string;
+  metricsObject? : Record<string, PerformanceMetrics>
   recommendationObject: RecommendationObject;
   screenshot?: Uint8Array | Buffer; // Универсальный тип для скриншотов
   timestamp?: number; // Дата создания отчета (timestamp)

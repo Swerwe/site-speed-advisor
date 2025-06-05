@@ -4,14 +4,23 @@ import { PageData } from '../types/pageData';
 import { launchBrowser } from './puppeteerHelper';
 import { config } from '../config/config';
 import { logger } from '../utils/logger';
-
-export async function crawlDomain(url: string, maxLinks: number = 10): Promise<PageData[]> {
+const waitForTimeout = (ms: number) => {
+    return new Promise(function (resolve, reject) {
+        setTimeout(function () {
+          resolve(true);
+        }, ms);
+      });
+}
+export async function crawlDomain(url: string, maxLinks: number = 10): Promise<{
+    pageDataArray: PageData[];
+    urlsToLoad: string[];
+}> {
     const browser = await launchBrowser();
     const page = await browser.newPage();
     await page.setViewport(config.puppeteer.defaultViewport);
 
     logger.info(`Crawling root page: ${url}`);
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+    await page.goto(url, { waitUntil: 'load', timeout: 90000 });
 
     // Извлекаем до 10 ссылок из <nav> или всех ссылок на странице
     const links: string[] = await page.evaluate(() => {
@@ -40,6 +49,7 @@ export async function crawlDomain(url: string, maxLinks: number = 10): Promise<P
     const results: PageData[] = [];
 
     for (const pageUrl of urlsToLoad) {
+        await waitForTimeout(20_000)
         try {
             const data = await loadPage(pageUrl);
             results.push(data);
@@ -48,5 +58,5 @@ export async function crawlDomain(url: string, maxLinks: number = 10): Promise<P
         }
     }
 
-    return results;
+    return {pageDataArray: results, urlsToLoad};
 }

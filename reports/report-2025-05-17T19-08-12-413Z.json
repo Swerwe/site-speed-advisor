@@ -1,0 +1,322 @@
+{
+  "https://philosophy.spbu.ru/ru/": {
+    "url": "https://philosophy.spbu.ru/ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 128,
+    "ttfb": 127,
+    "domContentLoadedTime": 684,
+    "tti": 673,
+    "fullyLoadedTime": 1423,
+    "lcp": {
+      "value": 772,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1423,
+    "domReadyTime": 1115,
+    "firstPaint": 294,
+    "firstContentfulPaint": 673,
+    "pageSize": 20427,
+    "domSize": 188
+  },
+  "https://philosophy.spbu.ru/ru/anonsy.html": {
+    "url": "https://philosophy.spbu.ru/ru/anonsy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 552,
+    "ttfb": 104,
+    "domContentLoadedTime": 1102,
+    "tti": 1095,
+    "fullyLoadedTime": 1271,
+    "lcp": {
+      "value": 1164,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1271,
+    "domReadyTime": 900,
+    "firstPaint": 360,
+    "firstContentfulPaint": 1095,
+    "pageSize": 14985,
+    "domSize": 166
+  },
+  "https://philosophy.spbu.ru/ru/institut.html": {
+    "url": "https://philosophy.spbu.ru/ru/institut.html",
+    "redirectTime": 0,
+    "serverResponseTime": 105,
+    "ttfb": 104,
+    "domContentLoadedTime": 507,
+    "tti": 500,
+    "fullyLoadedTime": 595,
+    "lcp": {
+      "value": 536,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 595,
+    "domReadyTime": 441,
+    "firstPaint": 147,
+    "firstContentfulPaint": 500,
+    "pageSize": 13248,
+    "domSize": 156
+  },
+  "https://philosophy.spbu.ru/ru/abiturientam.html": {
+    "url": "https://philosophy.spbu.ru/ru/abiturientam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 359,
+    "ttfb": 358,
+    "domContentLoadedTime": 698,
+    "tti": 691,
+    "fullyLoadedTime": 788,
+    "lcp": {
+      "value": 740,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 788,
+    "domReadyTime": 370,
+    "firstPaint": 409,
+    "firstContentfulPaint": 691,
+    "pageSize": 20575,
+    "domSize": 222
+  },
+  "https://philosophy.spbu.ru/ru/studentam.html": {
+    "url": "https://philosophy.spbu.ru/ru/studentam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 114,
+    "ttfb": 112,
+    "domContentLoadedTime": 622,
+    "tti": 614,
+    "fullyLoadedTime": 728,
+    "lcp": {
+      "value": 648,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 728,
+    "domReadyTime": 494,
+    "firstPaint": 223,
+    "firstContentfulPaint": 615,
+    "pageSize": 19377,
+    "domSize": 235
+  },
+  "https://philosophy.spbu.ru/ru/sotrudnikam.html": {
+    "url": "https://philosophy.spbu.ru/ru/sotrudnikam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 187,
+    "ttfb": 187,
+    "domContentLoadedTime": 455,
+    "tti": 448,
+    "fullyLoadedTime": 525,
+    "lcp": {
+      "value": 484,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 525,
+    "domReadyTime": 243,
+    "firstPaint": 276,
+    "firstContentfulPaint": 448,
+    "pageSize": 19089,
+    "domSize": 214
+  },
+  "https://philosophy.spbu.ru/ru/nauka.html": {
+    "url": "https://philosophy.spbu.ru/ru/nauka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 116,
+    "ttfb": 114,
+    "domContentLoadedTime": 447,
+    "tti": 440,
+    "fullyLoadedTime": 507,
+    "lcp": {
+      "value": 484,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 507,
+    "domReadyTime": 339,
+    "firstPaint": 159,
+    "firstContentfulPaint": 440,
+    "pageSize": 15805,
+    "domSize": 180
+  },
+  "https://philosophy.spbu.ru/ru/biblioteka.html": {
+    "url": "https://philosophy.spbu.ru/ru/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 185,
+    "ttfb": 183,
+    "domContentLoadedTime": 471,
+    "tti": 465,
+    "fullyLoadedTime": 28283,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/philos-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 28283,
+    "domReadyTime": 27984,
+    "firstPaint": 288,
+    "firstContentfulPaint": 465,
+    "pageSize": 15744,
+    "domSize": 186
+  },
+  "https://philosophy.spbu.ru/ru/#offcanvas": {
+    "url": "https://philosophy.spbu.ru/ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 117,
+    "ttfb": 113,
+    "domContentLoadedTime": 452,
+    "tti": 442,
+    "fullyLoadedTime": 1376,
+    "lcp": {
+      "value": 1428,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/conferences/2025-Kagan-Readings/2025-Kagan-readings.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1376,
+    "domReadyTime": 1199,
+    "firstPaint": 160,
+    "firstContentfulPaint": 442,
+    "pageSize": 20427,
+    "domSize": 188
+  },
+  "https://philosophy.spbu.ru/": {
+    "url": "https://philosophy.spbu.ru/",
+    "redirectTime": 166,
+    "serverResponseTime": 83,
+    "ttfb": 82,
+    "domContentLoadedTime": 531,
+    "tti": 522,
+    "fullyLoadedTime": 1626,
+    "lcp": {
+      "value": 1672,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://philosophy.spbu.ru/images/conferences/2025-Kagan-Readings/2025-Kagan-readings.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1626,
+    "domReadyTime": 1360,
+    "firstPaint": 250,
+    "firstContentfulPaint": 522,
+    "pageSize": 20427,
+    "domSize": 188
+  }
+}

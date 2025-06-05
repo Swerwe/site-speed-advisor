@@ -1,0 +1,608 @@
+{
+  "https://sir.spbu.ru/": {
+    "url": "https://sir.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 307,
+    "ttfb": 306,
+    "domContentLoadedTime": 564,
+    "tti": 555,
+    "fullyLoadedTime": 1273,
+    "lcp": {
+      "value": 608,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/banners/entrance_sb.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1273,
+    "domReadyTime": 914,
+    "firstPaint": 352,
+    "firstContentfulPaint": 555,
+    "pageSize": 20320,
+    "domSize": 221
+  },
+  "https://sir.spbu.ru/news/mnenie-ekspertov.html": {
+    "url": "https://sir.spbu.ru/news/mnenie-ekspertov.html",
+    "redirectTime": 0,
+    "serverResponseTime": 227,
+    "ttfb": 226,
+    "domContentLoadedTime": 681,
+    "tti": 674,
+    "fullyLoadedTime": 1004,
+    "lcp": {
+      "value": 756,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1004,
+    "domReadyTime": 654,
+    "firstPaint": 342,
+    "firstContentfulPaint": 674,
+    "pageSize": 17612,
+    "domSize": 207
+  },
+  "https://sir.spbu.ru/news/spetsreportazh.html": {
+    "url": "https://sir.spbu.ru/news/spetsreportazh.html",
+    "redirectTime": 0,
+    "serverResponseTime": 203,
+    "ttfb": 202,
+    "domContentLoadedTime": 801,
+    "tti": 794,
+    "fullyLoadedTime": 1243,
+    "lcp": {
+      "value": 872,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1243,
+    "domReadyTime": 894,
+    "firstPaint": 344,
+    "firstContentfulPaint": 794,
+    "pageSize": 18047,
+    "domSize": 209
+  },
+  "https://sir.spbu.ru/anonsy.html": {
+    "url": "https://sir.spbu.ru/anonsy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 322,
+    "ttfb": 320,
+    "domContentLoadedTime": 558,
+    "tti": 551,
+    "fullyLoadedTime": 783,
+    "lcp": {
+      "value": 588,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 783,
+    "domReadyTime": 410,
+    "firstPaint": 365,
+    "firstContentfulPaint": 551,
+    "pageSize": 15419,
+    "domSize": 214
+  },
+  "https://sir.spbu.ru/fakultet.html": {
+    "url": "https://sir.spbu.ru/fakultet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 198,
+    "ttfb": 197,
+    "domContentLoadedTime": 761,
+    "tti": 754,
+    "fullyLoadedTime": 1024,
+    "lcp": {
+      "value": 792,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1024,
+    "domReadyTime": 699,
+    "firstPaint": 317,
+    "firstContentfulPaint": 754,
+    "pageSize": 13414,
+    "domSize": 176
+  },
+  "https://sir.spbu.ru/fakultet/dekan.html": {
+    "url": "https://sir.spbu.ru/fakultet/dekan.html",
+    "redirectTime": 0,
+    "serverResponseTime": 244,
+    "ttfb": 244,
+    "domContentLoadedTime": 527,
+    "tti": 522,
+    "fullyLoadedTime": 1209,
+    "lcp": {
+      "value": 608,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1209,
+    "domReadyTime": 916,
+    "firstPaint": 288,
+    "firstContentfulPaint": 522,
+    "pageSize": 29384,
+    "domSize": 230
+  },
+  "https://sir.spbu.ru/fakultet/kafedry.html": {
+    "url": "https://sir.spbu.ru/fakultet/kafedry.html",
+    "redirectTime": 0,
+    "serverResponseTime": 189,
+    "ttfb": 188,
+    "domContentLoadedTime": 531,
+    "tti": 526,
+    "fullyLoadedTime": 1222,
+    "lcp": {
+      "value": 628,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1222,
+    "domReadyTime": 985,
+    "firstPaint": 234,
+    "firstContentfulPaint": 526,
+    "pageSize": 12063,
+    "domSize": 178
+  },
+  "https://sir.spbu.ru/fakultet/podrazdeleniya.html": {
+    "url": "https://sir.spbu.ru/fakultet/podrazdeleniya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 258,
+    "ttfb": 257,
+    "domContentLoadedTime": 570,
+    "tti": 564,
+    "fullyLoadedTime": 1192,
+    "lcp": {
+      "value": 644,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1192,
+    "domReadyTime": 884,
+    "firstPaint": 302,
+    "firstContentfulPaint": 564,
+    "pageSize": 13195,
+    "domSize": 183
+  },
+  "https://sir.spbu.ru/fakultet/prepodavateli.html": {
+    "url": "https://sir.spbu.ru/fakultet/prepodavateli.html",
+    "redirectTime": 0,
+    "serverResponseTime": 280,
+    "ttfb": 278,
+    "domContentLoadedTime": 784,
+    "tti": 778,
+    "fullyLoadedTime": 1198,
+    "lcp": {
+      "value": 860,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1198,
+    "domReadyTime": 861,
+    "firstPaint": 328,
+    "firstContentfulPaint": 778,
+    "pageSize": 59278,
+    "domSize": 1160
+  },
+  "https://sir.spbu.ru/fakultet/istoriya-fakulteta.html": {
+    "url": "https://sir.spbu.ru/fakultet/istoriya-fakulteta.html",
+    "redirectTime": 0,
+    "serverResponseTime": 223,
+    "ttfb": 223,
+    "domContentLoadedTime": 589,
+    "tti": 584,
+    "fullyLoadedTime": 1668,
+    "lcp": {
+      "value": 744,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1668,
+    "domReadyTime": 1375,
+    "firstPaint": 271,
+    "firstContentfulPaint": 584,
+    "pageSize": 59335,
+    "domSize": 317
+  },
+  "https://sir.spbu.ru/postupayushchim.html": {
+    "url": "https://sir.spbu.ru/postupayushchim.html",
+    "redirectTime": 0,
+    "serverResponseTime": 196,
+    "ttfb": 195,
+    "domContentLoadedTime": 530,
+    "tti": 524,
+    "fullyLoadedTime": 994,
+    "lcp": {
+      "value": 568,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 994,
+    "domReadyTime": 665,
+    "firstPaint": 320,
+    "firstContentfulPaint": 524,
+    "pageSize": 20122,
+    "domSize": 273
+  },
+  "https://sir.spbu.ru/obuchayushchimsya.html": {
+    "url": "https://sir.spbu.ru/obuchayushchimsya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 184,
+    "ttfb": 183,
+    "domContentLoadedTime": 760,
+    "tti": 753,
+    "fullyLoadedTime": 4354,
+    "lcp": {
+      "value": 788,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4354,
+    "domReadyTime": 4064,
+    "firstPaint": 283,
+    "firstContentfulPaint": 753,
+    "pageSize": 12779,
+    "domSize": 183
+  },
+  "https://sir.spbu.ru/dopolnitelnoe-obrazovanie.html": {
+    "url": "https://sir.spbu.ru/dopolnitelnoe-obrazovanie.html",
+    "redirectTime": 0,
+    "serverResponseTime": 184,
+    "ttfb": 182,
+    "domContentLoadedTime": 670,
+    "tti": 664,
+    "fullyLoadedTime": 1274,
+    "lcp": {
+      "value": 700,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1274,
+    "domReadyTime": 1008,
+    "firstPaint": 258,
+    "firstContentfulPaint": 664,
+    "pageSize": 20874,
+    "domSize": 237
+  },
+  "https://sir.spbu.ru/nauka.html": {
+    "url": "https://sir.spbu.ru/nauka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 477,
+    "ttfb": 476,
+    "domContentLoadedTime": 906,
+    "tti": 899,
+    "fullyLoadedTime": 36065,
+    "lcp": {
+      "value": 988,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 36065,
+    "domReadyTime": 35498,
+    "firstPaint": 558,
+    "firstContentfulPaint": 899,
+    "pageSize": 13890,
+    "domSize": 183
+  },
+  "https://sir.spbu.ru/nauka/laboratorii-i-tsentry.html": {
+    "url": "https://sir.spbu.ru/nauka/laboratorii-i-tsentry.html",
+    "redirectTime": 0,
+    "serverResponseTime": 192,
+    "ttfb": 191,
+    "domContentLoadedTime": 516,
+    "tti": 509,
+    "fullyLoadedTime": 1283,
+    "lcp": {
+      "value": 556,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1283,
+    "domReadyTime": 957,
+    "firstPaint": 318,
+    "firstContentfulPaint": 509,
+    "pageSize": 14072,
+    "domSize": 210
+  },
+  "https://sir.spbu.ru/nauka/sno.html": {
+    "url": "https://sir.spbu.ru/nauka/sno.html",
+    "redirectTime": 0,
+    "serverResponseTime": 299,
+    "ttfb": 281,
+    "domContentLoadedTime": 1776,
+    "tti": 1770,
+    "fullyLoadedTime": 2773,
+    "lcp": {
+      "value": 2056,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2773,
+    "domReadyTime": 1358,
+    "firstPaint": 1408,
+    "firstContentfulPaint": 1770,
+    "pageSize": 17653,
+    "domSize": 174
+  },
+  "https://sir.spbu.ru/sotrudnikam.html": {
+    "url": "https://sir.spbu.ru/sotrudnikam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 275,
+    "ttfb": 274,
+    "domContentLoadedTime": 528,
+    "tti": 522,
+    "fullyLoadedTime": 1148,
+    "lcp": {
+      "value": 564,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1148,
+    "domReadyTime": 822,
+    "firstPaint": 318,
+    "firstContentfulPaint": 522,
+    "pageSize": 16904,
+    "domSize": 222
+  },
+  "https://sir.spbu.ru/biblioteka.html": {
+    "url": "https://sir.spbu.ru/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 536,
+    "ttfb": 534,
+    "domContentLoadedTime": 1011,
+    "tti": 1003,
+    "fullyLoadedTime": 1676,
+    "lcp": {
+      "value": 1164,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://sir.spbu.ru/images/Logos/sir_logo_440%D1%8590.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 15
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1676,
+    "domReadyTime": 1040,
+    "firstPaint": 627,
+    "firstContentfulPaint": 1003,
+    "pageSize": 33133,
+    "domSize": 399
+  },
+  "https://sir.spbu.ru/#offcanvas": {
+    "url": "https://sir.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 259,
+    "ttfb": 257,
+    "domContentLoadedTime": 808,
+    "tti": 798,
+    "fullyLoadedTime": 1911,
+    "lcp": {
+      "value": 836,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sir.spbu.ru/images/banners/entrance_sb.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1911,
+    "domReadyTime": 1590,
+    "firstPaint": 303,
+    "firstContentfulPaint": 798,
+    "pageSize": 20312,
+    "domSize": 221
+  }
+}

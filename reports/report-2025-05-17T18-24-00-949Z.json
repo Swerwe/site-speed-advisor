@@ -1,0 +1,1233 @@
+{
+  "https://earth.spbu.ru/": {
+    "url": "https://earth.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 94,
+    "ttfb": 73,
+    "domContentLoadedTime": 236,
+    "tti": 212,
+    "fullyLoadedTime": 618,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 38
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 618,
+    "domReadyTime": 477,
+    "firstPaint": 132,
+    "firstContentfulPaint": 235,
+    "pageSize": 171338,
+    "domSize": 988
+  },
+  "https://earth.spbu.ru/join": {
+    "url": "https://earth.spbu.ru/join",
+    "redirectTime": 0,
+    "serverResponseTime": 189,
+    "ttfb": 88,
+    "domContentLoadedTime": 379,
+    "tti": 359,
+    "fullyLoadedTime": 565,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 565,
+    "domReadyTime": 406,
+    "firstPaint": 150,
+    "firstContentfulPaint": 378,
+    "pageSize": 118335,
+    "domSize": 740
+  },
+  "https://earth.spbu.ru/join-b": {
+    "url": "https://earth.spbu.ru/join-b",
+    "redirectTime": 0,
+    "serverResponseTime": 81,
+    "ttfb": 63,
+    "domContentLoadedTime": 291,
+    "tti": 271,
+    "fullyLoadedTime": 596,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 596,
+    "domReadyTime": 404,
+    "firstPaint": 183,
+    "firstContentfulPaint": 288,
+    "pageSize": 142706,
+    "domSize": 918
+  },
+  "https://earth.spbu.ru/join-m": {
+    "url": "https://earth.spbu.ru/join-m",
+    "redirectTime": 0,
+    "serverResponseTime": 43,
+    "ttfb": 39,
+    "domContentLoadedTime": 561,
+    "tti": 539,
+    "fullyLoadedTime": 1179,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1179,
+    "domReadyTime": 721,
+    "firstPaint": 448,
+    "firstContentfulPaint": 560,
+    "pageSize": 163153,
+    "domSize": 1055
+  },
+  "https://earth.spbu.ru/join-a": {
+    "url": "https://earth.spbu.ru/join-a",
+    "redirectTime": 0,
+    "serverResponseTime": 125,
+    "ttfb": 102,
+    "domContentLoadedTime": 271,
+    "tti": 239,
+    "fullyLoadedTime": 472,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 472,
+    "domReadyTime": 310,
+    "firstPaint": 154,
+    "firstContentfulPaint": 267,
+    "pageSize": 163429,
+    "domSize": 1067
+  },
+  "https://earth.spbu.ru/multigeo": {
+    "url": "https://earth.spbu.ru/multigeo",
+    "redirectTime": 0,
+    "serverResponseTime": 116,
+    "ttfb": 93,
+    "domContentLoadedTime": 312,
+    "tti": 291,
+    "fullyLoadedTime": 918,
+    "lcp": {
+      "value": 880,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 918,
+    "domReadyTime": 750,
+    "firstPaint": 159,
+    "firstContentfulPaint": 308,
+    "pageSize": 152571,
+    "domSize": 1003
+  },
+  "https://earth.spbu.ru/olimpiada-geography": {
+    "url": "https://earth.spbu.ru/olimpiada-geography",
+    "redirectTime": 0,
+    "serverResponseTime": 90,
+    "ttfb": 72,
+    "domContentLoadedTime": 265,
+    "tti": 223,
+    "fullyLoadedTime": 3604,
+    "lcp": {
+      "value": 1240,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3604,
+    "domReadyTime": 3475,
+    "firstPaint": 120,
+    "firstContentfulPaint": 264,
+    "pageSize": 120809,
+    "domSize": 749
+  },
+  "https://earth.spbu.ru/petropolitan-science-research": {
+    "url": "https://earth.spbu.ru/petropolitan-science-research",
+    "redirectTime": 0,
+    "serverResponseTime": 86,
+    "ttfb": 70,
+    "domContentLoadedTime": 387,
+    "tti": 370,
+    "fullyLoadedTime": 3899,
+    "lcp": {
+      "value": 1600,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3899,
+    "domReadyTime": 3677,
+    "firstPaint": 213,
+    "firstContentfulPaint": 385,
+    "pageSize": 128267,
+    "domSize": 799
+  },
+  "https://earth.spbu.ru/education": {
+    "url": "https://earth.spbu.ru/education",
+    "redirectTime": 0,
+    "serverResponseTime": 76,
+    "ttfb": 71,
+    "domContentLoadedTime": 357,
+    "tti": 296,
+    "fullyLoadedTime": 502,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 502,
+    "domReadyTime": 375,
+    "firstPaint": 121,
+    "firstContentfulPaint": 355,
+    "pageSize": 108430,
+    "domSize": 700
+  },
+  "https://earth.spbu.ru/bachelor": {
+    "url": "https://earth.spbu.ru/bachelor",
+    "redirectTime": 0,
+    "serverResponseTime": 136,
+    "ttfb": 116,
+    "domContentLoadedTime": 426,
+    "tti": 396,
+    "fullyLoadedTime": 3670,
+    "lcp": {
+      "value": 1316,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3670,
+    "domReadyTime": 3345,
+    "firstPaint": 315,
+    "firstContentfulPaint": 423,
+    "pageSize": 119380,
+    "domSize": 731
+  },
+  "https://earth.spbu.ru/magistrates": {
+    "url": "https://earth.spbu.ru/magistrates",
+    "redirectTime": 0,
+    "serverResponseTime": 99,
+    "ttfb": 82,
+    "domContentLoadedTime": 295,
+    "tti": 261,
+    "fullyLoadedTime": 720,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 720,
+    "domReadyTime": 537,
+    "firstPaint": 175,
+    "firstContentfulPaint": 293,
+    "pageSize": 120638,
+    "domSize": 738
+  },
+  "https://earth.spbu.ru/asp-edu": {
+    "url": "https://earth.spbu.ru/asp-edu",
+    "redirectTime": 0,
+    "serverResponseTime": 68,
+    "ttfb": 65,
+    "domContentLoadedTime": 318,
+    "tti": 213,
+    "fullyLoadedTime": 752,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 752,
+    "domReadyTime": 620,
+    "firstPaint": 125,
+    "firstContentfulPaint": 316,
+    "pageSize": 111253,
+    "domSize": 692
+  },
+  "https://earth.spbu.ru/study-programs-1": {
+    "url": "https://earth.spbu.ru/study-programs-1",
+    "redirectTime": 0,
+    "serverResponseTime": 82,
+    "ttfb": 66,
+    "domContentLoadedTime": 231,
+    "tti": 212,
+    "fullyLoadedTime": 415,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 415,
+    "domReadyTime": 273,
+    "firstPaint": 136,
+    "firstContentfulPaint": 228,
+    "pageSize": 132116,
+    "domSize": 914
+  },
+  "https://earth.spbu.ru/transefr": {
+    "url": "https://earth.spbu.ru/transefr",
+    "redirectTime": 0,
+    "serverResponseTime": 95,
+    "ttfb": 75,
+    "domContentLoadedTime": 407,
+    "tti": 388,
+    "fullyLoadedTime": 668,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 26
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 668,
+    "domReadyTime": 440,
+    "firstPaint": 217,
+    "firstContentfulPaint": 404,
+    "pageSize": 110098,
+    "domSize": 684
+  },
+  "https://earth.spbu.ru/dop": {
+    "url": "https://earth.spbu.ru/dop",
+    "redirectTime": 0,
+    "serverResponseTime": 89,
+    "ttfb": 69,
+    "domContentLoadedTime": 250,
+    "tti": 231,
+    "fullyLoadedTime": 562,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 562,
+    "domReadyTime": 428,
+    "firstPaint": 126,
+    "firstContentfulPaint": 248,
+    "pageSize": 107750,
+    "domSize": 660
+  },
+  "https://earth.spbu.ru/add-edu-prep-course-geo": {
+    "url": "https://earth.spbu.ru/add-edu-prep-course-geo",
+    "redirectTime": 0,
+    "serverResponseTime": 44,
+    "ttfb": 31,
+    "domContentLoadedTime": 281,
+    "tti": 267,
+    "fullyLoadedTime": 459,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 459,
+    "domReadyTime": 358,
+    "firstPaint": 96,
+    "firstContentfulPaint": 281,
+    "pageSize": 111400,
+    "domSize": 706
+  },
+  "https://earth.spbu.ru/stud-practic": {
+    "url": "https://earth.spbu.ru/stud-practic",
+    "redirectTime": 0,
+    "serverResponseTime": 89,
+    "ttfb": 73,
+    "domContentLoadedTime": 389,
+    "tti": 348,
+    "fullyLoadedTime": 725,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 725,
+    "domReadyTime": 442,
+    "firstPaint": 273,
+    "firstContentfulPaint": 388,
+    "pageSize": 108369,
+    "domSize": 682
+  },
+  "https://earth.spbu.ru/vypusk-2025": {
+    "url": "https://earth.spbu.ru/vypusk-2025",
+    "redirectTime": 0,
+    "serverResponseTime": 83,
+    "ttfb": 39,
+    "domContentLoadedTime": 228,
+    "tti": 207,
+    "fullyLoadedTime": 480,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 480,
+    "domReadyTime": 379,
+    "firstPaint": 96,
+    "firstContentfulPaint": 224,
+    "pageSize": 143926,
+    "domSize": 1021
+  },
+  "https://earth.spbu.ru/science": {
+    "url": "https://earth.spbu.ru/science",
+    "redirectTime": 0,
+    "serverResponseTime": 35,
+    "ttfb": 33,
+    "domContentLoadedTime": 315,
+    "tti": 290,
+    "fullyLoadedTime": 495,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 495,
+    "domReadyTime": 372,
+    "firstPaint": 117,
+    "firstContentfulPaint": 311,
+    "pageSize": 109494,
+    "domSize": 704
+  },
+  "https://earth.spbu.ru/expertise": {
+    "url": "https://earth.spbu.ru/expertise",
+    "redirectTime": 0,
+    "serverResponseTime": 103,
+    "ttfb": 73,
+    "domContentLoadedTime": 489,
+    "tti": 470,
+    "fullyLoadedTime": 1010,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 26
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1010,
+    "domReadyTime": 852,
+    "firstPaint": 150,
+    "firstContentfulPaint": 487,
+    "pageSize": 111832,
+    "domSize": 689
+  },
+  "https://earth.spbu.ru/groups": {
+    "url": "https://earth.spbu.ru/groups",
+    "redirectTime": 0,
+    "serverResponseTime": 51,
+    "ttfb": 50,
+    "domContentLoadedTime": 373,
+    "tti": 329,
+    "fullyLoadedTime": 503,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 503,
+    "domReadyTime": 349,
+    "firstPaint": 149,
+    "firstContentfulPaint": 369,
+    "pageSize": 102019,
+    "domSize": 635
+  },
+  "https://earth.spbu.ru/branches": {
+    "url": "https://earth.spbu.ru/branches",
+    "redirectTime": 0,
+    "serverResponseTime": 59,
+    "ttfb": 56,
+    "domContentLoadedTime": 352,
+    "tti": 319,
+    "fullyLoadedTime": 521,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 521,
+    "domReadyTime": 368,
+    "firstPaint": 144,
+    "firstContentfulPaint": 348,
+    "pageSize": 115599,
+    "domSize": 789
+  },
+  "https://earth.spbu.ru/lab": {
+    "url": "https://earth.spbu.ru/lab",
+    "redirectTime": 0,
+    "serverResponseTime": 80,
+    "ttfb": 63,
+    "domContentLoadedTime": 230,
+    "tti": 197,
+    "fullyLoadedTime": 487,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 26
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 487,
+    "domReadyTime": 359,
+    "firstPaint": 121,
+    "firstContentfulPaint": 226,
+    "pageSize": 103987,
+    "domSize": 632
+  },
+  "https://earth.spbu.ru/npr-1": {
+    "url": "https://earth.spbu.ru/npr-1",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 52,
+    "domContentLoadedTime": 184,
+    "tti": 164,
+    "fullyLoadedTime": 3469,
+    "lcp": {
+      "value": 1164,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3469,
+    "domReadyTime": 3360,
+    "firstPaint": 105,
+    "firstContentfulPaint": 182,
+    "pageSize": 374097,
+    "domSize": 4351
+  },
+  "https://earth.spbu.ru/staff": {
+    "url": "https://earth.spbu.ru/staff",
+    "redirectTime": 0,
+    "serverResponseTime": 82,
+    "ttfb": 65,
+    "domContentLoadedTime": 323,
+    "tti": 294,
+    "fullyLoadedTime": 496,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 52
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 496,
+    "domReadyTime": 278,
+    "firstPaint": 208,
+    "firstContentfulPaint": 320,
+    "pageSize": 418966,
+    "domSize": 2102
+  },
+  "https://earth.spbu.ru/library": {
+    "url": "https://earth.spbu.ru/library",
+    "redirectTime": 0,
+    "serverResponseTime": 107,
+    "ttfb": 66,
+    "domContentLoadedTime": 326,
+    "tti": 303,
+    "fullyLoadedTime": 525,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 39
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 525,
+    "domReadyTime": 311,
+    "firstPaint": 206,
+    "firstContentfulPaint": 325,
+    "pageSize": 160354,
+    "domSize": 958
+  },
+  "https://earth.spbu.ru/director": {
+    "url": "https://earth.spbu.ru/director",
+    "redirectTime": 0,
+    "serverResponseTime": 79,
+    "ttfb": 32,
+    "domContentLoadedTime": 191,
+    "tti": 159,
+    "fullyLoadedTime": 406,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 406,
+    "domReadyTime": 310,
+    "firstPaint": 89,
+    "firstContentfulPaint": 187,
+    "pageSize": 131799,
+    "domSize": 753
+  },
+  "https://earth.spbu.ru/news": {
+    "url": "https://earth.spbu.ru/news",
+    "redirectTime": 0,
+    "serverResponseTime": 173,
+    "ttfb": 70,
+    "domContentLoadedTime": 310,
+    "tti": 296,
+    "fullyLoadedTime": 610,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 610,
+    "domReadyTime": 472,
+    "firstPaint": 126,
+    "firstContentfulPaint": 309,
+    "pageSize": 320445,
+    "domSize": 2051
+  },
+  "https://earth.spbu.ru/events": {
+    "url": "https://earth.spbu.ru/events",
+    "redirectTime": 0,
+    "serverResponseTime": 91,
+    "ttfb": 80,
+    "domContentLoadedTime": 311,
+    "tti": 289,
+    "fullyLoadedTime": 557,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 557,
+    "domReadyTime": 387,
+    "firstPaint": 161,
+    "firstContentfulPaint": 308,
+    "pageSize": 177837,
+    "domSize": 1173
+  },
+  "https://earth.spbu.ru/administration": {
+    "url": "https://earth.spbu.ru/administration",
+    "redirectTime": 0,
+    "serverResponseTime": 90,
+    "ttfb": 68,
+    "domContentLoadedTime": 313,
+    "tti": 285,
+    "fullyLoadedTime": 705,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 705,
+    "domReadyTime": 489,
+    "firstPaint": 206,
+    "firstContentfulPaint": 310,
+    "pageSize": 145996,
+    "domSize": 1118
+  },
+  "https://earth.spbu.ru/uchmet-com": {
+    "url": "https://earth.spbu.ru/uchmet-com",
+    "redirectTime": 0,
+    "serverResponseTime": 111,
+    "ttfb": 94,
+    "domContentLoadedTime": 371,
+    "tti": 370,
+    "fullyLoadedTime": 574,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 574,
+    "domReadyTime": 422,
+    "firstPaint": 145,
+    "firstContentfulPaint": 370,
+    "pageSize": 120294,
+    "domSize": 828
+  },
+  "https://earth.spbu.ru/science-com": {
+    "url": "https://earth.spbu.ru/science-com",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 69,
+    "domContentLoadedTime": 426,
+    "tti": 364,
+    "fullyLoadedTime": 647,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 647,
+    "domReadyTime": 350,
+    "firstPaint": 291,
+    "firstContentfulPaint": 424,
+    "pageSize": 112297,
+    "domSize": 700
+  },
+  "https://earth.spbu.ru/academic-council": {
+    "url": "https://earth.spbu.ru/academic-council",
+    "redirectTime": 0,
+    "serverResponseTime": 49,
+    "ttfb": 37,
+    "domContentLoadedTime": 277,
+    "tti": 242,
+    "fullyLoadedTime": 541,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 541,
+    "domReadyTime": 422,
+    "firstPaint": 114,
+    "firstContentfulPaint": 273,
+    "pageSize": 109159,
+    "domSize": 683
+  },
+  "https://earth.spbu.ru/staff-com": {
+    "url": "https://earth.spbu.ru/staff-com",
+    "redirectTime": 0,
+    "serverResponseTime": 223,
+    "ttfb": 207,
+    "domContentLoadedTime": 459,
+    "tti": 330,
+    "fullyLoadedTime": 621,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 621,
+    "domReadyTime": 351,
+    "firstPaint": 259,
+    "firstContentfulPaint": 453,
+    "pageSize": 107286,
+    "domSize": 659
+  },
+  "https://earth.spbu.ru/studsovet": {
+    "url": "https://earth.spbu.ru/studsovet",
+    "redirectTime": 0,
+    "serverResponseTime": 189,
+    "ttfb": 185,
+    "domContentLoadedTime": 573,
+    "tti": 508,
+    "fullyLoadedTime": 695,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 695,
+    "domReadyTime": 396,
+    "firstPaint": 289,
+    "firstContentfulPaint": 570,
+    "pageSize": 107149,
+    "domSize": 672
+  },
+  "https://earth.spbu.ru/sno-inos-spbu": {
+    "url": "https://earth.spbu.ru/sno-inos-spbu",
+    "redirectTime": 0,
+    "serverResponseTime": 99,
+    "ttfb": 84,
+    "domContentLoadedTime": 308,
+    "tti": 257,
+    "fullyLoadedTime": 886,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 886,
+    "domReadyTime": 731,
+    "firstPaint": 148,
+    "firstContentfulPaint": 306,
+    "pageSize": 106966,
+    "domSize": 664
+  },
+  "https://earth.spbu.ru/spe-spbsu": {
+    "url": "https://earth.spbu.ru/spe-spbsu",
+    "redirectTime": 0,
+    "serverResponseTime": 87,
+    "ttfb": 85,
+    "domContentLoadedTime": 382,
+    "tti": 281,
+    "fullyLoadedTime": 1139,
+    "lcp": {
+      "value": 1068,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 26
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1139,
+    "domReadyTime": 987,
+    "firstPaint": 144,
+    "firstContentfulPaint": 377,
+    "pageSize": 101467,
+    "domSize": 626
+  },
+  "https://earth.spbu.ru/profcom": {
+    "url": "https://earth.spbu.ru/profcom",
+    "redirectTime": 0,
+    "serverResponseTime": 190,
+    "ttfb": 173,
+    "domContentLoadedTime": 1637,
+    "tti": 1606,
+    "fullyLoadedTime": 3036,
+    "lcp": {
+      "value": 2588,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3036,
+    "domReadyTime": 1569,
+    "firstPaint": 1455,
+    "firstContentfulPaint": 1635,
+    "pageSize": 106816,
+    "domSize": 660
+  },
+  "https://earth.spbu.ru/students": {
+    "url": "https://earth.spbu.ru/students",
+    "redirectTime": 0,
+    "serverResponseTime": 41,
+    "ttfb": 24,
+    "domContentLoadedTime": 316,
+    "tti": 207,
+    "fullyLoadedTime": 523,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 523,
+    "domReadyTime": 441,
+    "firstPaint": 77,
+    "firstContentfulPaint": 313,
+    "pageSize": 136259,
+    "domSize": 923
+  },
+  "https://earth.spbu.ru/for-staff": {
+    "url": "https://earth.spbu.ru/for-staff",
+    "redirectTime": 0,
+    "serverResponseTime": 99,
+    "ttfb": 80,
+    "domContentLoadedTime": 518,
+    "tti": 431,
+    "fullyLoadedTime": 1047,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1047,
+    "domReadyTime": 894,
+    "firstPaint": 146,
+    "firstContentfulPaint": 515,
+    "pageSize": 122140,
+    "domSize": 815
+  },
+  "https://earth.spbu.ru/graduates": {
+    "url": "https://earth.spbu.ru/graduates",
+    "redirectTime": 0,
+    "serverResponseTime": 43,
+    "ttfb": 41,
+    "domContentLoadedTime": 500,
+    "tti": 459,
+    "fullyLoadedTime": 3557,
+    "lcp": {
+      "value": 1408,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3557,
+    "domReadyTime": 3436,
+    "firstPaint": 111,
+    "firstContentfulPaint": 497,
+    "pageSize": 110163,
+    "domSize": 695
+  },
+  "https://earth.spbu.ru/personnel-reserve": {
+    "url": "https://earth.spbu.ru/personnel-reserve",
+    "redirectTime": 0,
+    "serverResponseTime": 48,
+    "ttfb": 42,
+    "domContentLoadedTime": 220,
+    "tti": 186,
+    "fullyLoadedTime": 663,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 26
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 663,
+    "domReadyTime": 548,
+    "firstPaint": 109,
+    "firstContentfulPaint": 218,
+    "pageSize": 102952,
+    "domSize": 638
+  },
+  "https://earth.spbu.ru/contacts": {
+    "url": "https://earth.spbu.ru/contacts",
+    "redirectTime": 0,
+    "serverResponseTime": 111,
+    "ttfb": 89,
+    "domContentLoadedTime": 287,
+    "tti": 261,
+    "fullyLoadedTime": 3681,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 62,
+      "longTasks": [
+        {
+          "duration": 61,
+          "startTime": 638.2999999821186,
+          "name": "self"
+        },
+        {
+          "duration": 101,
+          "startTime": 705.2999999821186,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 3681,
+    "domReadyTime": 3520,
+    "firstPaint": 152,
+    "firstContentfulPaint": 284,
+    "pageSize": 278454,
+    "domSize": 805
+  }
+}

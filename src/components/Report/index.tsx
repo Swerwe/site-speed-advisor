@@ -15,6 +15,7 @@ import MetricsComponent from './Metrics';
 import { Recommendations } from './Recommendations';
 import { PerformanceScore} from './PerformanceScore';
 import { Description } from './Description';
+import { OthersUrlsReport } from './OtherUrlsReport';
 
 interface ReportProps {
   data: ReportData;
@@ -41,6 +42,8 @@ export const Report: React.FC<ReportProps> = ({ data }) => {
                 <Description url ={data.url} />
                 <MetricsComponent data={data} />
               </div>
+
+             {data.metricsObject &&<OthersUrlsReport metricsObject={data.metricsObject} />}
             </div>
             </GlobalStyle>
         </body>

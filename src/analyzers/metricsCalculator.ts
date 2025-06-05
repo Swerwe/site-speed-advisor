@@ -22,6 +22,7 @@ export async function calculateMetrics(pageData: PageData) {
   const tti = timing.domInteractive ? timing.domInteractive - navigationStart : null;
 
   return {
+    url: pageData.url,
     redirectTime,
     serverResponseTime,
     ttfb,

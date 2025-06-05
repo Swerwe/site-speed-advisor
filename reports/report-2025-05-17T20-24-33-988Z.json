@@ -1,0 +1,34 @@
+{
+  "https://math.spbu.ru/rus/": {
+    "url": "https://math.spbu.ru/rus/",
+    "redirectTime": 0,
+    "serverResponseTime": 473,
+    "ttfb": 472,
+    "domContentLoadedTime": 729,
+    "tti": 708,
+    "fullyLoadedTime": 1167,
+    "lcp": {
+      "value": 1028,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://math.spbu.ru/images/banners/guide-math.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1167,
+    "domReadyTime": 639,
+    "firstPaint": 521,
+    "firstContentfulPaint": 708,
+    "pageSize": 39329,
+    "domSize": 482
+  }
+}

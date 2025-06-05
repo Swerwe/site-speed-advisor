@@ -2,6 +2,7 @@ import React from 'react';
 
 type Props = {
   percentage: number; // 0–100
+  size: number;
 };
 
 const getColor = (percentage: number): string => {
@@ -10,13 +11,13 @@ const getColor = (percentage: number): string => {
   return '#e74c3c'; // красный
 };
 
-export const PerformanceScoreChart: React.FC<Props> = ({ percentage }) => {
+export const PerformanceScoreChart: React.FC<Props> = ({ percentage, size }) => {
   const dashArray = `${percentage}, 100`;
   const color = getColor(percentage);
 
   return (
-    <div style={{ width: 200, fontFamily: 'sans-serif' }}>
-      <svg viewBox="0 0 36 36" width="200" height="200">
+    <div style={{ width: size, fontFamily: 'sans-serif' }}>
+      <svg viewBox="0 0 36 36" width={size} height={size}>
         {/* Фоновый круг */}
         <path
           d="M18 2.0845

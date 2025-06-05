@@ -1,6 +1,9 @@
 import { PerformanceMetrics } from "../types/analysisResult";
-
-export function averagePerformanceMetrics(metricsArray: Array<PerformanceMetrics | null>): PerformanceMetrics {
+type AveragePerformanceMetricsResult = {
+  averageAnalysisResult: PerformanceMetrics;
+  metricsObject: Record<string,PerformanceMetrics>;
+}
+export function averagePerformanceMetrics(metricsArray: Array<PerformanceMetrics | null>): AveragePerformanceMetricsResult {
     const count = metricsArray.length;
   
     const sum = {
@@ -22,9 +25,11 @@ export function averagePerformanceMetrics(metricsArray: Array<PerformanceMetrics
     };
   
     let ttiCount = 0;
-  
+    let metricsObject: Record<string,PerformanceMetrics> = {};
+
     for (const m of metricsArray) {
         if (m === null) continue;
+        metricsObject[m.url] = m;
         sum.redirectTime += m.redirectTime;
         sum.serverResponseTime += m.serverResponseTime;
         sum.ttfb += m.ttfb;
@@ -48,7 +53,8 @@ export function averagePerformanceMetrics(metricsArray: Array<PerformanceMetrics
         sum.lcpValue += m.lcp.value;
     }
   
-    const avg = {
+    const averageAnalysisResult = {
+      url: '',
       redirectTime: Math.round(sum.redirectTime / count),
       serverResponseTime: Math.round(sum.serverResponseTime / count),
       ttfb: Math.round(sum.ttfb / count),
@@ -77,6 +83,6 @@ export function averagePerformanceMetrics(metricsArray: Array<PerformanceMetrics
       },
     };
   
-    return avg;
+    return { averageAnalysisResult ,metricsObject};
   }
   

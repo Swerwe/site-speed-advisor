@@ -1,0 +1,2504 @@
+{
+  "https://spbu.ru/": {
+    "url": "https://spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 89,
+    "ttfb": 71,
+    "domContentLoadedTime": 4236,
+    "tti": 4176,
+    "fullyLoadedTime": 17022,
+    "lcp": {
+      "value": 16912,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 11,
+      "longTasks": [
+        {
+          "duration": 61,
+          "startTime": 4176.699999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 17022,
+    "domReadyTime": 16848,
+    "firstPaint": 135,
+    "firstContentfulPaint": 4176,
+    "pageSize": 135879,
+    "domSize": 1211
+  },
+  "https://spbu.ru/sveden": {
+    "url": "https://spbu.ru/sveden",
+    "redirectTime": 84,
+    "serverResponseTime": 76,
+    "ttfb": 55,
+    "domContentLoadedTime": 416,
+    "tti": 410,
+    "fullyLoadedTime": 1657,
+    "lcp": {
+      "value": 448,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 232,
+          "name": "unknown"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1657,
+    "domReadyTime": 1508,
+    "firstPaint": 141,
+    "firstContentfulPaint": 410,
+    "pageSize": 191045,
+    "domSize": 2468
+  },
+  "https://spbu.ru/openuniversity/politika-otkrytosti": {
+    "url": "https://spbu.ru/openuniversity/politika-otkrytosti",
+    "redirectTime": 0,
+    "serverResponseTime": 1053,
+    "ttfb": 1037,
+    "domContentLoadedTime": 1508,
+    "tti": 1502,
+    "fullyLoadedTime": 3455,
+    "lcp": {
+      "value": 1332,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3455,
+    "domReadyTime": 2359,
+    "firstPaint": 1088,
+    "firstContentfulPaint": 1502,
+    "pageSize": 67285,
+    "domSize": 626
+  },
+  "https://spbu.ru/openuniversity/documents": {
+    "url": "https://spbu.ru/openuniversity/documents",
+    "redirectTime": 0,
+    "serverResponseTime": 66,
+    "ttfb": 48,
+    "domContentLoadedTime": 306,
+    "tti": 297,
+    "fullyLoadedTime": 715,
+    "lcp": {
+      "value": 348,
+      "lcpElementType": "text",
+      "lcpElementTag": "span",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 715,
+    "domReadyTime": 617,
+    "firstPaint": 93,
+    "firstContentfulPaint": 297,
+    "pageSize": 79961,
+    "domSize": 832
+  },
+  "https://spbu.ru/openuniversity/documents/52": {
+    "url": "https://spbu.ru/openuniversity/documents/52",
+    "redirectTime": 0,
+    "serverResponseTime": 71,
+    "ttfb": 54,
+    "domContentLoadedTime": 442,
+    "tti": 437,
+    "fullyLoadedTime": 784,
+    "lcp": {
+      "value": 484,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 784,
+    "domReadyTime": 514,
+    "firstPaint": 263,
+    "firstContentfulPaint": 437,
+    "pageSize": 67580,
+    "domSize": 660
+  },
+  "https://spbu.ru/openuniversity/documents/51": {
+    "url": "https://spbu.ru/openuniversity/documents/51",
+    "redirectTime": 0,
+    "serverResponseTime": 69,
+    "ttfb": 68,
+    "domContentLoadedTime": 344,
+    "tti": 338,
+    "fullyLoadedTime": 1512,
+    "lcp": {
+      "value": 424,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1512,
+    "domReadyTime": 1381,
+    "firstPaint": 125,
+    "firstContentfulPaint": 338,
+    "pageSize": 67078,
+    "domSize": 659
+  },
+  "https://spbu.ru/openuniversity/perezagruzka": {
+    "url": "https://spbu.ru/openuniversity/perezagruzka",
+    "redirectTime": 0,
+    "serverResponseTime": 1290,
+    "ttfb": 1257,
+    "domContentLoadedTime": 4909,
+    "tti": 4887,
+    "fullyLoadedTime": 6056,
+    "lcp": {
+      "value": 6104,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 6056,
+    "domReadyTime": 4688,
+    "firstPaint": 1341,
+    "firstContentfulPaint": 4887,
+    "pageSize": 94328,
+    "domSize": 828
+  },
+  "https://spbu.ru/rabota-v-spbgu": {
+    "url": "https://spbu.ru/rabota-v-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 154,
+    "ttfb": 152,
+    "domContentLoadedTime": 362,
+    "tti": 353,
+    "fullyLoadedTime": 1533,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1533,
+    "domReadyTime": 1308,
+    "firstPaint": 199,
+    "firstContentfulPaint": 353,
+    "pageSize": 84382,
+    "domSize": 752
+  },
+  "https://spbu.ru/openuniversity/protivodeystvie-korrupcii": {
+    "url": "https://spbu.ru/openuniversity/protivodeystvie-korrupcii",
+    "redirectTime": 0,
+    "serverResponseTime": 1530,
+    "ttfb": 1311,
+    "domContentLoadedTime": 3362,
+    "tti": 3311,
+    "fullyLoadedTime": 5348,
+    "lcp": {
+      "value": 1916,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 3311.300000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 5348,
+    "domReadyTime": 3882,
+    "firstPaint": 1432,
+    "firstContentfulPaint": 3311,
+    "pageSize": 160664,
+    "domSize": 1107
+  },
+  "https://spbu.ru/universitet-pomogaet-v-usloviyakh-specialnoy-voennoy-operacii": {
+    "url": "https://spbu.ru/universitet-pomogaet-v-usloviyakh-specialnoy-voennoy-operacii",
+    "redirectTime": 0,
+    "serverResponseTime": 68,
+    "ttfb": 50,
+    "domContentLoadedTime": 1869,
+    "tti": 1846,
+    "fullyLoadedTime": 2237,
+    "lcp": {
+      "value": 744,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2237,
+    "domReadyTime": 1752,
+    "firstPaint": 445,
+    "firstContentfulPaint": 1846,
+    "pageSize": 91537,
+    "domSize": 779
+  },
+  "https://spbu.ru/universitet/sotrudnikam": {
+    "url": "https://spbu.ru/universitet/sotrudnikam",
+    "redirectTime": 0,
+    "serverResponseTime": 1220,
+    "ttfb": 1200,
+    "domContentLoadedTime": 1658,
+    "tti": 1640,
+    "fullyLoadedTime": 1947,
+    "lcp": {
+      "value": 1696,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1947,
+    "domReadyTime": 492,
+    "firstPaint": 1431,
+    "firstContentfulPaint": 1640,
+    "pageSize": 125975,
+    "domSize": 1201
+  },
+  "https://spbu.ru/vypusknikam": {
+    "url": "https://spbu.ru/vypusknikam",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 49,
+    "domContentLoadedTime": 2690,
+    "tti": 2630,
+    "fullyLoadedTime": 3972,
+    "lcp": {
+      "value": 3848,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 18,
+      "longTasks": [
+        {
+          "duration": 61,
+          "startTime": 2630.4000000059605,
+          "name": "self"
+        },
+        {
+          "duration": 57,
+          "startTime": 3917.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3972,
+    "domReadyTime": 3817,
+    "firstPaint": 95,
+    "firstContentfulPaint": 2630,
+    "pageSize": 129624,
+    "domSize": 1159
+  },
+  "https://spbu.ru/openuniversity/rabotodatelyam": {
+    "url": "https://spbu.ru/openuniversity/rabotodatelyam",
+    "redirectTime": 0,
+    "serverResponseTime": 1230,
+    "ttfb": 1213,
+    "domContentLoadedTime": 3482,
+    "tti": 3457,
+    "fullyLoadedTime": 4550,
+    "lcp": {
+      "value": 4600,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4550,
+    "domReadyTime": 3260,
+    "firstPaint": 1258,
+    "firstContentfulPaint": 3457,
+    "pageSize": 96092,
+    "domSize": 853
+  },
+  "https://spbu.ru/postupayushchim/programms": {
+    "url": "https://spbu.ru/postupayushchim/programms",
+    "redirectTime": 1374,
+    "serverResponseTime": 86,
+    "ttfb": 49,
+    "domContentLoadedTime": 23444,
+    "tti": 23366,
+    "fullyLoadedTime": 33039,
+    "lcp": {
+      "value": 1644,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 76,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 23366.399999976158,
+          "name": "self"
+        },
+        {
+          "duration": 96,
+          "startTime": 32944.69999998808,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 3
+    },
+    "loadTime": 33039,
+    "domReadyTime": 31510,
+    "firstPaint": 1427,
+    "firstContentfulPaint": 23366,
+    "pageSize": 226845,
+    "domSize": 1987
+  },
+  "https://spbu.ru/postupayushchim/programms/dopolnitelnyeprogrammy": {
+    "url": "https://spbu.ru/postupayushchim/programms/dopolnitelnyeprogrammy",
+    "redirectTime": 0,
+    "serverResponseTime": 70,
+    "ttfb": 51,
+    "domContentLoadedTime": 5552,
+    "tti": 5506,
+    "fullyLoadedTime": 11121,
+    "lcp": {
+      "value": 288,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 11121,
+    "domReadyTime": 10968,
+    "firstPaint": 101,
+    "firstContentfulPaint": 5506,
+    "pageSize": 141786,
+    "domSize": 1260
+  },
+  "https://spbu.ru/postupayushchim/calendar": {
+    "url": "https://spbu.ru/postupayushchim/calendar",
+    "redirectTime": 125,
+    "serverResponseTime": 64,
+    "ttfb": 64,
+    "domContentLoadedTime": 354,
+    "tti": 346,
+    "fullyLoadedTime": 1528,
+    "lcp": {
+      "value": 380,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1528,
+    "domReadyTime": 1327,
+    "firstPaint": 191,
+    "firstContentfulPaint": 346,
+    "pageSize": 77558,
+    "domSize": 733
+  },
+  "https://spbu.ru/postupayushchim/podgotovka-k-ege": {
+    "url": "https://spbu.ru/postupayushchim/podgotovka-k-ege",
+    "redirectTime": 0,
+    "serverResponseTime": 79,
+    "ttfb": 35,
+    "domContentLoadedTime": 751,
+    "tti": 703,
+    "fullyLoadedTime": 1443,
+    "lcp": {
+      "value": 272,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 16,
+      "longTasks": [
+        {
+          "duration": 66,
+          "startTime": 1379,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1443,
+    "domReadyTime": 1295,
+    "firstPaint": 79,
+    "firstContentfulPaint": 703,
+    "pageSize": 135856,
+    "domSize": 1317
+  },
+  "https://spbu.ru/universitet/onlayn-kursy-spbgu": {
+    "url": "https://spbu.ru/universitet/onlayn-kursy-spbgu",
+    "redirectTime": 85,
+    "serverResponseTime": 1274,
+    "ttfb": 1104,
+    "domContentLoadedTime": 1899,
+    "tti": 1889,
+    "fullyLoadedTime": 2253,
+    "lcp": {
+      "value": 1832,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2253,
+    "domReadyTime": 1041,
+    "firstPaint": 1191,
+    "firstContentfulPaint": 1889,
+    "pageSize": 79536,
+    "domSize": 757
+  },
+  "https://spbu.ru/studentam/centr-karer-spbgu": {
+    "url": "https://spbu.ru/studentam/centr-karer-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1555,
+    "ttfb": 1492,
+    "domContentLoadedTime": 3994,
+    "tti": 3953,
+    "fullyLoadedTime": 7166,
+    "lcp": {
+      "value": 6852,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 7112.199999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7166,
+    "domReadyTime": 5568,
+    "firstPaint": 1538,
+    "firstContentfulPaint": 3953,
+    "pageSize": 142714,
+    "domSize": 1360
+  },
+  "https://spbu.ru/studentam/praktika-po-modeli-kliniki-v-spbgu": {
+    "url": "https://spbu.ru/studentam/praktika-po-modeli-kliniki-v-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1532,
+    "ttfb": 1512,
+    "domContentLoadedTime": 4920,
+    "tti": 4892,
+    "fullyLoadedTime": 61890,
+    "lcp": {
+      "value": 4772,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 61890,
+    "domReadyTime": 60299,
+    "firstPaint": 1555,
+    "firstContentfulPaint": 4892,
+    "pageSize": 141333,
+    "domSize": 1188
+  },
+  "https://spbu.ru/studentam/studencheskiy-sovet": {
+    "url": "https://spbu.ru/studentam/studencheskiy-sovet",
+    "redirectTime": 0,
+    "serverResponseTime": 1481,
+    "ttfb": 1447,
+    "domContentLoadedTime": 3981,
+    "tti": 3957,
+    "fullyLoadedTime": 64694,
+    "lcp": {
+      "value": 1872,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 64694,
+    "domReadyTime": 63166,
+    "firstPaint": 1503,
+    "firstContentfulPaint": 3957,
+    "pageSize": 108791,
+    "domSize": 1071
+  },
+  "https://spbu.ru/studentam/studencheskiy-kampus": {
+    "url": "https://spbu.ru/studentam/studencheskiy-kampus",
+    "redirectTime": 0,
+    "serverResponseTime": 1500,
+    "ttfb": 1301,
+    "domContentLoadedTime": 3426,
+    "tti": 3400,
+    "fullyLoadedTime": 10684,
+    "lcp": {
+      "value": 1932,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 10684,
+    "domReadyTime": 9145,
+    "firstPaint": 1512,
+    "firstContentfulPaint": 3400,
+    "pageSize": 87488,
+    "domSize": 918
+  },
+  "https://spbu.ru/studentam/studencheskie-iniciativy": {
+    "url": "https://spbu.ru/studentam/studencheskie-iniciativy",
+    "redirectTime": 0,
+    "serverResponseTime": 1273,
+    "ttfb": 1257,
+    "domContentLoadedTime": 1482,
+    "tti": 1477,
+    "fullyLoadedTime": 3601,
+    "lcp": {
+      "value": 1524,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3601,
+    "domReadyTime": 2285,
+    "firstPaint": 1306,
+    "firstContentfulPaint": 1477,
+    "pageSize": 74946,
+    "domSize": 641
+  },
+  "https://spbu.ru/studentam/inostrannym-studentam": {
+    "url": "https://spbu.ru/studentam/inostrannym-studentam",
+    "redirectTime": 0,
+    "serverResponseTime": 1126,
+    "ttfb": 1124,
+    "domContentLoadedTime": 1493,
+    "tti": 1485,
+    "fullyLoadedTime": 61441,
+    "lcp": {
+      "value": 1488,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 61441,
+    "domReadyTime": 60120,
+    "firstPaint": 1301,
+    "firstContentfulPaint": 1485,
+    "pageSize": 75745,
+    "domSize": 738
+  },
+  "https://spbu.ru/studentam/medicinskaya-pomosch": {
+    "url": "https://spbu.ru/studentam/medicinskaya-pomosch",
+    "redirectTime": 0,
+    "serverResponseTime": 1503,
+    "ttfb": 1501,
+    "domContentLoadedTime": 1713,
+    "tti": 1709,
+    "fullyLoadedTime": 61670,
+    "lcp": {
+      "value": 1740,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 61670,
+    "domReadyTime": 60115,
+    "firstPaint": 1546,
+    "firstContentfulPaint": 1709,
+    "pageSize": 76319,
+    "domSize": 696
+  },
+  "https://spbu.ru/studentam/socialnaya-zaschita": {
+    "url": "https://spbu.ru/studentam/socialnaya-zaschita",
+    "redirectTime": 0,
+    "serverResponseTime": 1260,
+    "ttfb": 1244,
+    "domContentLoadedTime": 1498,
+    "tti": 1491,
+    "fullyLoadedTime": 2640,
+    "lcp": {
+      "value": 1508,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2640,
+    "domReadyTime": 1329,
+    "firstPaint": 1291,
+    "firstContentfulPaint": 1491,
+    "pageSize": 79272,
+    "domSize": 712
+  },
+  "https://spbu.ru/studentam/otdykh": {
+    "url": "https://spbu.ru/studentam/otdykh",
+    "redirectTime": 0,
+    "serverResponseTime": 1144,
+    "ttfb": 1142,
+    "domContentLoadedTime": 1624,
+    "tti": 1612,
+    "fullyLoadedTime": 2569,
+    "lcp": {
+      "value": 1668,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "figure",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2569,
+    "domReadyTime": 1325,
+    "firstPaint": 1235,
+    "firstContentfulPaint": 1612,
+    "pageSize": 72824,
+    "domSize": 668
+  },
+  "https://spbu.ru/studentam/sport-i-zdorovyy-obraz-zhizni": {
+    "url": "https://spbu.ru/studentam/sport-i-zdorovyy-obraz-zhizni",
+    "redirectTime": 0,
+    "serverResponseTime": 1070,
+    "ttfb": 1067,
+    "domContentLoadedTime": 1621,
+    "tti": 1613,
+    "fullyLoadedTime": 2546,
+    "lcp": {
+      "value": 1640,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2546,
+    "domReadyTime": 1420,
+    "firstPaint": 1110,
+    "firstContentfulPaint": 1613,
+    "pageSize": 78528,
+    "domSize": 715
+  },
+  "https://spbu.ru/studentam/zelenyy-universitet": {
+    "url": "https://spbu.ru/studentam/zelenyy-universitet",
+    "redirectTime": 0,
+    "serverResponseTime": 1360,
+    "ttfb": 1344,
+    "domContentLoadedTime": 3368,
+    "tti": 3314,
+    "fullyLoadedTime": 4552,
+    "lcp": {
+      "value": 4116,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 22,
+      "longTasks": [
+        {
+          "duration": 56,
+          "startTime": 3313.800000011921,
+          "name": "self"
+        },
+        {
+          "duration": 66,
+          "startTime": 4488.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 4552,
+    "domReadyTime": 3007,
+    "firstPaint": 1477,
+    "firstContentfulPaint": 3314,
+    "pageSize": 133478,
+    "domSize": 1188
+  },
+  "https://spbu.ru/studentam/voinskiy-uchet": {
+    "url": "https://spbu.ru/studentam/voinskiy-uchet",
+    "redirectTime": 0,
+    "serverResponseTime": 1404,
+    "ttfb": 1389,
+    "domContentLoadedTime": 1700,
+    "tti": 1692,
+    "fullyLoadedTime": 2844,
+    "lcp": {
+      "value": 1668,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2844,
+    "domReadyTime": 1388,
+    "firstPaint": 1436,
+    "firstContentfulPaint": 1692,
+    "pageSize": 90687,
+    "domSize": 865
+  },
+  "https://spbu.ru/partneram/kriptoveche": {
+    "url": "https://spbu.ru/partneram/kriptoveche",
+    "redirectTime": 0,
+    "serverResponseTime": 1182,
+    "ttfb": 1160,
+    "domContentLoadedTime": 1886,
+    "tti": 1862,
+    "fullyLoadedTime": 2576,
+    "lcp": {
+      "value": 1432,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2576,
+    "domReadyTime": 1337,
+    "firstPaint": 1204,
+    "firstContentfulPaint": 1862,
+    "pageSize": 99347,
+    "domSize": 883
+  },
+  "https://spbu.ru/partneram/mpa": {
+    "url": "https://spbu.ru/partneram/mpa",
+    "redirectTime": 0,
+    "serverResponseTime": 1159,
+    "ttfb": 1157,
+    "domContentLoadedTime": 1903,
+    "tti": 1892,
+    "fullyLoadedTime": 61506,
+    "lcp": {
+      "value": 1592,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 61506,
+    "domReadyTime": 60279,
+    "firstPaint": 1205,
+    "firstContentfulPaint": 1892,
+    "pageSize": 86414,
+    "domSize": 754
+  },
+  "https://spbu.ru/partneram/research-ims-20": {
+    "url": "https://spbu.ru/partneram/research-ims-20",
+    "redirectTime": 0,
+    "serverResponseTime": 1204,
+    "ttfb": 1187,
+    "domContentLoadedTime": 1640,
+    "tti": 1632,
+    "fullyLoadedTime": 2716,
+    "lcp": {
+      "value": 1468,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2716,
+    "domReadyTime": 1443,
+    "firstPaint": 1253,
+    "firstContentfulPaint": 1632,
+    "pageSize": 82449,
+    "domSize": 739
+  },
+  "https://spbu.ru/partneram/setevye-programmy-spbgu": {
+    "url": "https://spbu.ru/partneram/setevye-programmy-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1308,
+    "ttfb": 1279,
+    "domContentLoadedTime": 2331,
+    "tti": 2292,
+    "fullyLoadedTime": 2936,
+    "lcp": {
+      "value": 1788,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 2882.9000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 2936,
+    "domReadyTime": 1456,
+    "firstPaint": 1419,
+    "firstContentfulPaint": 2292,
+    "pageSize": 122648,
+    "domSize": 1169
+  },
+  "https://spbu.ru/universitet": {
+    "url": "https://spbu.ru/universitet",
+    "redirectTime": 0,
+    "serverResponseTime": 1072,
+    "ttfb": 1056,
+    "domContentLoadedTime": 2107,
+    "tti": 2091,
+    "fullyLoadedTime": 2643,
+    "lcp": {
+      "value": 2612,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2643,
+    "domReadyTime": 1524,
+    "firstPaint": 1099,
+    "firstContentfulPaint": 2091,
+    "pageSize": 82079,
+    "domSize": 689
+  },
+  "https://spbu.ru/history": {
+    "url": "https://spbu.ru/history",
+    "redirectTime": 0,
+    "serverResponseTime": 67,
+    "ttfb": 48,
+    "domContentLoadedTime": 288,
+    "tti": 276,
+    "fullyLoadedTime": 3584,
+    "lcp": {
+      "value": 3652,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://spbu.ru/themes/history/logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 6
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3584,
+    "domReadyTime": 3402,
+    "firstPaint": 174,
+    "firstContentfulPaint": 276,
+    "pageSize": 252990,
+    "domSize": 1251
+  },
+  "https://spbu.ru/universitet/universitet-v-licakh": {
+    "url": "https://spbu.ru/universitet/universitet-v-licakh",
+    "redirectTime": 0,
+    "serverResponseTime": 1070,
+    "ttfb": 1054,
+    "domContentLoadedTime": 1255,
+    "tti": 1250,
+    "fullyLoadedTime": 2486,
+    "lcp": {
+      "value": 1268,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2486,
+    "domReadyTime": 1380,
+    "firstPaint": 1098,
+    "firstContentfulPaint": 1250,
+    "pageSize": 71929,
+    "domSize": 636
+  },
+  "https://spbu.ru/universitet/virtualnye-ekskursii-po-universitetu": {
+    "url": "https://spbu.ru/universitet/virtualnye-ekskursii-po-universitetu",
+    "redirectTime": 0,
+    "serverResponseTime": 1428,
+    "ttfb": 1399,
+    "domContentLoadedTime": 2861,
+    "tti": 2842,
+    "fullyLoadedTime": 3040,
+    "lcp": {
+      "value": 1668,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3040,
+    "domReadyTime": 1563,
+    "firstPaint": 1449,
+    "firstContentfulPaint": 2842,
+    "pageSize": 104279,
+    "domSize": 919
+  },
+  "https://spbu.ru/rector": {
+    "url": "https://spbu.ru/rector",
+    "redirectTime": 0,
+    "serverResponseTime": 1314,
+    "ttfb": 1296,
+    "domContentLoadedTime": 6969,
+    "tti": 6888,
+    "fullyLoadedTime": 11492,
+    "lcp": {
+      "value": 3056,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 65,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 6888.299999982119,
+          "name": "self"
+        },
+        {
+          "duration": 83,
+          "startTime": 11410.699999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 11492,
+    "domReadyTime": 8837,
+    "firstPaint": 2567,
+    "firstContentfulPaint": 6888,
+    "pageSize": 147688,
+    "domSize": 1206
+  },
+  "https://spbu.ru/universitet/podrazdeleniya-i-rukovodstvo": {
+    "url": "https://spbu.ru/universitet/podrazdeleniya-i-rukovodstvo",
+    "redirectTime": 0,
+    "serverResponseTime": 1344,
+    "ttfb": 1327,
+    "domContentLoadedTime": 1614,
+    "tti": 1604,
+    "fullyLoadedTime": 3003,
+    "lcp": {
+      "value": 1644,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3003,
+    "domReadyTime": 1546,
+    "firstPaint": 1426,
+    "firstContentfulPaint": 1604,
+    "pageSize": 129377,
+    "domSize": 1496
+  },
+  "https://spbu.ru/universitet/uchebno-nauchnye-podrazdeleniya": {
+    "url": "https://spbu.ru/universitet/uchebno-nauchnye-podrazdeleniya",
+    "redirectTime": 0,
+    "serverResponseTime": 1328,
+    "ttfb": 1311,
+    "domContentLoadedTime": 1656,
+    "tti": 1651,
+    "fullyLoadedTime": 2856,
+    "lcp": {
+      "value": 1684,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2856,
+    "domReadyTime": 1487,
+    "firstPaint": 1360,
+    "firstContentfulPaint": 1651,
+    "pageSize": 104755,
+    "domSize": 1559
+  },
+  "https://spbu.ru/universitet/popechitelskiy-sovet": {
+    "url": "https://spbu.ru/universitet/popechitelskiy-sovet",
+    "redirectTime": 0,
+    "serverResponseTime": 2127,
+    "ttfb": 2091,
+    "domContentLoadedTime": 3813,
+    "tti": 3801,
+    "fullyLoadedTime": 4971,
+    "lcp": {
+      "value": 2324,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4971,
+    "domReadyTime": 2808,
+    "firstPaint": 2147,
+    "firstContentfulPaint": 3801,
+    "pageSize": 94247,
+    "domSize": 933
+  },
+  "https://spbu.ru/universitet/muzei-i-kollekcii-spbgu": {
+    "url": "https://spbu.ru/universitet/muzei-i-kollekcii-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1242,
+    "ttfb": 1219,
+    "domContentLoadedTime": 3241,
+    "tti": 3217,
+    "fullyLoadedTime": 3422,
+    "lcp": {
+      "value": 1508,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3422,
+    "domReadyTime": 2090,
+    "firstPaint": 1305,
+    "firstContentfulPaint": 3217,
+    "pageSize": 98393,
+    "domSize": 904
+  },
+  "https://spbu.ru/universitet/partnery": {
+    "url": "https://spbu.ru/universitet/partnery",
+    "redirectTime": 0,
+    "serverResponseTime": 1269,
+    "ttfb": 1238,
+    "domContentLoadedTime": 3124,
+    "tti": 3097,
+    "fullyLoadedTime": 5168,
+    "lcp": {
+      "value": 1528,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5168,
+    "domReadyTime": 3819,
+    "firstPaint": 1317,
+    "firstContentfulPaint": 3097,
+    "pageSize": 86656,
+    "domSize": 794
+  },
+  "https://spbu.ru/universitet/klinika-spbgu": {
+    "url": "https://spbu.ru/universitet/klinika-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1247,
+    "ttfb": 1231,
+    "domContentLoadedTime": 2845,
+    "tti": 2827,
+    "fullyLoadedTime": 2876,
+    "lcp": {
+      "value": 1700,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2876,
+    "domReadyTime": 1349,
+    "firstPaint": 1515,
+    "firstContentfulPaint": 2827,
+    "pageSize": 84539,
+    "domSize": 731
+  },
+  "https://spbu.ru/universitet/mezhdunarodnaya-deyatelnost": {
+    "url": "https://spbu.ru/universitet/mezhdunarodnaya-deyatelnost",
+    "redirectTime": 0,
+    "serverResponseTime": 1893,
+    "ttfb": 1662,
+    "domContentLoadedTime": 3006,
+    "tti": 2997,
+    "fullyLoadedTime": 3276,
+    "lcp": {
+      "value": 2108,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3276,
+    "domReadyTime": 1560,
+    "firstPaint": 1709,
+    "firstContentfulPaint": 2997,
+    "pageSize": 91775,
+    "domSize": 895
+  },
+  "https://spbu.ru/universitet/endaument-fond-spbgu": {
+    "url": "https://spbu.ru/universitet/endaument-fond-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1578,
+    "ttfb": 1558,
+    "domContentLoadedTime": 5209,
+    "tti": 5199,
+    "fullyLoadedTime": 9206,
+    "lcp": {
+      "value": 9020,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 9206,
+    "domReadyTime": 7576,
+    "firstPaint": 1604,
+    "firstContentfulPaint": 5199,
+    "pageSize": 146363,
+    "domSize": 1160
+  },
+  "https://spbu.ru/universitet/podrazdeleniya-i-rukovodstvo/uchenye-sovety/uchenyy-sovet-spbgu": {
+    "url": "https://spbu.ru/universitet/podrazdeleniya-i-rukovodstvo/uchenye-sovety/uchenyy-sovet-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 909,
+    "ttfb": 892,
+    "domContentLoadedTime": 1711,
+    "tti": 1701,
+    "fullyLoadedTime": 2287,
+    "lcp": {
+      "value": 1172,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2287,
+    "domReadyTime": 1330,
+    "firstPaint": 942,
+    "firstContentfulPaint": 1701,
+    "pageSize": 91837,
+    "domSize": 881
+  },
+  "https://spbu.ru/universitet/obedinennyy-arkhiv": {
+    "url": "https://spbu.ru/universitet/obedinennyy-arkhiv",
+    "redirectTime": 0,
+    "serverResponseTime": 977,
+    "ttfb": 956,
+    "domContentLoadedTime": 1603,
+    "tti": 1586,
+    "fullyLoadedTime": 4440,
+    "lcp": {
+      "value": 1520,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4440,
+    "domReadyTime": 3420,
+    "firstPaint": 1006,
+    "firstContentfulPaint": 1586,
+    "pageSize": 93193,
+    "domSize": 769
+  },
+  "https://spbu.ru/universitet/spbgu-cifrovoy-universitet": {
+    "url": "https://spbu.ru/universitet/spbgu-cifrovoy-universitet",
+    "redirectTime": 0,
+    "serverResponseTime": 1343,
+    "ttfb": 1326,
+    "domContentLoadedTime": 2258,
+    "tti": 2225,
+    "fullyLoadedTime": 61834,
+    "lcp": {
+      "value": 1884,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 61834,
+    "domReadyTime": 60141,
+    "firstPaint": 1653,
+    "firstContentfulPaint": 2225,
+    "pageSize": 117695,
+    "domSize": 1045
+  },
+  "https://spbu.ru/education": {
+    "url": "https://spbu.ru/education",
+    "redirectTime": 0,
+    "serverResponseTime": 73,
+    "ttfb": 54,
+    "domContentLoadedTime": 686,
+    "tti": 677,
+    "fullyLoadedTime": 950,
+    "lcp": {
+      "value": 552,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 950,
+    "domReadyTime": 736,
+    "firstPaint": 205,
+    "firstContentfulPaint": 677,
+    "pageSize": 69688,
+    "domSize": 593
+  },
+  "https://spbu.ru/postupayushchim": {
+    "url": "https://spbu.ru/postupayushchim",
+    "redirectTime": 0,
+    "serverResponseTime": 67,
+    "ttfb": 49,
+    "domContentLoadedTime": 2870,
+    "tti": 2832,
+    "fullyLoadedTime": 4976,
+    "lcp": {
+      "value": 4404,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4976,
+    "domReadyTime": 4847,
+    "firstPaint": 94,
+    "firstContentfulPaint": 2832,
+    "pageSize": 105351,
+    "domSize": 955
+  },
+  "https://spbu.ru/postupayushchim/programms/bakalavriat": {
+    "url": "https://spbu.ru/postupayushchim/programms/bakalavriat",
+    "redirectTime": 0,
+    "serverResponseTime": 150,
+    "ttfb": 56,
+    "domContentLoadedTime": 23843,
+    "tti": 23751,
+    "fullyLoadedTime": 34601,
+    "lcp": {
+      "value": 516,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 82,
+      "longTasks": [
+        {
+          "duration": 93,
+          "startTime": 23751.70000001788,
+          "name": "self"
+        },
+        {
+          "duration": 89,
+          "startTime": 34513.60000002384,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 34601,
+    "domReadyTime": 34370,
+    "firstPaint": 138,
+    "firstContentfulPaint": 23752,
+    "pageSize": 226845,
+    "domSize": 1987
+  },
+  "https://spbu.ru/nauka/laboratorii-i-centry/centr-monitoringa-kachestva-obrazovaniya-spbgu": {
+    "url": "https://spbu.ru/nauka/laboratorii-i-centry/centr-monitoringa-kachestva-obrazovaniya-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1252,
+    "ttfb": 1226,
+    "domContentLoadedTime": 3549,
+    "tti": 3531,
+    "fullyLoadedTime": 4633,
+    "lcp": {
+      "value": 1504,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4633,
+    "domReadyTime": 3340,
+    "firstPaint": 1273,
+    "firstContentfulPaint": 3531,
+    "pageSize": 92307,
+    "domSize": 838
+  },
+  "https://spbu.ru/education/onlayn-kursy-spbgu": {
+    "url": "https://spbu.ru/education/onlayn-kursy-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1205,
+    "ttfb": 1203,
+    "domContentLoadedTime": 2330,
+    "tti": 2310,
+    "fullyLoadedTime": 2777,
+    "lcp": {
+      "value": 2132,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2777,
+    "domReadyTime": 1409,
+    "firstPaint": 1342,
+    "firstContentfulPaint": 2310,
+    "pageSize": 79560,
+    "domSize": 757
+  },
+  "https://spbu.ru/nauka": {
+    "url": "https://spbu.ru/nauka",
+    "redirectTime": 0,
+    "serverResponseTime": 1250,
+    "ttfb": 1220,
+    "domContentLoadedTime": 3058,
+    "tti": 3036,
+    "fullyLoadedTime": 3921,
+    "lcp": {
+      "value": 3552,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3921,
+    "domReadyTime": 1518,
+    "firstPaint": 2372,
+    "firstContentfulPaint": 3036,
+    "pageSize": 102156,
+    "domSize": 901
+  },
+  "https://spbu.ru/topics/1995": {
+    "url": "https://spbu.ru/topics/1995",
+    "redirectTime": 0,
+    "serverResponseTime": 62,
+    "ttfb": 44,
+    "domContentLoadedTime": 405,
+    "tti": 401,
+    "fullyLoadedTime": 1517,
+    "lcp": {
+      "value": 456,
+      "lcpElementType": "text",
+      "lcpElementTag": "span",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1517,
+    "domReadyTime": 1386,
+    "firstPaint": 126,
+    "firstContentfulPaint": 401,
+    "pageSize": 69268,
+    "domSize": 639
+  },
+  "https://spbu.ru/nauka/nauchnyy-park": {
+    "url": "https://spbu.ru/nauka/nauchnyy-park",
+    "redirectTime": 0,
+    "serverResponseTime": 1054,
+    "ttfb": 998,
+    "domContentLoadedTime": 3965,
+    "tti": 3914,
+    "fullyLoadedTime": 4484,
+    "lcp": {
+      "value": 4532,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 14,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 3914.199999988079,
+          "name": "self"
+        },
+        {
+          "duration": 62,
+          "startTime": 4424.299999982119,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4484,
+    "domReadyTime": 3288,
+    "firstPaint": 1130,
+    "firstContentfulPaint": 3914,
+    "pageSize": 135220,
+    "domSize": 1106
+  },
+  "https://spbu.ru/nauka/laboratorii-i-centry": {
+    "url": "https://spbu.ru/nauka/laboratorii-i-centry",
+    "redirectTime": 0,
+    "serverResponseTime": 1172,
+    "ttfb": 1152,
+    "domContentLoadedTime": 6762,
+    "tti": 6636,
+    "fullyLoadedTime": 8427,
+    "lcp": {
+      "value": 8480,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 152,
+      "longTasks": [
+        {
+          "duration": 128,
+          "startTime": 6636.0999999940395,
+          "name": "self"
+        },
+        {
+          "duration": 124,
+          "startTime": 8305.800000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 8427,
+    "domReadyTime": 6938,
+    "firstPaint": 1362,
+    "firstContentfulPaint": 6636,
+    "pageSize": 235115,
+    "domSize": 1742
+  },
+  "https://spbu.ru/nauka/uchenye-stepeni-v-spbgu": {
+    "url": "https://spbu.ru/nauka/uchenye-stepeni-v-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1206,
+    "ttfb": 1156,
+    "domContentLoadedTime": 3446,
+    "tti": 3425,
+    "fullyLoadedTime": 3568,
+    "lcp": {
+      "value": 3280,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3568,
+    "domReadyTime": 1043,
+    "firstPaint": 2502,
+    "firstContentfulPaint": 3425,
+    "pageSize": 85194,
+    "domSize": 737
+  },
+  "https://spbu.ru/nauka/nauchnaya-biblioteka-imeni-m-gorkogo": {
+    "url": "https://spbu.ru/nauka/nauchnaya-biblioteka-imeni-m-gorkogo",
+    "redirectTime": 0,
+    "serverResponseTime": 1282,
+    "ttfb": 1266,
+    "domContentLoadedTime": 4581,
+    "tti": 4543,
+    "fullyLoadedTime": 9187,
+    "lcp": {
+      "value": 1624,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 9187,
+    "domReadyTime": 7745,
+    "firstPaint": 1402,
+    "firstContentfulPaint": 4543,
+    "pageSize": 94563,
+    "domSize": 839
+  },
+  "https://spbu.ru/nauka/oborudovanie-spbgu": {
+    "url": "https://spbu.ru/nauka/oborudovanie-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1154,
+    "ttfb": 1137,
+    "domContentLoadedTime": 1781,
+    "tti": 1772,
+    "fullyLoadedTime": 2780,
+    "lcp": {
+      "value": 1620,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2780,
+    "domReadyTime": 1577,
+    "firstPaint": 1188,
+    "firstContentfulPaint": 1772,
+    "pageSize": 81356,
+    "domSize": 695
+  },
+  "https://spbu.ru/nauka/nauchnye-zhurnaly-spbgu": {
+    "url": "https://spbu.ru/nauka/nauchnye-zhurnaly-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1175,
+    "ttfb": 1156,
+    "domContentLoadedTime": 3025,
+    "tti": 2938,
+    "fullyLoadedTime": 3911,
+    "lcp": {
+      "value": 1408,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 84,
+      "longTasks": [
+        {
+          "duration": 88,
+          "startTime": 2938.300000011921,
+          "name": "self"
+        },
+        {
+          "duration": 96,
+          "startTime": 3816,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 3911,
+    "domReadyTime": 2612,
+    "firstPaint": 1198,
+    "firstContentfulPaint": 2938,
+    "pageSize": 133328,
+    "domSize": 1086
+  },
+  "https://spbu.ru/nauka/pobediteli-konkursa-megagrantov": {
+    "url": "https://spbu.ru/nauka/pobediteli-konkursa-megagrantov",
+    "redirectTime": 0,
+    "serverResponseTime": 1230,
+    "ttfb": 1212,
+    "domContentLoadedTime": 2521,
+    "tti": 2513,
+    "fullyLoadedTime": 2548,
+    "lcp": {
+      "value": 1532,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2548,
+    "domReadyTime": 1247,
+    "firstPaint": 1295,
+    "firstContentfulPaint": 2513,
+    "pageSize": 92016,
+    "domSize": 857
+  },
+  "https://spbu.ru/nauka/nacionalnyy-proekt-nauka-i-universitety": {
+    "url": "https://spbu.ru/nauka/nacionalnyy-proekt-nauka-i-universitety",
+    "redirectTime": 0,
+    "serverResponseTime": 1026,
+    "ttfb": 1008,
+    "domContentLoadedTime": 1408,
+    "tti": 1393,
+    "fullyLoadedTime": 2469,
+    "lcp": {
+      "value": 1284,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2469,
+    "domReadyTime": 1324,
+    "firstPaint": 1101,
+    "firstContentfulPaint": 1393,
+    "pageSize": 108424,
+    "domSize": 985
+  },
+  "https://spbu.ru/nauka/teologiya-v-spbgu": {
+    "url": "https://spbu.ru/nauka/teologiya-v-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1299,
+    "ttfb": 1281,
+    "domContentLoadedTime": 4530,
+    "tti": 4486,
+    "fullyLoadedTime": 4992,
+    "lcp": {
+      "value": 4612,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4992,
+    "domReadyTime": 3447,
+    "firstPaint": 1492,
+    "firstContentfulPaint": 4486,
+    "pageSize": 185352,
+    "domSize": 1479
+  },
+  "https://spbu.ru/nauka/arkticheskie-proekty-spbgu": {
+    "url": "https://spbu.ru/nauka/arkticheskie-proekty-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1235,
+    "ttfb": 1216,
+    "domContentLoadedTime": 3832,
+    "tti": 3792,
+    "fullyLoadedTime": 4015,
+    "lcp": {
+      "value": 4060,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4015,
+    "domReadyTime": 2416,
+    "firstPaint": 1559,
+    "firstContentfulPaint": 3792,
+    "pageSize": 129042,
+    "domSize": 1131
+  },
+  "https://spbu.ru/ekspertnyy-universitet": {
+    "url": "https://spbu.ru/ekspertnyy-universitet",
+    "redirectTime": 0,
+    "serverResponseTime": 1551,
+    "ttfb": 1522,
+    "domContentLoadedTime": 1920,
+    "tti": 1906,
+    "fullyLoadedTime": 3120,
+    "lcp": {
+      "value": 1784,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3120,
+    "domReadyTime": 1517,
+    "firstPaint": 1569,
+    "firstContentfulPaint": 1906,
+    "pageSize": 95721,
+    "domSize": 842
+  },
+  "https://spbu.ru/ekspertnyy-universitet/centr-ekspertiz": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/centr-ekspertiz",
+    "redirectTime": 0,
+    "serverResponseTime": 1437,
+    "ttfb": 1409,
+    "domContentLoadedTime": 1798,
+    "tti": 1784,
+    "fullyLoadedTime": 2947,
+    "lcp": {
+      "value": 1820,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2947,
+    "domReadyTime": 1460,
+    "firstPaint": 1455,
+    "firstContentfulPaint": 1784,
+    "pageSize": 90986,
+    "domSize": 832
+  },
+  "https://spbu.ru/ekspertnyy-universitet/centr-prikladnoy-sociologii": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/centr-prikladnoy-sociologii",
+    "redirectTime": 0,
+    "serverResponseTime": 1136,
+    "ttfb": 1117,
+    "domContentLoadedTime": 1374,
+    "tti": 1364,
+    "fullyLoadedTime": 2548,
+    "lcp": {
+      "value": 1404,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2548,
+    "domReadyTime": 1315,
+    "firstPaint": 1202,
+    "firstContentfulPaint": 1364,
+    "pageSize": 84749,
+    "domSize": 822
+  },
+  "https://spbu.ru/ekspertnyy-universitet/centr-mediacii-spbgu": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/centr-mediacii-spbgu",
+    "redirectTime": 0,
+    "serverResponseTime": 1281,
+    "ttfb": 1278,
+    "domContentLoadedTime": 2868,
+    "tti": 2856,
+    "fullyLoadedTime": 2895,
+    "lcp": {
+      "value": 1756,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2895,
+    "domReadyTime": 1530,
+    "firstPaint": 1354,
+    "firstContentfulPaint": 2856,
+    "pageSize": 74314,
+    "domSize": 682
+  },
+  "https://spbu.ru/ekspertnyy-universitet/katalog-issledovaniy": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/katalog-issledovaniy",
+    "redirectTime": 0,
+    "serverResponseTime": 2067,
+    "ttfb": 2049,
+    "domContentLoadedTime": 2288,
+    "tti": 2284,
+    "fullyLoadedTime": 3938,
+    "lcp": {
+      "value": 2240,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3938,
+    "domReadyTime": 1836,
+    "firstPaint": 2097,
+    "firstContentfulPaint": 2284,
+    "pageSize": 73144,
+    "domSize": 678
+  },
+  "https://spbu.ru/ekspertnyy-universitet/ekspertnye-zaklyucheniya": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/ekspertnye-zaklyucheniya",
+    "redirectTime": 0,
+    "serverResponseTime": 1094,
+    "ttfb": 1091,
+    "domContentLoadedTime": 1413,
+    "tti": 1407,
+    "fullyLoadedTime": 1626,
+    "lcp": {
+      "value": 1348,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1626,
+    "domReadyTime": 452,
+    "firstPaint": 1164,
+    "firstContentfulPaint": 1407,
+    "pageSize": 85588,
+    "domSize": 817
+  },
+  "https://spbu.ru/ekspertnyy-universitet/otzyvy-recenzii-i-rekomendatelnye-pisma": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/otzyvy-recenzii-i-rekomendatelnye-pisma",
+    "redirectTime": 0,
+    "serverResponseTime": 871,
+    "ttfb": 870,
+    "domContentLoadedTime": 1102,
+    "tti": 1098,
+    "fullyLoadedTime": 2258,
+    "lcp": {
+      "value": 1136,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2258,
+    "domReadyTime": 1335,
+    "firstPaint": 917,
+    "firstContentfulPaint": 1098,
+    "pageSize": 68572,
+    "domSize": 635
+  },
+  "https://spbu.ru/ekspertnyy-universitet/mezhdisciplinarnyy-centr-issledovaniy-kontrolno-nadzornoy-deyatelnosti-v": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/mezhdisciplinarnyy-centr-issledovaniy-kontrolno-nadzornoy-deyatelnosti-v",
+    "redirectTime": 0,
+    "serverResponseTime": 1064,
+    "ttfb": 1046,
+    "domContentLoadedTime": 1355,
+    "tti": 1347,
+    "fullyLoadedTime": 2489,
+    "lcp": {
+      "value": 1316,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2489,
+    "domReadyTime": 1371,
+    "firstPaint": 1093,
+    "firstContentfulPaint": 1347,
+    "pageSize": 111463,
+    "domSize": 942
+  },
+  "https://spbu.ru/ekspertnyy-universitet/besplatnaya-pomoshch": {
+    "url": "https://spbu.ru/ekspertnyy-universitet/besplatnaya-pomoshch",
+    "redirectTime": 0,
+    "serverResponseTime": 799,
+    "ttfb": 783,
+    "domContentLoadedTime": 1012,
+    "tti": 1007,
+    "fullyLoadedTime": 2575,
+    "lcp": {
+      "value": 1048,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2575,
+    "domReadyTime": 1703,
+    "firstPaint": 865,
+    "firstContentfulPaint": 1007,
+    "pageSize": 64941,
+    "domSize": 582
+  }
+}

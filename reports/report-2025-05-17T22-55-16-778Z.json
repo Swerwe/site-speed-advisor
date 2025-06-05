@@ -1,0 +1,290 @@
+{
+  "https://soc.spbu.ru/": {
+    "url": "https://soc.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 234,
+    "ttfb": 233,
+    "domContentLoadedTime": 680,
+    "tti": 671,
+    "fullyLoadedTime": 4112,
+    "lcp": {
+      "value": 764,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4112,
+    "domReadyTime": 3726,
+    "firstPaint": 379,
+    "firstContentfulPaint": 671,
+    "pageSize": 20392,
+    "domSize": 217
+  },
+  "https://soc.spbu.ru/anonsy.html": {
+    "url": "https://soc.spbu.ru/anonsy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 227,
+    "ttfb": 226,
+    "domContentLoadedTime": 463,
+    "tti": 457,
+    "fullyLoadedTime": 787,
+    "lcp": {
+      "value": 792,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 787,
+    "domReadyTime": 490,
+    "firstPaint": 291,
+    "firstContentfulPaint": 457,
+    "pageSize": 19520,
+    "domSize": 213
+  },
+  "https://soc.spbu.ru/fakultet.html": {
+    "url": "https://soc.spbu.ru/fakultet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 185,
+    "ttfb": 184,
+    "domContentLoadedTime": 449,
+    "tti": 441,
+    "fullyLoadedTime": 966,
+    "lcp": {
+      "value": 488,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 966,
+    "domReadyTime": 727,
+    "firstPaint": 229,
+    "firstContentfulPaint": 441,
+    "pageSize": 15198,
+    "domSize": 188
+  },
+  "https://soc.spbu.ru/abiturient.html": {
+    "url": "https://soc.spbu.ru/abiturient.html",
+    "redirectTime": 0,
+    "serverResponseTime": 219,
+    "ttfb": 218,
+    "domContentLoadedTime": 435,
+    "tti": 429,
+    "fullyLoadedTime": 970,
+    "lcp": {
+      "value": 468,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 970,
+    "domReadyTime": 699,
+    "firstPaint": 265,
+    "firstContentfulPaint": 429,
+    "pageSize": 18858,
+    "domSize": 251
+  },
+  "https://soc.spbu.ru/studentam.html": {
+    "url": "https://soc.spbu.ru/studentam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 189,
+    "ttfb": 188,
+    "domContentLoadedTime": 523,
+    "tti": 516,
+    "fullyLoadedTime": 785,
+    "lcp": {
+      "value": 596,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 785,
+    "domReadyTime": 533,
+    "firstPaint": 243,
+    "firstContentfulPaint": 516,
+    "pageSize": 19714,
+    "domSize": 241
+  },
+  "https://soc.spbu.ru/nauka.html": {
+    "url": "https://soc.spbu.ru/nauka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 191,
+    "ttfb": 191,
+    "domContentLoadedTime": 400,
+    "tti": 394,
+    "fullyLoadedTime": 749,
+    "lcp": {
+      "value": 704,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 749,
+    "domReadyTime": 495,
+    "firstPaint": 248,
+    "firstContentfulPaint": 394,
+    "pageSize": 19260,
+    "domSize": 208
+  },
+  "https://soc.spbu.ru/sotrudnikam.html": {
+    "url": "https://soc.spbu.ru/sotrudnikam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 178,
+    "ttfb": 177,
+    "domContentLoadedTime": 413,
+    "tti": 406,
+    "fullyLoadedTime": 1000,
+    "lcp": {
+      "value": 452,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1000,
+    "domReadyTime": 767,
+    "firstPaint": 224,
+    "firstContentfulPaint": 406,
+    "pageSize": 17360,
+    "domSize": 219
+  },
+  "https://soc.spbu.ru/biblioteka.html": {
+    "url": "https://soc.spbu.ru/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 206,
+    "ttfb": 205,
+    "domContentLoadedTime": 527,
+    "tti": 519,
+    "fullyLoadedTime": 758,
+    "lcp": {
+      "value": 552,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 758,
+    "domReadyTime": 501,
+    "firstPaint": 251,
+    "firstContentfulPaint": 519,
+    "pageSize": 18304,
+    "domSize": 219
+  },
+  "https://soc.spbu.ru/#offcanvas": {
+    "url": "https://soc.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 281,
+    "ttfb": 279,
+    "domContentLoadedTime": 734,
+    "tti": 725,
+    "fullyLoadedTime": 974,
+    "lcp": {
+      "value": 812,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://soc.spbu.ru/images/soc-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 974,
+    "domReadyTime": 545,
+    "firstPaint": 420,
+    "firstContentfulPaint": 725,
+    "pageSize": 20299,
+    "domSize": 217
+  }
+}

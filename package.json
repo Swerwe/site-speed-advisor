@@ -65,6 +65,7 @@
     "cosmiconfig": "^9.0.0",
     "create-require": "^1.1.1",
     "cross-spawn": "^7.0.6",
+    "csv-parser": "^3.2.0",
     "data-uri-to-buffer": "^6.0.2",
     "debug": "^4.4.0",
     "deep-is": "^0.1.4",

@@ -1,0 +1,2534 @@
+{
+  "https://artesliberales.spbu.ru/ru": {
+    "url": "https://artesliberales.spbu.ru/ru",
+    "redirectTime": 0,
+    "serverResponseTime": 49,
+    "ttfb": 47,
+    "domContentLoadedTime": 1120,
+    "tti": 1066,
+    "fullyLoadedTime": 5319,
+    "lcp": {
+      "value": 308,
+      "lcpElementType": "text",
+      "lcpElementTag": "h2"
+    },
+    "tbt": {
+      "value": 98,
+      "longTasks": [
+        {
+          "duration": 144,
+          "startTime": 920.3000000119209,
+          "name": "self"
+        },
+        {
+          "duration": 54,
+          "startTime": 1066,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 5319,
+    "domReadyTime": 5184,
+    "firstPaint": 111,
+    "firstContentfulPaint": 1066,
+    "pageSize": 344446,
+    "domSize": 856
+  },
+  "https://artesliberales.spbu.ru/ru/education": {
+    "url": "https://artesliberales.spbu.ru/ru/education",
+    "redirectTime": 0,
+    "serverResponseTime": 306,
+    "ttfb": 287,
+    "domContentLoadedTime": 8028,
+    "tti": 7991,
+    "fullyLoadedTime": 11947,
+    "lcp": {
+      "value": 10940,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/main-menu/study_1600.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 60,
+      "longTasks": [
+        {
+          "duration": 81,
+          "startTime": 618.5,
+          "name": "self"
+        },
+        {
+          "duration": 79,
+          "startTime": 7909.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 11947,
+    "domReadyTime": 11585,
+    "firstPaint": 337,
+    "firstContentfulPaint": 7991,
+    "pageSize": 395340,
+    "domSize": 1086
+  },
+  "https://artesliberales.spbu.ru/ru/education#bm-bag-tabContent": {
+    "url": "https://artesliberales.spbu.ru/ru/education#bm-bag-tabContent",
+    "redirectTime": 0,
+    "serverResponseTime": 95,
+    "ttfb": 50,
+    "domContentLoadedTime": 10982,
+    "tti": 10953,
+    "fullyLoadedTime": 16242,
+    "lcp": {
+      "value": 15216,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/main-menu/study_1600.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 38,
+      "longTasks": [
+        {
+          "duration": 88,
+          "startTime": 10862,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 16242,
+    "domReadyTime": 15957,
+    "firstPaint": 250,
+    "firstContentfulPaint": 10953,
+    "pageSize": 395345,
+    "domSize": 1086
+  },
+  "https://artesliberales.spbu.ru/ru/education#bm-mag-tabContent": {
+    "url": "https://artesliberales.spbu.ru/ru/education#bm-mag-tabContent",
+    "redirectTime": 0,
+    "serverResponseTime": 71,
+    "ttfb": 53,
+    "domContentLoadedTime": 9434,
+    "tti": 9407,
+    "fullyLoadedTime": 13414,
+    "lcp": {
+      "value": 12380,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/main-menu/study_1600.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 36,
+      "longTasks": [
+        {
+          "duration": 86,
+          "startTime": 9318.799999982119,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 13414,
+    "domReadyTime": 13274,
+    "firstPaint": 102,
+    "firstContentfulPaint": 9407,
+    "pageSize": 395355,
+    "domSize": 1086
+  },
+  "https://artesliberales.spbu.ru/ru/education/course-catalog": {
+    "url": "https://artesliberales.spbu.ru/ru/education/course-catalog",
+    "redirectTime": 0,
+    "serverResponseTime": 215,
+    "ttfb": 214,
+    "domContentLoadedTime": 913,
+    "tti": 899,
+    "fullyLoadedTime": 4872,
+    "lcp": {
+      "value": 548,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 841,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4872,
+    "domReadyTime": 4488,
+    "firstPaint": 344,
+    "firstContentfulPaint": 899,
+    "pageSize": 357811,
+    "domSize": 863
+  },
+  "https://artesliberales.spbu.ru/ru/education/podhod-k-obucheniyu": {
+    "url": "https://artesliberales.spbu.ru/ru/education/podhod-k-obucheniyu",
+    "redirectTime": 0,
+    "serverResponseTime": 312,
+    "ttfb": 205,
+    "domContentLoadedTime": 1741,
+    "tti": 1720,
+    "fullyLoadedTime": 1755,
+    "lcp": {
+      "value": 504,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 31,
+      "longTasks": [
+        {
+          "duration": 81,
+          "startTime": 1636.4000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 1755,
+    "domReadyTime": 1494,
+    "firstPaint": 251,
+    "firstContentfulPaint": 1720,
+    "pageSize": 349487,
+    "domSize": 722
+  },
+  "https://artesliberales.spbu.ru/ru/education/podgotovitelnye-kursy": {
+    "url": "https://artesliberales.spbu.ru/ru/education/podgotovitelnye-kursy",
+    "redirectTime": 0,
+    "serverResponseTime": 208,
+    "ttfb": 206,
+    "domContentLoadedTime": 712,
+    "tti": 698,
+    "fullyLoadedTime": 2401,
+    "lcp": {
+      "value": 648,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 641.1999999880791,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2401,
+    "domReadyTime": 2113,
+    "firstPaint": 273,
+    "firstContentfulPaint": 698,
+    "pageSize": 329514,
+    "domSize": 648
+  },
+  "https://artesliberales.spbu.ru/ru/education#questions": {
+    "url": "https://artesliberales.spbu.ru/ru/education#questions",
+    "redirectTime": 0,
+    "serverResponseTime": 126,
+    "ttfb": 29,
+    "domContentLoadedTime": 5815,
+    "tti": 5790,
+    "fullyLoadedTime": 10015,
+    "lcp": {
+      "value": 8832,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/main-menu/study_1600.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 52,
+      "longTasks": [
+        {
+          "duration": 66,
+          "startTime": 441.7999999821186,
+          "name": "self"
+        },
+        {
+          "duration": 86,
+          "startTime": 5702.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 10015,
+    "domReadyTime": 9913,
+    "firstPaint": 76,
+    "firstContentfulPaint": 5790,
+    "pageSize": 395909,
+    "domSize": 1088
+  },
+  "https://artesliberales.spbu.ru/ru/education/praktiki-i-karera": {
+    "url": "https://artesliberales.spbu.ru/ru/education/praktiki-i-karera",
+    "redirectTime": 0,
+    "serverResponseTime": 244,
+    "ttfb": 227,
+    "domContentLoadedTime": 1224,
+    "tti": 1211,
+    "fullyLoadedTime": 5016,
+    "lcp": {
+      "value": 828,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 17,
+      "longTasks": [
+        {
+          "duration": 67,
+          "startTime": 1141.7999999821186,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 5016,
+    "domReadyTime": 4330,
+    "firstPaint": 668,
+    "firstContentfulPaint": 1211,
+    "pageSize": 334180,
+    "domSize": 659
+  },
+  "https://artesliberales.spbu.ru/ru/education/rezultat-obucheniya": {
+    "url": "https://artesliberales.spbu.ru/ru/education/rezultat-obucheniya",
+    "redirectTime": 0,
+    "serverResponseTime": 286,
+    "ttfb": 285,
+    "domContentLoadedTime": 679,
+    "tti": 656,
+    "fullyLoadedTime": 3217,
+    "lcp": {
+      "value": 476,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 24,
+      "longTasks": [
+        {
+          "duration": 64,
+          "startTime": 589.5999999940395,
+          "name": "self"
+        },
+        {
+          "duration": 60,
+          "startTime": 686.8999999761581,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3217,
+    "domReadyTime": 2860,
+    "firstPaint": 330,
+    "firstContentfulPaint": 656,
+    "pageSize": 339805,
+    "domSize": 784
+  },
+  "https://artesliberales.spbu.ru/ru/education/perevody-i-vosstanovleniya": {
+    "url": "https://artesliberales.spbu.ru/ru/education/perevody-i-vosstanovleniya",
+    "redirectTime": 0,
+    "serverResponseTime": 216,
+    "ttfb": 215,
+    "domContentLoadedTime": 1105,
+    "tti": 1084,
+    "fullyLoadedTime": 4959,
+    "lcp": {
+      "value": 456,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 11,
+      "longTasks": [
+        {
+          "duration": 61,
+          "startTime": 1020.8000000119209,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4959,
+    "domReadyTime": 4681,
+    "firstPaint": 264,
+    "firstContentfulPaint": 1084,
+    "pageSize": 347460,
+    "domSize": 741
+  },
+  "https://artesliberales.spbu.ru/ru/faculty": {
+    "url": "https://artesliberales.spbu.ru/ru/faculty",
+    "redirectTime": 0,
+    "serverResponseTime": 255,
+    "ttfb": 238,
+    "domContentLoadedTime": 4100,
+    "tti": 3996,
+    "fullyLoadedTime": 10805,
+    "lcp": {
+      "value": 10572,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/main-menu/faculty_1600.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 103,
+      "longTasks": [
+        {
+          "duration": 91,
+          "startTime": 3888.699999988079,
+          "name": "self"
+        },
+        {
+          "duration": 105,
+          "startTime": 3995.699999988079,
+          "name": "self"
+        },
+        {
+          "duration": 57,
+          "startTime": 10806.299999982119,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 3
+    },
+    "loadTime": 10805,
+    "domReadyTime": 10487,
+    "firstPaint": 285,
+    "firstContentfulPaint": 3996,
+    "pageSize": 346604,
+    "domSize": 815
+  },
+  "https://artesliberales.spbu.ru/ru/faculty/personalii": {
+    "url": "https://artesliberales.spbu.ru/ru/faculty/personalii",
+    "redirectTime": 0,
+    "serverResponseTime": 429,
+    "ttfb": 428,
+    "domContentLoadedTime": 1227,
+    "tti": 1200,
+    "fullyLoadedTime": 5378,
+    "lcp": {
+      "value": 792,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/astva.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 17,
+      "longTasks": [
+        {
+          "duration": 67,
+          "startTime": 1107.800000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5378,
+    "domReadyTime": 4859,
+    "firstPaint": 473,
+    "firstContentfulPaint": 1200,
+    "pageSize": 373419,
+    "domSize": 921
+  },
+  "https://artesliberales.spbu.ru/ru/faculty/konsorcium-evropeyskih-vuzov": {
+    "url": "https://artesliberales.spbu.ru/ru/faculty/konsorcium-evropeyskih-vuzov",
+    "redirectTime": 0,
+    "serverResponseTime": 184,
+    "ttfb": 183,
+    "domContentLoadedTime": 1195,
+    "tti": 1175,
+    "fullyLoadedTime": 1199,
+    "lcp": {
+      "value": 500,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 6,
+      "longTasks": [
+        {
+          "duration": 56,
+          "startTime": 1117.300000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1199,
+    "domReadyTime": 961,
+    "firstPaint": 232,
+    "firstContentfulPaint": 1175,
+    "pageSize": 323673,
+    "domSize": 574
+  },
+  "https://artesliberales.spbu.ru/ru/faculty/istoriya-i-tradicii": {
+    "url": "https://artesliberales.spbu.ru/ru/faculty/istoriya-i-tradicii",
+    "redirectTime": 0,
+    "serverResponseTime": 263,
+    "ttfb": 245,
+    "domContentLoadedTime": 1832,
+    "tti": 1812,
+    "fullyLoadedTime": 5257,
+    "lcp": {
+      "value": 560,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 6,
+      "longTasks": [
+        {
+          "duration": 56,
+          "startTime": 1748.199999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 5257,
+    "domReadyTime": 4861,
+    "firstPaint": 385,
+    "firstContentfulPaint": 1812,
+    "pageSize": 330750,
+    "domSize": 598
+  },
+  "https://artesliberales.spbu.ru/ru/faculty/kontakty": {
+    "url": "https://artesliberales.spbu.ru/ru/faculty/kontakty",
+    "redirectTime": 0,
+    "serverResponseTime": 199,
+    "ttfb": 198,
+    "domContentLoadedTime": 1817,
+    "tti": 1791,
+    "fullyLoadedTime": 2893,
+    "lcp": {
+      "value": 1864,
+      "lcpElementType": "text",
+      "lcpElementTag": "span"
+    },
+    "tbt": {
+      "value": 32,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 1705.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 2893,
+    "domReadyTime": 2635,
+    "firstPaint": 250,
+    "firstContentfulPaint": 1791,
+    "pageSize": 332456,
+    "domSize": 662
+  },
+  "https://artesliberales.spbu.ru/ru/faculty/dvorec-bobrinskih": {
+    "url": "https://artesliberales.spbu.ru/ru/faculty/dvorec-bobrinskih",
+    "redirectTime": 0,
+    "serverResponseTime": 239,
+    "ttfb": 238,
+    "domContentLoadedTime": 1323,
+    "tti": 1304,
+    "fullyLoadedTime": 7457,
+    "lcp": {
+      "value": 1340,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 1241,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7457,
+    "domReadyTime": 7131,
+    "firstPaint": 304,
+    "firstContentfulPaint": 1304,
+    "pageSize": 382596,
+    "domSize": 1115
+  },
+  "https://artesliberales.spbu.ru/ru/structure": {
+    "url": "https://artesliberales.spbu.ru/ru/structure",
+    "redirectTime": 0,
+    "serverResponseTime": 192,
+    "ttfb": 191,
+    "domContentLoadedTime": 1889,
+    "tti": 1864,
+    "fullyLoadedTime": 5499,
+    "lcp": {
+      "value": 3248,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/main-menu/structure_1600.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 110,
+      "longTasks": [
+        {
+          "duration": 132,
+          "startTime": 501.09999999403954,
+          "name": "self"
+        },
+        {
+          "duration": 78,
+          "startTime": 1784,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 3
+    },
+    "loadTime": 5499,
+    "domReadyTime": 5254,
+    "firstPaint": 236,
+    "firstContentfulPaint": 1864,
+    "pageSize": 331440,
+    "domSize": 661
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kafedry": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kafedry",
+    "redirectTime": 0,
+    "serverResponseTime": 192,
+    "ttfb": 190,
+    "domContentLoadedTime": 1585,
+    "tti": 1566,
+    "fullyLoadedTime": 1594,
+    "lcp": {
+      "value": 1292,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/right-img-1.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 30,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 1484.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 1594,
+    "domReadyTime": 1347,
+    "firstPaint": 238,
+    "firstContentfulPaint": 1566,
+    "pageSize": 322930,
+    "domSize": 592
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya",
+    "redirectTime": 0,
+    "serverResponseTime": 208,
+    "ttfb": 207,
+    "domContentLoadedTime": 2172,
+    "tti": 2152,
+    "fullyLoadedTime": 2180,
+    "lcp": {
+      "value": 860,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 30,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 2070.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2180,
+    "domReadyTime": 1540,
+    "firstPaint": 631,
+    "firstContentfulPaint": 2152,
+    "pageSize": 324102,
+    "domSize": 607
+  },
+  "https://artesliberales.spbu.ru/ru/calendar": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar",
+    "redirectTime": 0,
+    "serverResponseTime": 257,
+    "ttfb": 239,
+    "domContentLoadedTime": 2036,
+    "tti": 1994,
+    "fullyLoadedTime": 2051,
+    "lcp": {
+      "value": 2084,
+      "lcpElementType": "text",
+      "lcpElementTag": "span"
+    },
+    "tbt": {
+      "value": 36,
+      "longTasks": [
+        {
+          "duration": 86,
+          "startTime": 1905.4000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2051,
+    "domReadyTime": 1709,
+    "firstPaint": 325,
+    "firstContentfulPaint": 1995,
+    "pageSize": 350734,
+    "domSize": 1043
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/313": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/313",
+    "redirectTime": 0,
+    "serverResponseTime": 282,
+    "ttfb": 281,
+    "domContentLoadedTime": 1802,
+    "tti": 1782,
+    "fullyLoadedTime": 6548,
+    "lcp": {
+      "value": 1096,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 31,
+      "longTasks": [
+        {
+          "duration": 81,
+          "startTime": 1699.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 6548,
+    "domReadyTime": 6208,
+    "firstPaint": 329,
+    "firstContentfulPaint": 1782,
+    "pageSize": 333835,
+    "domSize": 742
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/292": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/292",
+    "redirectTime": 0,
+    "serverResponseTime": 233,
+    "ttfb": 232,
+    "domContentLoadedTime": 699,
+    "tti": 685,
+    "fullyLoadedTime": 3777,
+    "lcp": {
+      "value": 504,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 628.6999999880791,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3777,
+    "domReadyTime": 3490,
+    "firstPaint": 282,
+    "firstContentfulPaint": 685,
+    "pageSize": 334514,
+    "domSize": 750
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/291": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/291",
+    "redirectTime": 0,
+    "serverResponseTime": 235,
+    "ttfb": 234,
+    "domContentLoadedTime": 1143,
+    "tti": 1120,
+    "fullyLoadedTime": 4845,
+    "lcp": {
+      "value": 632,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 1059.800000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4845,
+    "domReadyTime": 4475,
+    "firstPaint": 363,
+    "firstContentfulPaint": 1120,
+    "pageSize": 333839,
+    "domSize": 747
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/303": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/303",
+    "redirectTime": 0,
+    "serverResponseTime": 227,
+    "ttfb": 226,
+    "domContentLoadedTime": 658,
+    "tti": 644,
+    "fullyLoadedTime": 4058,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 590.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 4058,
+    "domReadyTime": 3777,
+    "firstPaint": 272,
+    "firstContentfulPaint": 644,
+    "pageSize": 334416,
+    "domSize": 750
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/297": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/297",
+    "redirectTime": 0,
+    "serverResponseTime": 256,
+    "ttfb": 255,
+    "domContentLoadedTime": 728,
+    "tti": 713,
+    "fullyLoadedTime": 3643,
+    "lcp": {
+      "value": 824,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 7,
+      "longTasks": [
+        {
+          "duration": 57,
+          "startTime": 656.3000000119209,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3643,
+    "domReadyTime": 3332,
+    "firstPaint": 303,
+    "firstContentfulPaint": 714,
+    "pageSize": 334506,
+    "domSize": 750
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/302": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/302",
+    "redirectTime": 0,
+    "serverResponseTime": 223,
+    "ttfb": 222,
+    "domContentLoadedTime": 817,
+    "tti": 803,
+    "fullyLoadedTime": 4873,
+    "lcp": {
+      "value": 656,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 1,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 750.4000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 4873,
+    "domReadyTime": 4584,
+    "firstPaint": 282,
+    "firstContentfulPaint": 803,
+    "pageSize": 334392,
+    "domSize": 742
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/334": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/334",
+    "redirectTime": 0,
+    "serverResponseTime": 222,
+    "ttfb": 220,
+    "domContentLoadedTime": 905,
+    "tti": 891,
+    "fullyLoadedTime": 2878,
+    "lcp": {
+      "value": 620,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 30,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 801.7999999821186,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 2878,
+    "domReadyTime": 2584,
+    "firstPaint": 285,
+    "firstContentfulPaint": 891,
+    "pageSize": 333591,
+    "domSize": 737
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/300": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/300",
+    "redirectTime": 0,
+    "serverResponseTime": 249,
+    "ttfb": 248,
+    "domContentLoadedTime": 696,
+    "tti": 681,
+    "fullyLoadedTime": 2906,
+    "lcp": {
+      "value": 608,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 6,
+      "longTasks": [
+        {
+          "duration": 56,
+          "startTime": 615.6999999880791,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2906,
+    "domReadyTime": 2605,
+    "firstPaint": 291,
+    "firstContentfulPaint": 681,
+    "pageSize": 334511,
+    "domSize": 745
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat",
+    "redirectTime": 0,
+    "serverResponseTime": 72,
+    "ttfb": 53,
+    "domContentLoadedTime": 7303,
+    "tti": 7276,
+    "fullyLoadedTime": 7311,
+    "lcp": {
+      "value": 3844,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "image",
+      "lcpElementUrl": null,
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 159,
+      "longTasks": [
+        {
+          "duration": 173,
+          "startTime": 1891.6000000238419,
+          "name": "self"
+        },
+        {
+          "duration": 86,
+          "startTime": 7188.300000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 7311,
+    "domReadyTime": 5891,
+    "firstPaint": 1409,
+    "firstContentfulPaint": 7276,
+    "pageSize": 362528,
+    "domSize": 801
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/istoriya-iskusstva": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/istoriya-iskusstva",
+    "redirectTime": 0,
+    "serverResponseTime": 228,
+    "ttfb": 226,
+    "domContentLoadedTime": 1886,
+    "tti": 1867,
+    "fullyLoadedTime": 6627,
+    "lcp": {
+      "value": 816,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/art191028_1_0-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 32,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 1782.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 6627,
+    "domReadyTime": 6258,
+    "firstPaint": 358,
+    "firstContentfulPaint": 1867,
+    "pageSize": 334532,
+    "domSize": 675
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/istoriya-civilizaciy": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/istoriya-civilizaciy",
+    "redirectTime": 0,
+    "serverResponseTime": 271,
+    "ttfb": 270,
+    "domContentLoadedTime": 703,
+    "tti": 688,
+    "fullyLoadedTime": 3046,
+    "lcp": {
+      "value": 592,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/hist191028-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 631.4000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 3046,
+    "domReadyTime": 2718,
+    "firstPaint": 317,
+    "firstContentfulPaint": 688,
+    "pageSize": 336191,
+    "domSize": 675
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/kino-i-video": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/kino-i-video",
+    "redirectTime": 0,
+    "serverResponseTime": 300,
+    "ttfb": 297,
+    "domContentLoadedTime": 2249,
+    "tti": 2223,
+    "fullyLoadedTime": 7260,
+    "lcp": {
+      "value": 1572,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/films191028-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 7,
+      "longTasks": [
+        {
+          "duration": 57,
+          "startTime": 2163.199999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7260,
+    "domReadyTime": 6898,
+    "firstPaint": 343,
+    "firstContentfulPaint": 2223,
+    "pageSize": 345698,
+    "domSize": 796
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/kognitivnye-issledovaniya": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/kognitivnye-issledovaniya",
+    "redirectTime": 0,
+    "serverResponseTime": 265,
+    "ttfb": 248,
+    "domContentLoadedTime": 1568,
+    "tti": 1547,
+    "fullyLoadedTime": 1572,
+    "lcp": {
+      "value": 1036,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/cogn191028_2-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 30,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 1464.6000000238419,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1572,
+    "domReadyTime": 1183,
+    "firstPaint": 383,
+    "firstContentfulPaint": 1547,
+    "pageSize": 335398,
+    "domSize": 705
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/kompyuternye-nauki-i-iskusstvennyi-intellekt": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/kompyuternye-nauki-i-iskusstvennyi-intellekt",
+    "redirectTime": 0,
+    "serverResponseTime": 223,
+    "ttfb": 221,
+    "domContentLoadedTime": 663,
+    "tti": 650,
+    "fullyLoadedTime": 2904,
+    "lcp": {
+      "value": 540,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/comp191028-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 595.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 2904,
+    "domReadyTime": 2623,
+    "firstPaint": 273,
+    "firstContentfulPaint": 650,
+    "pageSize": 330740,
+    "domSize": 640
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/literatura": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/literatura",
+    "redirectTime": 0,
+    "serverResponseTime": 248,
+    "ttfb": 247,
+    "domContentLoadedTime": 2286,
+    "tti": 2267,
+    "fullyLoadedTime": 5378,
+    "lcp": {
+      "value": 1532,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/lit191028-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 33,
+      "longTasks": [
+        {
+          "duration": 83,
+          "startTime": 2182.2999999821186,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 5378,
+    "domReadyTime": 5075,
+    "firstPaint": 295,
+    "firstContentfulPaint": 2267,
+    "pageSize": 337506,
+    "domSize": 709
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/mezhdunarodnye-otnosheniya-politicheskie-nauki-i-prava-cheloveka": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/mezhdunarodnye-otnosheniya-politicheskie-nauki-i-prava-cheloveka",
+    "redirectTime": 0,
+    "serverResponseTime": 230,
+    "ttfb": 229,
+    "domContentLoadedTime": 721,
+    "tti": 706,
+    "fullyLoadedTime": 3332,
+    "lcp": {
+      "value": 692,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/polit191028-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 651.9000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 3332,
+    "domReadyTime": 3043,
+    "firstPaint": 279,
+    "firstContentfulPaint": 706,
+    "pageSize": 330397,
+    "domSize": 656
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/muzyka": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/muzyka",
+    "redirectTime": 0,
+    "serverResponseTime": 248,
+    "ttfb": 246,
+    "domContentLoadedTime": 1893,
+    "tti": 1872,
+    "fullyLoadedTime": 1897,
+    "lcp": {
+      "value": 1264,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/muz191028_1-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 32,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 1787.800000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1897,
+    "domReadyTime": 1532,
+    "firstPaint": 356,
+    "firstContentfulPaint": 1872,
+    "pageSize": 334721,
+    "domSize": 678
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/sociologiya-i-antropologiya": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/sociologiya-i-antropologiya",
+    "redirectTime": 0,
+    "serverResponseTime": 242,
+    "ttfb": 225,
+    "domContentLoadedTime": 643,
+    "tti": 629,
+    "fullyLoadedTime": 3861,
+    "lcp": {
+      "value": 480,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/socio191028.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 559.9000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3861,
+    "domReadyTime": 3579,
+    "firstPaint": 272,
+    "firstContentfulPaint": 629,
+    "pageSize": 336746,
+    "domSize": 684
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/filosofiya": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/filosofiya",
+    "redirectTime": 0,
+    "serverResponseTime": 228,
+    "ttfb": 227,
+    "domContentLoadedTime": 876,
+    "tti": 860,
+    "fullyLoadedTime": 3491,
+    "lcp": {
+      "value": 732,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/philos191028-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 3,
+      "longTasks": [
+        {
+          "duration": 53,
+          "startTime": 806.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3491,
+    "domReadyTime": 3134,
+    "firstPaint": 350,
+    "firstContentfulPaint": 860,
+    "pageSize": 328231,
+    "domSize": 644
+  },
+  "https://artesliberales.spbu.ru/ru/education/bakalavariat/ekonomika": {
+    "url": "https://artesliberales.spbu.ru/ru/education/bakalavariat/ekonomika",
+    "redirectTime": 0,
+    "serverResponseTime": 270,
+    "ttfb": 269,
+    "domContentLoadedTime": 1496,
+    "tti": 1476,
+    "fullyLoadedTime": 4847,
+    "lcp": {
+      "value": 1272,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/economy191028_1-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 11,
+      "longTasks": [
+        {
+          "duration": 61,
+          "startTime": 1413.300000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 4847,
+    "domReadyTime": 4437,
+    "firstPaint": 403,
+    "firstContentfulPaint": 1476,
+    "pageSize": 337305,
+    "domSize": 711
+  },
+  "https://artesliberales.spbu.ru/ru/education/magistratura/art-kritika": {
+    "url": "https://artesliberales.spbu.ru/ru/education/magistratura/art-kritika",
+    "redirectTime": 0,
+    "serverResponseTime": 65,
+    "ttfb": 49,
+    "domContentLoadedTime": 453,
+    "tti": 438,
+    "fullyLoadedTime": 1922,
+    "lcp": {
+      "value": 532,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/art191028_2-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 10,
+      "longTasks": [
+        {
+          "duration": 60,
+          "startTime": 377,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1922,
+    "domReadyTime": 1777,
+    "firstPaint": 141,
+    "firstContentfulPaint": 438,
+    "pageSize": 351791,
+    "domSize": 849
+  },
+  "https://artesliberales.spbu.ru/ru/education/magistratura/kuratorskie-issledovaniya": {
+    "url": "https://artesliberales.spbu.ru/ru/education/magistratura/kuratorskie-issledovaniya",
+    "redirectTime": 0,
+    "serverResponseTime": 285,
+    "ttfb": 258,
+    "domContentLoadedTime": 2617,
+    "tti": 2596,
+    "fullyLoadedTime": 2622,
+    "lcp": {
+      "value": 1628,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/curator191028-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 32,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 2510.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2622,
+    "domReadyTime": 2286,
+    "firstPaint": 330,
+    "firstContentfulPaint": 2596,
+    "pageSize": 346811,
+    "domSize": 797
+  },
+  "https://artesliberales.spbu.ru/ru/education/magistratura/muzykalnaya-kritika": {
+    "url": "https://artesliberales.spbu.ru/ru/education/magistratura/muzykalnaya-kritika",
+    "redirectTime": 0,
+    "serverResponseTime": 314,
+    "ttfb": 295,
+    "domContentLoadedTime": 795,
+    "tti": 780,
+    "fullyLoadedTime": 1303,
+    "lcp": {
+      "value": 756,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/default/files/musical_0-min.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 718.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1303,
+    "domReadyTime": 900,
+    "firstPaint": 388,
+    "firstContentfulPaint": 780,
+    "pageSize": 361801,
+    "domSize": 902
+  },
+  "https://artesliberales.spbu.ru/ru/education/chastye-voprosy": {
+    "url": "https://artesliberales.spbu.ru/ru/education/chastye-voprosy",
+    "redirectTime": 0,
+    "serverResponseTime": 203,
+    "ttfb": 202,
+    "domContentLoadedTime": 806,
+    "tti": 792,
+    "fullyLoadedTime": 3435,
+    "lcp": {
+      "value": 848,
+      "lcpElementType": "text",
+      "lcpElementTag": "span"
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 725.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3435,
+    "domReadyTime": 3078,
+    "firstPaint": 342,
+    "firstContentfulPaint": 792,
+    "pageSize": 338205,
+    "domSize": 715
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-mezhdisciplinarnyh-issledovaniy-v-oblasti-yazykov-i-literatury": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-mezhdisciplinarnyh-issledovaniy-v-oblasti-yazykov-i-literatury",
+    "redirectTime": 0,
+    "serverResponseTime": 203,
+    "ttfb": 202,
+    "domContentLoadedTime": 1127,
+    "tti": 1107,
+    "fullyLoadedTime": 4759,
+    "lcp": {
+      "value": 472,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 8,
+      "longTasks": [
+        {
+          "duration": 58,
+          "startTime": 1046.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4759,
+    "domReadyTime": 4502,
+    "firstPaint": 249,
+    "firstContentfulPaint": 1107,
+    "pageSize": 324909,
+    "domSize": 597
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-mezhdisciplinarnyh-issledovaniy-i-praktik-v-oblasti-iskusstv": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-mezhdisciplinarnyh-issledovaniy-i-praktik-v-oblasti-iskusstv",
+    "redirectTime": 0,
+    "serverResponseTime": 201,
+    "ttfb": 200,
+    "domContentLoadedTime": 759,
+    "tti": 744,
+    "fullyLoadedTime": 3224,
+    "lcp": {
+      "value": 508,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 33,
+      "longTasks": [
+        {
+          "duration": 79,
+          "startTime": 604,
+          "name": "self"
+        },
+        {
+          "duration": 54,
+          "startTime": 683.7999999821186,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 3224,
+    "domReadyTime": 2958,
+    "firstPaint": 258,
+    "firstContentfulPaint": 744,
+    "pageSize": 324485,
+    "domSize": 599
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-problem-konvergencii-estestvennyh-i-gumanitarnyh-nauk": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-problem-konvergencii-estestvennyh-i-gumanitarnyh-nauk",
+    "redirectTime": 0,
+    "serverResponseTime": 206,
+    "ttfb": 204,
+    "domContentLoadedTime": 855,
+    "tti": 839,
+    "fullyLoadedTime": 3955,
+    "lcp": {
+      "value": 540,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 1,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 786.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3955,
+    "domReadyTime": 3694,
+    "firstPaint": 252,
+    "firstContentfulPaint": 839,
+    "pageSize": 325008,
+    "domSize": 600
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-problem-mezhdisciplinarnogo-sinteza-v-oblasti-socialnyh-i-gumanitarnyh": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-problem-mezhdisciplinarnogo-sinteza-v-oblasti-socialnyh-i-gumanitarnyh",
+    "redirectTime": 0,
+    "serverResponseTime": 219,
+    "ttfb": 216,
+    "domContentLoadedTime": 796,
+    "tti": 782,
+    "fullyLoadedTime": 3065,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 1,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 729.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3065,
+    "domReadyTime": 2739,
+    "firstPaint": 316,
+    "firstContentfulPaint": 782,
+    "pageSize": 324951,
+    "domSize": 600
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-teorii-i-metodiki-prepodavaniya-iskusstv-i-gumanitarnyh-nauk": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kafedry/kafedra-teorii-i-metodiki-prepodavaniya-iskusstv-i-gumanitarnyh-nauk",
+    "redirectTime": 0,
+    "serverResponseTime": 219,
+    "ttfb": 218,
+    "domContentLoadedTime": 925,
+    "tti": 911,
+    "fullyLoadedTime": 3970,
+    "lcp": {
+      "value": 524,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 7,
+      "longTasks": [
+        {
+          "duration": 57,
+          "startTime": 852.4000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3970,
+    "domReadyTime": 3606,
+    "firstPaint": 355,
+    "firstContentfulPaint": 911,
+    "pageSize": 324632,
+    "domSize": 599
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/uchenyy-sovet": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/uchenyy-sovet",
+    "redirectTime": 0,
+    "serverResponseTime": 243,
+    "ttfb": 241,
+    "domContentLoadedTime": 2085,
+    "tti": 2065,
+    "fullyLoadedTime": 2096,
+    "lcp": {
+      "value": 612,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 32,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 1981.199999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 2096,
+    "domReadyTime": 1695,
+    "firstPaint": 389,
+    "firstContentfulPaint": 2065,
+    "pageSize": 334687,
+    "domSize": 690
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/studencheskiy-sovet": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/studencheskiy-sovet",
+    "redirectTime": 0,
+    "serverResponseTime": 322,
+    "ttfb": 321,
+    "domContentLoadedTime": 3389,
+    "tti": 3370,
+    "fullyLoadedTime": 7477,
+    "lcp": {
+      "value": 1812,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 32,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 3284.9000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 7477,
+    "domReadyTime": 5844,
+    "firstPaint": 1625,
+    "firstContentfulPaint": 3370,
+    "pageSize": 325987,
+    "domSize": 619
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-svobodnye-iskusstva-i-nauki": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-svobodnye-iskusstva-i-nauki",
+    "redirectTime": 0,
+    "serverResponseTime": 224,
+    "ttfb": 223,
+    "domContentLoadedTime": 3276,
+    "tti": 3256,
+    "fullyLoadedTime": 3280,
+    "lcp": {
+      "value": 2028,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 4,
+      "longTasks": [
+        {
+          "duration": 54,
+          "startTime": 3199.5999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3280,
+    "domReadyTime": 1622,
+    "firstPaint": 1651,
+    "firstContentfulPaint": 3256,
+    "pageSize": 328105,
+    "domSize": 633
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-art-kritika": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-art-kritika",
+    "redirectTime": 0,
+    "serverResponseTime": 295,
+    "ttfb": 242,
+    "domContentLoadedTime": 813,
+    "tti": 800,
+    "fullyLoadedTime": 2544,
+    "lcp": {
+      "value": 592,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 743.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2544,
+    "domReadyTime": 2160,
+    "firstPaint": 376,
+    "firstContentfulPaint": 800,
+    "pageSize": 326979,
+    "domSize": 632
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-kuratorskie-issledovaniya": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-kuratorskie-issledovaniya",
+    "redirectTime": 0,
+    "serverResponseTime": 239,
+    "ttfb": 216,
+    "domContentLoadedTime": 1508,
+    "tti": 1488,
+    "fullyLoadedTime": 5225,
+    "lcp": {
+      "value": 492,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 30,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 1405.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 5225,
+    "domReadyTime": 4957,
+    "firstPaint": 261,
+    "firstContentfulPaint": 1488,
+    "pageSize": 326652,
+    "domSize": 623
+  },
+  "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-muzykalnaya-kritika": {
+    "url": "https://artesliberales.spbu.ru/ru/structure/kollegialnye-organy-upravleniya/sovet-programmy-muzykalnaya-kritika",
+    "redirectTime": 0,
+    "serverResponseTime": 204,
+    "ttfb": 202,
+    "domContentLoadedTime": 1423,
+    "tti": 1407,
+    "fullyLoadedTime": 60399,
+    "lcp": {
+      "value": 432,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 30,
+      "longTasks": [
+        {
+          "duration": 80,
+          "startTime": 1325.699999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60399,
+    "domReadyTime": 60136,
+    "firstPaint": 252,
+    "firstContentfulPaint": 1407,
+    "pageSize": 327064,
+    "domSize": 625
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/428": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/428",
+    "redirectTime": 0,
+    "serverResponseTime": 262,
+    "ttfb": 237,
+    "domContentLoadedTime": 1813,
+    "tti": 1793,
+    "fullyLoadedTime": 1817,
+    "lcp": {
+      "value": 1264,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 32,
+      "longTasks": [
+        {
+          "duration": 82,
+          "startTime": 1708.1000000238419,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1817,
+    "domReadyTime": 1517,
+    "firstPaint": 291,
+    "firstContentfulPaint": 1793,
+    "pageSize": 334458,
+    "domSize": 747
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/314": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/314",
+    "redirectTime": 0,
+    "serverResponseTime": 277,
+    "ttfb": 276,
+    "domContentLoadedTime": 763,
+    "tti": 748,
+    "fullyLoadedTime": 25776,
+    "lcp": {
+      "value": 684,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 4,
+      "longTasks": [
+        {
+          "duration": 54,
+          "startTime": 689.2000000178814,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 25776,
+    "domReadyTime": 25439,
+    "firstPaint": 326,
+    "firstContentfulPaint": 748,
+    "pageSize": 334301,
+    "domSize": 745
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/11": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/11",
+    "redirectTime": 0,
+    "serverResponseTime": 216,
+    "ttfb": 214,
+    "domContentLoadedTime": 644,
+    "tti": 628,
+    "fullyLoadedTime": 1396,
+    "lcp": {
+      "value": 468,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 4,
+      "longTasks": [
+        {
+          "duration": 54,
+          "startTime": 573.3999999761581,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 1396,
+    "domReadyTime": 1127,
+    "firstPaint": 260,
+    "firstContentfulPaint": 628,
+    "pageSize": 332023,
+    "domSize": 709
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/427": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/427",
+    "redirectTime": 0,
+    "serverResponseTime": 204,
+    "ttfb": 202,
+    "domContentLoadedTime": 1173,
+    "tti": 1152,
+    "fullyLoadedTime": 4708,
+    "lcp": {
+      "value": 760,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 6,
+      "longTasks": [
+        {
+          "duration": 56,
+          "startTime": 1094.4000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4708,
+    "domReadyTime": 4454,
+    "firstPaint": 246,
+    "firstContentfulPaint": 1152,
+    "pageSize": 334233,
+    "domSize": 745
+  },
+  "https://artesliberales.spbu.ru/ru/calendar/tag/301": {
+    "url": "https://artesliberales.spbu.ru/ru/calendar/tag/301",
+    "redirectTime": 0,
+    "serverResponseTime": 212,
+    "ttfb": 211,
+    "domContentLoadedTime": 1670,
+    "tti": 1649,
+    "fullyLoadedTime": 1683,
+    "lcp": {
+      "value": 880,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 31,
+      "longTasks": [
+        {
+          "duration": 81,
+          "startTime": 1565.9000000059605,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 1683,
+    "domReadyTime": 1395,
+    "firstPaint": 280,
+    "firstContentfulPaint": 1649,
+    "pageSize": 334254,
+    "domSize": 749
+  },
+  "https://artesliberales.spbu.ru/ru#hashtags-list-collapse": {
+    "url": "https://artesliberales.spbu.ru/ru#hashtags-list-collapse",
+    "redirectTime": 0,
+    "serverResponseTime": 60,
+    "ttfb": 58,
+    "domContentLoadedTime": 1120,
+    "tti": 1011,
+    "fullyLoadedTime": 16203,
+    "lcp": {
+      "value": 296,
+      "lcpElementType": "text",
+      "lcpElementTag": "h2"
+    },
+    "tbt": {
+      "value": 245,
+      "longTasks": [
+        {
+          "duration": 235,
+          "startTime": 770.8000000119209,
+          "name": "self"
+        },
+        {
+          "duration": 110,
+          "startTime": 1010.7000000178814,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 3
+    },
+    "loadTime": 16203,
+    "domReadyTime": 16075,
+    "firstPaint": 105,
+    "firstContentfulPaint": 1011,
+    "pageSize": 344397,
+    "domSize": 855
+  },
+  "https://artesliberales.spbu.ru/ru/iskusstvoznanie": {
+    "url": "https://artesliberales.spbu.ru/ru/iskusstvoznanie",
+    "redirectTime": 0,
+    "serverResponseTime": 288,
+    "ttfb": 270,
+    "domContentLoadedTime": 2615,
+    "tti": 2596,
+    "fullyLoadedTime": 6630,
+    "lcp": {
+      "value": 2312,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 34,
+      "longTasks": [
+        {
+          "duration": 84,
+          "startTime": 2505,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 6630,
+    "domReadyTime": 6295,
+    "firstPaint": 316,
+    "firstContentfulPaint": 2596,
+    "pageSize": 355504,
+    "domSize": 889
+  },
+  "https://artesliberales.spbu.ru/ru/issledovanie-ekonomicheskoy-kultury": {
+    "url": "https://artesliberales.spbu.ru/ru/issledovanie-ekonomicheskoy-kultury",
+    "redirectTime": 0,
+    "serverResponseTime": 464,
+    "ttfb": 448,
+    "domContentLoadedTime": 1530,
+    "tti": 1512,
+    "fullyLoadedTime": 7429,
+    "lcp": {
+      "value": 796,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 5,
+      "longTasks": [
+        {
+          "duration": 55,
+          "startTime": 1447.199999988079,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7429,
+    "domReadyTime": 6915,
+    "firstPaint": 496,
+    "firstContentfulPaint": 1512,
+    "pageSize": 376054,
+    "domSize": 995
+  },
+  "https://artesliberales.spbu.ru/ru/kognitivistika": {
+    "url": "https://artesliberales.spbu.ru/ru/kognitivistika",
+    "redirectTime": 0,
+    "serverResponseTime": 308,
+    "ttfb": 307,
+    "domContentLoadedTime": 2112,
+    "tti": 2090,
+    "fullyLoadedTime": 2118,
+    "lcp": {
+      "value": 1348,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 33,
+      "longTasks": [
+        {
+          "duration": 83,
+          "startTime": 2000.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2118,
+    "domReadyTime": 1752,
+    "firstPaint": 355,
+    "firstContentfulPaint": 2090,
+    "pageSize": 349169,
+    "domSize": 836
+  },
+  "https://artesliberales.spbu.ru/ru/front/menu_b": {
+    "url": "https://artesliberales.spbu.ru/ru/front/menu_b",
+    "redirectTime": 0,
+    "serverResponseTime": 99,
+    "ttfb": 99,
+    "domContentLoadedTime": 162,
+    "tti": 162,
+    "fullyLoadedTime": 4611,
+    "lcp": {
+      "value": 492,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/menu/menu-b-2.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 0
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4611,
+    "domReadyTime": 4458,
+    "firstPaint": 147,
+    "firstContentfulPaint": 162,
+    "pageSize": 7335,
+    "domSize": 61
+  },
+  "https://artesliberales.spbu.ru/ru/front/menu_m": {
+    "url": "https://artesliberales.spbu.ru/ru/front/menu_m",
+    "redirectTime": 0,
+    "serverResponseTime": 96,
+    "ttfb": 95,
+    "domContentLoadedTime": 237,
+    "tti": 237,
+    "fullyLoadedTime": 714,
+    "lcp": {
+      "value": 380,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/menu/menu-m-1.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 0
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 714,
+    "domReadyTime": 484,
+    "firstPaint": 224,
+    "firstContentfulPaint": 237,
+    "pageSize": 3648,
+    "domSize": 37
+  },
+  "https://artesliberales.spbu.ru/ru/front/menu_n": {
+    "url": "https://artesliberales.spbu.ru/ru/front/menu_n",
+    "redirectTime": 0,
+    "serverResponseTime": 139,
+    "ttfb": 139,
+    "domContentLoadedTime": 223,
+    "tti": 222,
+    "fullyLoadedTime": 1368,
+    "lcp": {
+      "value": 400,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://artesliberales.spbu.ru/sites/all/themes/smolny/smolny-redesign/html/build/assets/img/menu/menu-n-2.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 0
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1368,
+    "domReadyTime": 1154,
+    "firstPaint": 209,
+    "firstContentfulPaint": 222,
+    "pageSize": 3381,
+    "domSize": 35
+  }
+}

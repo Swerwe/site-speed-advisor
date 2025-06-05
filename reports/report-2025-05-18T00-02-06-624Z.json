@@ -1,0 +1,205 @@
+{
+  "https://phil.spbu.ru/": {
+    "url": "https://phil.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 121,
+    "ttfb": 113,
+    "domContentLoadedTime": 344,
+    "tti": 327,
+    "fullyLoadedTime": 686,
+    "lcp": {
+      "value": 728,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 686,
+    "domReadyTime": 481,
+    "firstPaint": 196,
+    "firstContentfulPaint": 330,
+    "pageSize": 190638,
+    "domSize": 886
+  },
+  "https://phil.spbu.ru/postupayuschim": {
+    "url": "https://phil.spbu.ru/postupayuschim",
+    "redirectTime": 0,
+    "serverResponseTime": 70,
+    "ttfb": 53,
+    "domContentLoadedTime": 249,
+    "tti": 229,
+    "fullyLoadedTime": 502,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 31,
+      "longTasks": [
+        {
+          "duration": 81,
+          "startTime": 293.09999999403954,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 38
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 502,
+    "domReadyTime": 398,
+    "firstPaint": 102,
+    "firstContentfulPaint": 239,
+    "pageSize": 222878,
+    "domSize": 1142
+  },
+  "https://phil.spbu.ru/ucheba": {
+    "url": "https://phil.spbu.ru/ucheba",
+    "redirectTime": 0,
+    "serverResponseTime": 102,
+    "ttfb": 74,
+    "domContentLoadedTime": 286,
+    "tti": 235,
+    "fullyLoadedTime": 686,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 29,
+      "longTasks": [
+        {
+          "duration": 51,
+          "startTime": 235.40000000596046,
+          "name": "self"
+        },
+        {
+          "duration": 63,
+          "startTime": 351.2999999821186,
+          "name": "self"
+        },
+        {
+          "duration": 65,
+          "startTime": 597.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 686,
+    "domReadyTime": 561,
+    "firstPaint": 119,
+    "firstContentfulPaint": 241,
+    "pageSize": 505218,
+    "domSize": 4771
+  },
+  "https://phil.spbu.ru/nauka": {
+    "url": "https://phil.spbu.ru/nauka",
+    "redirectTime": 0,
+    "serverResponseTime": 82,
+    "ttfb": 64,
+    "domContentLoadedTime": 293,
+    "tti": 238,
+    "fullyLoadedTime": 456,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 53,
+      "longTasks": [
+        {
+          "duration": 56,
+          "startTime": 237.5,
+          "name": "self"
+        },
+        {
+          "duration": 97,
+          "startTime": 331.30000001192093,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 37
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 456,
+    "domReadyTime": 339,
+    "firstPaint": 113,
+    "firstContentfulPaint": 247,
+    "pageSize": 414963,
+    "domSize": 3948
+  },
+  "https://phil.spbu.ru/news": {
+    "url": "https://phil.spbu.ru/news",
+    "redirectTime": 0,
+    "serverResponseTime": 83,
+    "ttfb": 66,
+    "domContentLoadedTime": 265,
+    "tti": 248,
+    "fullyLoadedTime": 505,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 40
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 505,
+    "domReadyTime": 381,
+    "firstPaint": 118,
+    "firstContentfulPaint": 253,
+    "pageSize": 248274,
+    "domSize": 1227
+  },
+  "https://phil.spbu.ru/kontakty": {
+    "url": "https://phil.spbu.ru/kontakty",
+    "redirectTime": 0,
+    "serverResponseTime": 115,
+    "ttfb": 109,
+    "domContentLoadedTime": 1516,
+    "tti": 1499,
+    "fullyLoadedTime": 1840,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 34
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1840,
+    "domReadyTime": 463,
+    "firstPaint": 1368,
+    "firstContentfulPaint": 1505,
+    "pageSize": 120883,
+    "domSize": 506
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "https://ics.spbu.ru/": {
+    "url": "https://ics.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 74,
+    "ttfb": 72,
+    "domContentLoadedTime": 1824,
+    "tti": 1811,
+    "fullyLoadedTime": 60447,
+    "lcp": {
+      "value": 3604,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60447,
+    "domReadyTime": 60223,
+    "firstPaint": 208,
+    "firstContentfulPaint": 1811,
+    "pageSize": 44093,
+    "domSize": 352
+  },
+  "https://ics.spbu.ru/news-events/19": {
+    "url": "https://ics.spbu.ru/news-events/19",
+    "redirectTime": 0,
+    "serverResponseTime": 59,
+    "ttfb": 58,
+    "domContentLoadedTime": 3114,
+    "tti": 3107,
+    "fullyLoadedTime": 3136,
+    "lcp": {
+      "value": 3160,
+      "lcpElementType": "text",
+      "lcpElementTag": "span"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3136,
+    "domReadyTime": 1689,
+    "firstPaint": 1440,
+    "firstContentfulPaint": 3107,
+    "pageSize": 49774,
+    "domSize": 428
+  },
+  "https://ics.spbu.ru/news-events/20": {
+    "url": "https://ics.spbu.ru/news-events/20",
+    "redirectTime": 0,
+    "serverResponseTime": 63,
+    "ttfb": 62,
+    "domContentLoadedTime": 398,
+    "tti": 395,
+    "fullyLoadedTime": 771,
+    "lcp": {
+      "value": 472,
+      "lcpElementType": "text",
+      "lcpElementTag": "span"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 771,
+    "domReadyTime": 657,
+    "firstPaint": 110,
+    "firstContentfulPaint": 395,
+    "pageSize": 39964,
+    "domSize": 327
+  },
+  "https://ics.spbu.ru/science/people": {
+    "url": "https://ics.spbu.ru/science/people",
+    "redirectTime": 0,
+    "serverResponseTime": 62,
+    "ttfb": 61,
+    "domContentLoadedTime": 1875,
+    "tti": 1861,
+    "fullyLoadedTime": 60725,
+    "lcp": {
+      "value": 1516,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60725,
+    "domReadyTime": 60497,
+    "firstPaint": 196,
+    "firstContentfulPaint": 1861,
+    "pageSize": 53138,
+    "domSize": 472
+  },
+  "https://ics.spbu.ru/about/contacts": {
+    "url": "https://ics.spbu.ru/about/contacts",
+    "redirectTime": 0,
+    "serverResponseTime": 67,
+    "ttfb": 66,
+    "domContentLoadedTime": 736,
+    "tti": 733,
+    "fullyLoadedTime": 1275,
+    "lcp": {
+      "value": 644,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "section"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 47
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1275,
+    "domReadyTime": 1013,
+    "firstPaint": 255,
+    "firstContentfulPaint": 733,
+    "pageSize": 45255,
+    "domSize": 341
+  },
+  "https://ics.spbu.ru/searchsite": {
+    "url": "https://ics.spbu.ru/searchsite",
+    "redirectTime": 0,
+    "serverResponseTime": 145,
+    "ttfb": 144,
+    "domContentLoadedTime": 509,
+    "tti": 506,
+    "fullyLoadedTime": 821,
+    "lcp": {
+      "value": 560,
+      "lcpElementType": "text",
+      "lcpElementTag": "span",
+      "lcpElementUrl": "https://ics.spbu.ru/themes/iki/iki-static/build/img/icons/IKIBlack.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 821,
+    "domReadyTime": 625,
+    "firstPaint": 191,
+    "firstContentfulPaint": 506,
+    "pageSize": 30127,
+    "domSize": 225
+  },
+  "https://ics.spbu.ru/about": {
+    "url": "https://ics.spbu.ru/about",
+    "redirectTime": 0,
+    "serverResponseTime": 64,
+    "ttfb": 64,
+    "domContentLoadedTime": 546,
+    "tti": 540,
+    "fullyLoadedTime": 729,
+    "lcp": {
+      "value": 656,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 729,
+    "domReadyTime": 608,
+    "firstPaint": 115,
+    "firstContentfulPaint": 540,
+    "pageSize": 42210,
+    "domSize": 317
+  },
+  "https://ics.spbu.ru/education": {
+    "url": "https://ics.spbu.ru/education",
+    "redirectTime": 0,
+    "serverResponseTime": 65,
+    "ttfb": 65,
+    "domContentLoadedTime": 917,
+    "tti": 899,
+    "fullyLoadedTime": 7757,
+    "lcp": {
+      "value": 5408,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7757,
+    "domReadyTime": 7614,
+    "firstPaint": 115,
+    "firstContentfulPaint": 899,
+    "pageSize": 71322,
+    "domSize": 498
+  },
+  "https://ics.spbu.ru/science": {
+    "url": "https://ics.spbu.ru/science",
+    "redirectTime": 0,
+    "serverResponseTime": 147,
+    "ttfb": 146,
+    "domContentLoadedTime": 879,
+    "tti": 869,
+    "fullyLoadedTime": 970,
+    "lcp": {
+      "value": 948,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 970,
+    "domReadyTime": 683,
+    "firstPaint": 278,
+    "firstContentfulPaint": 869,
+    "pageSize": 54327,
+    "domSize": 383
+  },
+  "https://ics.spbu.ru/news-events": {
+    "url": "https://ics.spbu.ru/news-events",
+    "redirectTime": 0,
+    "serverResponseTime": 66,
+    "ttfb": 63,
+    "domContentLoadedTime": 3019,
+    "tti": 3006,
+    "fullyLoadedTime": 3463,
+    "lcp": {
+      "value": 3360,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3463,
+    "domReadyTime": 3268,
+    "firstPaint": 176,
+    "firstContentfulPaint": 3006,
+    "pageSize": 67098,
+    "domSize": 654
+  },
+  "https://ics.spbu.ru/about/history": {
+    "url": "https://ics.spbu.ru/about/history",
+    "redirectTime": 0,
+    "serverResponseTime": 67,
+    "ttfb": 66,
+    "domContentLoadedTime": 490,
+    "tti": 485,
+    "fullyLoadedTime": 678,
+    "lcp": {
+      "value": 516,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 678,
+    "domReadyTime": 545,
+    "firstPaint": 127,
+    "firstContentfulPaint": 485,
+    "pageSize": 42943,
+    "domSize": 300
+  },
+  "https://ics.spbu.ru/about/structure": {
+    "url": "https://ics.spbu.ru/about/structure",
+    "redirectTime": 0,
+    "serverResponseTime": 62,
+    "ttfb": 61,
+    "domContentLoadedTime": 891,
+    "tti": 887,
+    "fullyLoadedTime": 1543,
+    "lcp": {
+      "value": 560,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1543,
+    "domReadyTime": 1361,
+    "firstPaint": 172,
+    "firstContentfulPaint": 887,
+    "pageSize": 39853,
+    "domSize": 347
+  },
+  "https://ics.spbu.ru/about/kadrovyy-rezerv": {
+    "url": "https://ics.spbu.ru/about/kadrovyy-rezerv",
+    "redirectTime": 0,
+    "serverResponseTime": 59,
+    "ttfb": 58,
+    "domContentLoadedTime": 1840,
+    "tti": 1832,
+    "fullyLoadedTime": 1862,
+    "lcp": {
+      "value": 684,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1862,
+    "domReadyTime": 1691,
+    "firstPaint": 161,
+    "firstContentfulPaint": 1832,
+    "pageSize": 37463,
+    "domSize": 294
+  },
+  "https://ics.spbu.ru/about/partners": {
+    "url": "https://ics.spbu.ru/about/partners",
+    "redirectTime": 0,
+    "serverResponseTime": 64,
+    "ttfb": 61,
+    "domContentLoadedTime": 827,
+    "tti": 817,
+    "fullyLoadedTime": 877,
+    "lcp": {
+      "value": 540,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 877,
+    "domReadyTime": 670,
+    "firstPaint": 194,
+    "firstContentfulPaint": 817,
+    "pageSize": 45854,
+    "domSize": 350
+  },
+  "https://ics.spbu.ru/about/documents": {
+    "url": "https://ics.spbu.ru/about/documents",
+    "redirectTime": 0,
+    "serverResponseTime": 114,
+    "ttfb": 111,
+    "domContentLoadedTime": 1204,
+    "tti": 1196,
+    "fullyLoadedTime": 1232,
+    "lcp": {
+      "value": 1248,
+      "lcpElementType": "text",
+      "lcpElementTag": "span"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 46
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1232,
+    "domReadyTime": 976,
+    "firstPaint": 248,
+    "firstContentfulPaint": 1196,
+    "pageSize": 45792,
+    "domSize": 409
+  },
+  "https://ics.spbu.ru/science/projects": {
+    "url": "https://ics.spbu.ru/science/projects",
+    "redirectTime": 0,
+    "serverResponseTime": 58,
+    "ttfb": 57,
+    "domContentLoadedTime": 510,
+    "tti": 502,
+    "fullyLoadedTime": 720,
+    "lcp": {
+      "value": 548,
+      "lcpElementType": "text",
+      "lcpElementTag": "span"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 45
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 720,
+    "domReadyTime": 606,
+    "firstPaint": 103,
+    "firstContentfulPaint": 502,
+    "pageSize": 57785,
+    "domSize": 422
+  }
+}

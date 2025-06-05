@@ -1,0 +1,510 @@
+{
+  "https://sport.spbu.ru/": {
+    "url": "https://sport.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 130,
+    "ttfb": 129,
+    "domContentLoadedTime": 1021,
+    "tti": 1013,
+    "fullyLoadedTime": 3435,
+    "lcp": {
+      "value": 3484,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_5.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3435,
+    "domReadyTime": 3254,
+    "firstPaint": 172,
+    "firstContentfulPaint": 1013,
+    "pageSize": 18159,
+    "domSize": 202
+  },
+  "https://sport.spbu.ru/#": {
+    "url": "https://sport.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 107,
+    "ttfb": 106,
+    "domContentLoadedTime": 756,
+    "tti": 722,
+    "fullyLoadedTime": 3732,
+    "lcp": {
+      "value": 3772,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_5.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3732,
+    "domReadyTime": 3559,
+    "firstPaint": 162,
+    "firstContentfulPaint": 722,
+    "pageSize": 18159,
+    "domSize": 202
+  },
+  "https://sport.spbu.ru/o-kafedre/administratsiya.html": {
+    "url": "https://sport.spbu.ru/o-kafedre/administratsiya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 266,
+    "ttfb": 265,
+    "domContentLoadedTime": 555,
+    "tti": 549,
+    "fullyLoadedTime": 1232,
+    "lcp": {
+      "value": 972,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_5.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1232,
+    "domReadyTime": 903,
+    "firstPaint": 316,
+    "firstContentfulPaint": 549,
+    "pageSize": 19772,
+    "domSize": 227
+  },
+  "https://sport.spbu.ru/images/files/sport_rabochaya_programma.pdf": {
+    "url": "https://sport.spbu.ru/images/files/sport_rabochaya_programma.pdf",
+    "redirectTime": 0,
+    "serverResponseTime": 31,
+    "ttfb": 28,
+    "domContentLoadedTime": 1301,
+    "tti": 1301,
+    "fullyLoadedTime": 1301,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 0
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1301,
+    "domReadyTime": 11,
+    "firstPaint": 1279,
+    "firstContentfulPaint": 1301,
+    "pageSize": 242,
+    "domSize": 4
+  },
+  "https://sport.spbu.ru/o-kafedre/istoriya.html": {
+    "url": "https://sport.spbu.ru/o-kafedre/istoriya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 254,
+    "ttfb": 253,
+    "domContentLoadedTime": 517,
+    "tti": 510,
+    "fullyLoadedTime": 60534,
+    "lcp": {
+      "value": 2552,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_5.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60534,
+    "domReadyTime": 60219,
+    "firstPaint": 305,
+    "firstContentfulPaint": 510,
+    "pageSize": 25391,
+    "domSize": 164
+  },
+  "https://sport.spbu.ru/o-kafedre/prepodavateli.html": {
+    "url": "https://sport.spbu.ru/o-kafedre/prepodavateli.html",
+    "redirectTime": 0,
+    "serverResponseTime": 200,
+    "ttfb": 198,
+    "domContentLoadedTime": 554,
+    "tti": 547,
+    "fullyLoadedTime": 631,
+    "lcp": {
+      "value": 616,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://sport.spbu.ru/images/sport-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 27
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 631,
+    "domReadyTime": 371,
+    "firstPaint": 249,
+    "firstContentfulPaint": 547,
+    "pageSize": 37070,
+    "domSize": 612
+  },
+  "https://sport.spbu.ru/obrazovanie/obrazovatelnye-programmy.html": {
+    "url": "https://sport.spbu.ru/obrazovanie/obrazovatelnye-programmy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 183,
+    "ttfb": 182,
+    "domContentLoadedTime": 566,
+    "tti": 558,
+    "fullyLoadedTime": 1430,
+    "lcp": {
+      "value": 1440,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_6.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1430,
+    "domReadyTime": 1195,
+    "firstPaint": 228,
+    "firstContentfulPaint": 558,
+    "pageSize": 12456,
+    "domSize": 156
+  },
+  "https://sport.spbu.ru/obrazovanie/raspisanie.html": {
+    "url": "https://sport.spbu.ru/obrazovanie/raspisanie.html",
+    "redirectTime": 0,
+    "serverResponseTime": 152,
+    "ttfb": 150,
+    "domContentLoadedTime": 747,
+    "tti": 741,
+    "fullyLoadedTime": 872,
+    "lcp": {
+      "value": 832,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://sport.spbu.ru/images/sport-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 872,
+    "domReadyTime": 653,
+    "firstPaint": 198,
+    "firstContentfulPaint": 741,
+    "pageSize": 52566,
+    "domSize": 2273
+  },
+  "https://sport.spbu.ru/obrazovanie/kuratory.html": {
+    "url": "https://sport.spbu.ru/obrazovanie/kuratory.html",
+    "redirectTime": 0,
+    "serverResponseTime": 243,
+    "ttfb": 242,
+    "domContentLoadedTime": 515,
+    "tti": 508,
+    "fullyLoadedTime": 4573,
+    "lcp": {
+      "value": 1436,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_6.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4573,
+    "domReadyTime": 4249,
+    "firstPaint": 314,
+    "firstContentfulPaint": 508,
+    "pageSize": 36087,
+    "domSize": 336
+  },
+  "https://sport.spbu.ru/obrazovanie/biblioteka.html": {
+    "url": "https://sport.spbu.ru/obrazovanie/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 253,
+    "ttfb": 252,
+    "domContentLoadedTime": 949,
+    "tti": 940,
+    "fullyLoadedTime": 2641,
+    "lcp": {
+      "value": 2688,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_6.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2641,
+    "domReadyTime": 2329,
+    "firstPaint": 301,
+    "firstContentfulPaint": 940,
+    "pageSize": 17847,
+    "domSize": 234
+  },
+  "https://sport.spbu.ru/nauka.html": {
+    "url": "https://sport.spbu.ru/nauka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 165,
+    "ttfb": 163,
+    "domContentLoadedTime": 875,
+    "tti": 868,
+    "fullyLoadedTime": 2358,
+    "lcp": {
+      "value": 2396,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_4.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2358,
+    "domReadyTime": 1680,
+    "firstPaint": 667,
+    "firstContentfulPaint": 868,
+    "pageSize": 14720,
+    "domSize": 171
+  },
+  "https://sport.spbu.ru/nauka/uchebnaya-laboratoriya.html": {
+    "url": "https://sport.spbu.ru/nauka/uchebnaya-laboratoriya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 223,
+    "ttfb": 221,
+    "domContentLoadedTime": 837,
+    "tti": 828,
+    "fullyLoadedTime": 2642,
+    "lcp": {
+      "value": 2676,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_4.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2642,
+    "domReadyTime": 2357,
+    "firstPaint": 273,
+    "firstContentfulPaint": 828,
+    "pageSize": 15186,
+    "domSize": 168
+  },
+  "https://sport.spbu.ru/nauka/nauchno-issledovatelskij-studencheskij-klub.html": {
+    "url": "https://sport.spbu.ru/nauka/nauchno-issledovatelskij-studencheskij-klub.html",
+    "redirectTime": 0,
+    "serverResponseTime": 181,
+    "ttfb": 180,
+    "domContentLoadedTime": 621,
+    "tti": 612,
+    "fullyLoadedTime": 2767,
+    "lcp": {
+      "value": 2812,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_4.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2767,
+    "domReadyTime": 2491,
+    "firstPaint": 265,
+    "firstContentfulPaint": 612,
+    "pageSize": 14611,
+    "domSize": 170
+  },
+  "https://sport.spbu.ru/nauka/konferentsii.html": {
+    "url": "https://sport.spbu.ru/nauka/konferentsii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 169,
+    "ttfb": 168,
+    "domContentLoadedTime": 1239,
+    "tti": 1231,
+    "fullyLoadedTime": 3782,
+    "lcp": {
+      "value": 3824,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_4.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3782,
+    "domReadyTime": 3475,
+    "firstPaint": 301,
+    "firstContentfulPaint": 1231,
+    "pageSize": 20616,
+    "domSize": 224
+  },
+  "https://sport.spbu.ru/sportivnye-ob-ekty.html": {
+    "url": "https://sport.spbu.ru/sportivnye-ob-ekty.html",
+    "redirectTime": 0,
+    "serverResponseTime": 221,
+    "ttfb": 220,
+    "domContentLoadedTime": 526,
+    "tti": 521,
+    "fullyLoadedTime": 582,
+    "lcp": {
+      "value": 552,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/sport-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 582,
+    "domReadyTime": 308,
+    "firstPaint": 267,
+    "firstContentfulPaint": 521,
+    "pageSize": 15876,
+    "domSize": 201
+  },
+  "https://sport.spbu.ru/#offcanvas": {
+    "url": "https://sport.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 92,
+    "ttfb": 91,
+    "domContentLoadedTime": 488,
+    "tti": 480,
+    "fullyLoadedTime": 3200,
+    "lcp": {
+      "value": 3256,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sport.spbu.ru/images/banners/banner_5.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3200,
+    "domReadyTime": 3052,
+    "firstPaint": 138,
+    "firstContentfulPaint": 480,
+    "pageSize": 18159,
+    "domSize": 202
+  }
+}

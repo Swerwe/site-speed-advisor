@@ -1,0 +1,288 @@
+{
+  "https://politology.spbu.ru/": {
+    "url": "https://politology.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 101,
+    "ttfb": 99,
+    "domContentLoadedTime": 653,
+    "tti": 644,
+    "fullyLoadedTime": 1061,
+    "lcp": {
+      "value": 684,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://politology.spbu.ru/images/polit-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1061,
+    "domReadyTime": 904,
+    "firstPaint": 148,
+    "firstContentfulPaint": 644,
+    "pageSize": 21457,
+    "domSize": 237
+  },
+  "https://politology.spbu.ru/anonsy.html": {
+    "url": "https://politology.spbu.ru/anonsy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 105,
+    "ttfb": 105,
+    "domContentLoadedTime": 665,
+    "tti": 658,
+    "fullyLoadedTime": 1666,
+    "lcp": {
+      "value": 708,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1666,
+    "domReadyTime": 1509,
+    "firstPaint": 150,
+    "firstContentfulPaint": 658,
+    "pageSize": 21579,
+    "domSize": 249
+  },
+  "https://politology.spbu.ru/fakultet.html": {
+    "url": "https://politology.spbu.ru/fakultet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 189,
+    "ttfb": 187,
+    "domContentLoadedTime": 444,
+    "tti": 436,
+    "fullyLoadedTime": 1331,
+    "lcp": {
+      "value": 488,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://politology.spbu.ru/images/polit-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1331,
+    "domReadyTime": 1090,
+    "firstPaint": 232,
+    "firstContentfulPaint": 436,
+    "pageSize": 16634,
+    "domSize": 206
+  },
+  "https://politology.spbu.ru/abiturientam.html": {
+    "url": "https://politology.spbu.ru/abiturientam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 214,
+    "ttfb": 213,
+    "domContentLoadedTime": 682,
+    "tti": 677,
+    "fullyLoadedTime": 1019,
+    "lcp": {
+      "value": 1016,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://politology.spbu.ru/images/fakultet/abiturient/abiturient.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1019,
+    "domReadyTime": 648,
+    "firstPaint": 365,
+    "firstContentfulPaint": 677,
+    "pageSize": 18354,
+    "domSize": 244
+  },
+  "https://politology.spbu.ru/studentam.html": {
+    "url": "https://politology.spbu.ru/studentam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 89,
+    "ttfb": 87,
+    "domContentLoadedTime": 1721,
+    "tti": 1715,
+    "fullyLoadedTime": 2344,
+    "lcp": {
+      "value": 1756,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://politology.spbu.ru/images/polit-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2344,
+    "domReadyTime": 960,
+    "firstPaint": 1375,
+    "firstContentfulPaint": 1715,
+    "pageSize": 26317,
+    "domSize": 344
+  },
+  "https://politology.spbu.ru/dopolnitelnoe-obrazovanie.html": {
+    "url": "https://politology.spbu.ru/dopolnitelnoe-obrazovanie.html",
+    "redirectTime": 0,
+    "serverResponseTime": 108,
+    "ttfb": 107,
+    "domContentLoadedTime": 413,
+    "tti": 408,
+    "fullyLoadedTime": 1329,
+    "lcp": {
+      "value": 444,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://politology.spbu.ru/images/polit-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1329,
+    "domReadyTime": 1095,
+    "firstPaint": 226,
+    "firstContentfulPaint": 408,
+    "pageSize": 16542,
+    "domSize": 200
+  },
+  "https://politology.spbu.ru/nauka.html": {
+    "url": "https://politology.spbu.ru/nauka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 169,
+    "ttfb": 168,
+    "domContentLoadedTime": 439,
+    "tti": 433,
+    "fullyLoadedTime": 954,
+    "lcp": {
+      "value": 480,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://politology.spbu.ru/images/polit-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 954,
+    "domReadyTime": 676,
+    "firstPaint": 271,
+    "firstContentfulPaint": 433,
+    "pageSize": 17970,
+    "domSize": 243
+  },
+  "https://politology.spbu.ru/biblioteka.html": {
+    "url": "https://politology.spbu.ru/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 326,
+    "ttfb": 324,
+    "domContentLoadedTime": 605,
+    "tti": 600,
+    "fullyLoadedTime": 1213,
+    "lcp": {
+      "value": 776,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://politology.spbu.ru/images/polit-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1213,
+    "domReadyTime": 824,
+    "firstPaint": 380,
+    "firstContentfulPaint": 600,
+    "pageSize": 38760,
+    "domSize": 481
+  },
+  "https://politology.spbu.ru/#offcanvas": {
+    "url": "https://politology.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 113,
+    "ttfb": 112,
+    "domContentLoadedTime": 486,
+    "tti": 476,
+    "fullyLoadedTime": 810,
+    "lcp": {
+      "value": 524,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://politology.spbu.ru/images/polit-logo-ru.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 810,
+    "domReadyTime": 629,
+    "firstPaint": 173,
+    "firstContentfulPaint": 476,
+    "pageSize": 21457,
+    "domSize": 237
+  }
+}

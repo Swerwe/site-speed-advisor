@@ -1,0 +1,418 @@
+{
+  "https://mil.spbu.ru/": {
+    "url": "https://mil.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 251,
+    "ttfb": 249,
+    "domContentLoadedTime": 1882,
+    "tti": 1875,
+    "fullyLoadedTime": 2869,
+    "lcp": {
+      "value": 1992,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2869,
+    "domReadyTime": 1180,
+    "firstPaint": 1679,
+    "firstContentfulPaint": 1875,
+    "pageSize": 19829,
+    "domSize": 198
+  },
+  "https://mil.spbu.ru/fakulet.html": {
+    "url": "https://mil.spbu.ru/fakulet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 349,
+    "ttfb": 348,
+    "domContentLoadedTime": 570,
+    "tti": 564,
+    "fullyLoadedTime": 1046,
+    "lcp": {
+      "value": 656,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1046,
+    "domReadyTime": 647,
+    "firstPaint": 392,
+    "firstContentfulPaint": 564,
+    "pageSize": 12186,
+    "domSize": 142
+  },
+  "https://mil.spbu.ru/fakulet/rukovodstvo.html": {
+    "url": "https://mil.spbu.ru/fakulet/rukovodstvo.html",
+    "redirectTime": 0,
+    "serverResponseTime": 63,
+    "ttfb": 61,
+    "domContentLoadedTime": 1537,
+    "tti": 1529,
+    "fullyLoadedTime": 2821,
+    "lcp": {
+      "value": 1584,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://mil.spbu.ru/images/2.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 15
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2821,
+    "domReadyTime": 1702,
+    "firstPaint": 1108,
+    "firstContentfulPaint": 1529,
+    "pageSize": 15834,
+    "domSize": 175
+  },
+  "https://mil.spbu.ru/fakulet/istoriya.html": {
+    "url": "https://mil.spbu.ru/fakulet/istoriya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 193,
+    "ttfb": 191,
+    "domContentLoadedTime": 593,
+    "tti": 587,
+    "fullyLoadedTime": 60543,
+    "lcp": {
+      "value": 776,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60543,
+    "domReadyTime": 60150,
+    "firstPaint": 382,
+    "firstContentfulPaint": 587,
+    "pageSize": 44506,
+    "domSize": 341
+  },
+  "https://mil.spbu.ru/fakulet/normativnye-dokumenty.html": {
+    "url": "https://mil.spbu.ru/fakulet/normativnye-dokumenty.html",
+    "redirectTime": 0,
+    "serverResponseTime": 165,
+    "ttfb": 164,
+    "domContentLoadedTime": 664,
+    "tti": 657,
+    "fullyLoadedTime": 1032,
+    "lcp": {
+      "value": 728,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1032,
+    "domReadyTime": 723,
+    "firstPaint": 301,
+    "firstContentfulPaint": 657,
+    "pageSize": 17432,
+    "domSize": 170
+  },
+  "https://mil.spbu.ru/abiturientam/obshchie-polozheniya.html": {
+    "url": "https://mil.spbu.ru/abiturientam/obshchie-polozheniya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 112,
+    "ttfb": 110,
+    "domContentLoadedTime": 1824,
+    "tti": 1817,
+    "fullyLoadedTime": 2054,
+    "lcp": {
+      "value": 1912,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2054,
+    "domReadyTime": 624,
+    "firstPaint": 1422,
+    "firstContentfulPaint": 1817,
+    "pageSize": 12320,
+    "domSize": 143
+  },
+  "https://mil.spbu.ru/abiturientam/instruktsii-prikazy-i-dogovora.html": {
+    "url": "https://mil.spbu.ru/abiturientam/instruktsii-prikazy-i-dogovora.html",
+    "redirectTime": 0,
+    "serverResponseTime": 106,
+    "ttfb": 106,
+    "domContentLoadedTime": 319,
+    "tti": 313,
+    "fullyLoadedTime": 565,
+    "lcp": {
+      "value": 424,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 565,
+    "domReadyTime": 408,
+    "firstPaint": 153,
+    "firstContentfulPaint": 313,
+    "pageSize": 13391,
+    "domSize": 152
+  },
+  "https://mil.spbu.ru/abiturientam/sportivnye-normativy.html": {
+    "url": "https://mil.spbu.ru/abiturientam/sportivnye-normativy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 104,
+    "ttfb": 102,
+    "domContentLoadedTime": 436,
+    "tti": 430,
+    "fullyLoadedTime": 765,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 765,
+    "domReadyTime": 560,
+    "firstPaint": 196,
+    "firstContentfulPaint": 430,
+    "pageSize": 13857,
+    "domSize": 155
+  },
+  "https://mil.spbu.ru/studentam/instruktsii-prikazy-dogovora.html": {
+    "url": "https://mil.spbu.ru/studentam/instruktsii-prikazy-dogovora.html",
+    "redirectTime": 0,
+    "serverResponseTime": 163,
+    "ttfb": 162,
+    "domContentLoadedTime": 503,
+    "tti": 497,
+    "fullyLoadedTime": 1009,
+    "lcp": {
+      "value": 576,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1009,
+    "domReadyTime": 774,
+    "firstPaint": 228,
+    "firstContentfulPaint": 497,
+    "pageSize": 12144,
+    "domSize": 141
+  },
+  "https://mil.spbu.ru/studentam/raspisanie-ekzamenov-i-zachjotov.html": {
+    "url": "https://mil.spbu.ru/studentam/raspisanie-ekzamenov-i-zachjotov.html",
+    "redirectTime": 0,
+    "serverResponseTime": 105,
+    "ttfb": 105,
+    "domContentLoadedTime": 520,
+    "tti": 513,
+    "fullyLoadedTime": 797,
+    "lcp": {
+      "value": 548,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 797,
+    "domReadyTime": 643,
+    "firstPaint": 150,
+    "firstContentfulPaint": 513,
+    "pageSize": 14227,
+    "domSize": 156
+  },
+  "https://mil.spbu.ru/studentam/dlya-studentov-vyezzhayushchikh-na-uchebnye-sbory-stazhirovku-v-vojska-zapadnogo-voennogo-okruga.html": {
+    "url": "https://mil.spbu.ru/studentam/dlya-studentov-vyezzhayushchikh-na-uchebnye-sbory-stazhirovku-v-vojska-zapadnogo-voennogo-okruga.html",
+    "redirectTime": 0,
+    "serverResponseTime": 112,
+    "ttfb": 110,
+    "domContentLoadedTime": 442,
+    "tti": 436,
+    "fullyLoadedTime": 60392,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60392,
+    "domReadyTime": 60187,
+    "firstPaint": 194,
+    "firstContentfulPaint": 436,
+    "pageSize": 13343,
+    "domSize": 152
+  },
+  "https://mil.spbu.ru/dni-voinskoj-slavy.html": {
+    "url": "https://mil.spbu.ru/dni-voinskoj-slavy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 185,
+    "ttfb": 185,
+    "domContentLoadedTime": 1615,
+    "tti": 1609,
+    "fullyLoadedTime": 2309,
+    "lcp": {
+      "value": 1704,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2309,
+    "domReadyTime": 867,
+    "firstPaint": 1437,
+    "firstContentfulPaint": 1609,
+    "pageSize": 19814,
+    "domSize": 183
+  },
+  "https://mil.spbu.ru/#offcanvas": {
+    "url": "https://mil.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 106,
+    "ttfb": 105,
+    "domContentLoadedTime": 559,
+    "tti": 551,
+    "fullyLoadedTime": 8259,
+    "lcp": {
+      "value": 632,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://mil.spbu.ru/images/mil-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 8259,
+    "domReadyTime": 7940,
+    "firstPaint": 308,
+    "firstContentfulPaint": 551,
+    "pageSize": 19761,
+    "domSize": 197
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "https://apmath.spbu.ru/": {
+    "url": "https://apmath.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 180,
+    "ttfb": 178,
+    "domContentLoadedTime": 504,
+    "tti": 496,
+    "fullyLoadedTime": 2257,
+    "lcp": {
+      "value": 1472,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/banners/facultet.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2257,
+    "domReadyTime": 1994,
+    "firstPaint": 249,
+    "firstContentfulPaint": 496,
+    "pageSize": 37937,
+    "domSize": 333
+  },
+  "https://apmath.spbu.ru/fakultet.html": {
+    "url": "https://apmath.spbu.ru/fakultet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 172,
+    "ttfb": 171,
+    "domContentLoadedTime": 440,
+    "tti": 434,
+    "fullyLoadedTime": 1173,
+    "lcp": {
+      "value": 616,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1173,
+    "domReadyTime": 938,
+    "firstPaint": 228,
+    "firstContentfulPaint": 434,
+    "pageSize": 30002,
+    "domSize": 295
+  },
+  "https://apmath.spbu.ru/fakultet/dekan.html": {
+    "url": "https://apmath.spbu.ru/fakultet/dekan.html",
+    "redirectTime": 0,
+    "serverResponseTime": 83,
+    "ttfb": 82,
+    "domContentLoadedTime": 520,
+    "tti": 514,
+    "fullyLoadedTime": 923,
+    "lcp": {
+      "value": 616,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 923,
+    "domReadyTime": 766,
+    "firstPaint": 150,
+    "firstContentfulPaint": 514,
+    "pageSize": 31990,
+    "domSize": 299
+  },
+  "https://apmath.spbu.ru/fakultet/administratsiya.html": {
+    "url": "https://apmath.spbu.ru/fakultet/administratsiya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 233,
+    "ttfb": 231,
+    "domContentLoadedTime": 518,
+    "tti": 512,
+    "fullyLoadedTime": 1098,
+    "lcp": {
+      "value": 720,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 20
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1098,
+    "domReadyTime": 790,
+    "firstPaint": 300,
+    "firstContentfulPaint": 512,
+    "pageSize": 29764,
+    "domSize": 294
+  },
+  "https://apmath.spbu.ru/fakultet/otdely-i-komissii.html": {
+    "url": "https://apmath.spbu.ru/fakultet/otdely-i-komissii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 146,
+    "ttfb": 144,
+    "domContentLoadedTime": 459,
+    "tti": 453,
+    "fullyLoadedTime": 742,
+    "lcp": {
+      "value": 492,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 742,
+    "domReadyTime": 534,
+    "firstPaint": 201,
+    "firstContentfulPaint": 453,
+    "pageSize": 22870,
+    "domSize": 267
+  },
+  "https://apmath.spbu.ru/fakultet/kafedry.html": {
+    "url": "https://apmath.spbu.ru/fakultet/kafedry.html",
+    "redirectTime": 0,
+    "serverResponseTime": 129,
+    "ttfb": 127,
+    "domContentLoadedTime": 630,
+    "tti": 624,
+    "fullyLoadedTime": 1006,
+    "lcp": {
+      "value": 672,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1006,
+    "domReadyTime": 825,
+    "firstPaint": 172,
+    "firstContentfulPaint": 624,
+    "pageSize": 22380,
+    "domSize": 276
+  },
+  "https://apmath.spbu.ru/fakultet/spisok-i-rejting-nauchno-pedagogicheskikh-rabotnikov.html": {
+    "url": "https://apmath.spbu.ru/fakultet/spisok-i-rejting-nauchno-pedagogicheskikh-rabotnikov.html",
+    "redirectTime": 0,
+    "serverResponseTime": 130,
+    "ttfb": 128,
+    "domContentLoadedTime": 441,
+    "tti": 435,
+    "fullyLoadedTime": 728,
+    "lcp": {
+      "value": 484,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 728,
+    "domReadyTime": 535,
+    "firstPaint": 180,
+    "firstContentfulPaint": 435,
+    "pageSize": 142352,
+    "domSize": 3440
+  },
+  "https://apmath.spbu.ru/fakultet/kadrovyj-rezerv.html": {
+    "url": "https://apmath.spbu.ru/fakultet/kadrovyj-rezerv.html",
+    "redirectTime": 0,
+    "serverResponseTime": 102,
+    "ttfb": 101,
+    "domContentLoadedTime": 478,
+    "tti": 472,
+    "fullyLoadedTime": 920,
+    "lcp": {
+      "value": 548,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 920,
+    "domReadyTime": 766,
+    "firstPaint": 147,
+    "firstContentfulPaint": 472,
+    "pageSize": 18988,
+    "domSize": 223
+  },
+  "https://apmath.spbu.ru/abiturientam.html": {
+    "url": "https://apmath.spbu.ru/abiturientam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 197,
+    "ttfb": 195,
+    "domContentLoadedTime": 675,
+    "tti": 670,
+    "fullyLoadedTime": 1011,
+    "lcp": {
+      "value": 708,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1011,
+    "domReadyTime": 758,
+    "firstPaint": 245,
+    "firstContentfulPaint": 670,
+    "pageSize": 21615,
+    "domSize": 257
+  },
+  "https://apmath.spbu.ru/studentam.html": {
+    "url": "https://apmath.spbu.ru/studentam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 91,
+    "ttfb": 90,
+    "domContentLoadedTime": 414,
+    "tti": 407,
+    "fullyLoadedTime": 629,
+    "lcp": {
+      "value": 452,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 629,
+    "domReadyTime": 489,
+    "firstPaint": 134,
+    "firstContentfulPaint": 407,
+    "pageSize": 22941,
+    "domSize": 288
+  },
+  "https://apmath.spbu.ru/studentam/perevody-i-vostanovleniya.html": {
+    "url": "https://apmath.spbu.ru/studentam/perevody-i-vostanovleniya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 83,
+    "ttfb": 82,
+    "domContentLoadedTime": 542,
+    "tti": 536,
+    "fullyLoadedTime": 1230,
+    "lcp": {
+      "value": 584,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1230,
+    "domReadyTime": 919,
+    "firstPaint": 303,
+    "firstContentfulPaint": 536,
+    "pageSize": 22971,
+    "domSize": 259
+  },
+  "https://apmath.spbu.ru/studentam/spisok-i-rejting-prepodavatelej.html": {
+    "url": "https://apmath.spbu.ru/studentam/spisok-i-rejting-prepodavatelej.html",
+    "redirectTime": 0,
+    "serverResponseTime": 124,
+    "ttfb": 123,
+    "domContentLoadedTime": 397,
+    "tti": 392,
+    "fullyLoadedTime": 712,
+    "lcp": {
+      "value": 428,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 712,
+    "domReadyTime": 479,
+    "firstPaint": 221,
+    "firstContentfulPaint": 392,
+    "pageSize": 142153,
+    "domSize": 3439
+  },
+  "https://apmath.spbu.ru/vypusknikam.html": {
+    "url": "https://apmath.spbu.ru/vypusknikam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 135,
+    "ttfb": 134,
+    "domContentLoadedTime": 536,
+    "tti": 530,
+    "fullyLoadedTime": 913,
+    "lcp": {
+      "value": 576,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 913,
+    "domReadyTime": 702,
+    "firstPaint": 204,
+    "firstContentfulPaint": 530,
+    "pageSize": 18733,
+    "domSize": 239
+  },
+  "https://apmath.spbu.ru/sotrudnikam.html": {
+    "url": "https://apmath.spbu.ru/sotrudnikam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 87,
+    "ttfb": 85,
+    "domContentLoadedTime": 425,
+    "tti": 419,
+    "fullyLoadedTime": 889,
+    "lcp": {
+      "value": 464,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 889,
+    "domReadyTime": 666,
+    "firstPaint": 215,
+    "firstContentfulPaint": 419,
+    "pageSize": 22783,
+    "domSize": 287
+  },
+  "https://apmath.spbu.ru/nauka.html": {
+    "url": "https://apmath.spbu.ru/nauka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 106,
+    "ttfb": 104,
+    "domContentLoadedTime": 429,
+    "tti": 423,
+    "fullyLoadedTime": 669,
+    "lcp": {
+      "value": 456,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 669,
+    "domReadyTime": 505,
+    "firstPaint": 156,
+    "firstContentfulPaint": 423,
+    "pageSize": 21310,
+    "domSize": 269
+  },
+  "https://apmath.spbu.ru/biblioteka.html": {
+    "url": "https://apmath.spbu.ru/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 93,
+    "ttfb": 91,
+    "domContentLoadedTime": 913,
+    "tti": 905,
+    "fullyLoadedTime": 1305,
+    "lcp": {
+      "value": 988,
+      "lcpElementType": "text",
+      "lcpElementTag": "h2",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 15
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1305,
+    "domReadyTime": 1019,
+    "firstPaint": 278,
+    "firstContentfulPaint": 905,
+    "pageSize": 30854,
+    "domSize": 329
+  },
+  "https://apmath.spbu.ru/#": {
+    "url": "https://apmath.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 176,
+    "ttfb": 175,
+    "domContentLoadedTime": 483,
+    "tti": 474,
+    "fullyLoadedTime": 951,
+    "lcp": {
+      "value": 648,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/apmath-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 951,
+    "domReadyTime": 695,
+    "firstPaint": 248,
+    "firstContentfulPaint": 474,
+    "pageSize": 37937,
+    "domSize": 333
+  },
+  "https://apmath.spbu.ru/#offcanvas": {
+    "url": "https://apmath.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 172,
+    "ttfb": 171,
+    "domContentLoadedTime": 992,
+    "tti": 981,
+    "fullyLoadedTime": 2529,
+    "lcp": {
+      "value": 1952,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://apmath.spbu.ru/images/banners/facultet.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2529,
+    "domReadyTime": 2264,
+    "firstPaint": 251,
+    "firstContentfulPaint": 981,
+    "pageSize": 37937,
+    "domSize": 333
+  }
+}

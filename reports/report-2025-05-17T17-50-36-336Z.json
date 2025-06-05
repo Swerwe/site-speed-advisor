@@ -1,0 +1,1896 @@
+{
+  "https://jf.spbu.ru/": {
+    "url": "https://jf.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 3540,
+    "ttfb": 3513,
+    "domContentLoadedTime": 5627,
+    "tti": 5607,
+    "fullyLoadedTime": 6410,
+    "lcp": {
+      "value": 3996,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/2023-04-04-tg.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 6410,
+    "domReadyTime": 2809,
+    "firstPaint": 3593,
+    "firstContentfulPaint": 5608,
+    "pageSize": 49682,
+    "domSize": 670
+  },
+  "https://jf.spbu.ru/abit/": {
+    "url": "https://jf.spbu.ru/abit/",
+    "redirectTime": 0,
+    "serverResponseTime": 277,
+    "ttfb": 275,
+    "domContentLoadedTime": 1275,
+    "tti": 1268,
+    "fullyLoadedTime": 2531,
+    "lcp": {
+      "value": 548,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_5111_9.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2531,
+    "domReadyTime": 2198,
+    "firstPaint": 326,
+    "firstContentfulPaint": 1268,
+    "pageSize": 44545,
+    "domSize": 507
+  },
+  "https://jf.spbu.ru/stu/": {
+    "url": "https://jf.spbu.ru/stu/",
+    "redirectTime": 0,
+    "serverResponseTime": 66,
+    "ttfb": 65,
+    "domContentLoadedTime": 467,
+    "tti": 461,
+    "fullyLoadedTime": 842,
+    "lcp": {
+      "value": 408,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 842,
+    "domReadyTime": 722,
+    "firstPaint": 115,
+    "firstContentfulPaint": 461,
+    "pageSize": 36330,
+    "domSize": 421
+  },
+  "https://jf.spbu.ru/graduate/": {
+    "url": "https://jf.spbu.ru/graduate/",
+    "redirectTime": 0,
+    "serverResponseTime": 83,
+    "ttfb": 82,
+    "domContentLoadedTime": 389,
+    "tti": 383,
+    "fullyLoadedTime": 60498,
+    "lcp": {
+      "value": 568,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_6831.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60498,
+    "domReadyTime": 60359,
+    "firstPaint": 132,
+    "firstContentfulPaint": 383,
+    "pageSize": 36782,
+    "domSize": 405
+  },
+  "https://jf.spbu.ru/teachers/": {
+    "url": "https://jf.spbu.ru/teachers/",
+    "redirectTime": 0,
+    "serverResponseTime": 57,
+    "ttfb": 56,
+    "domContentLoadedTime": 425,
+    "tti": 419,
+    "fullyLoadedTime": 851,
+    "lcp": {
+      "value": 436,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 851,
+    "domReadyTime": 720,
+    "firstPaint": 125,
+    "firstContentfulPaint": 419,
+    "pageSize": 37987,
+    "domSize": 447
+  },
+  "https://jf.spbu.ru/index.html": {
+    "url": "https://jf.spbu.ru/index.html",
+    "redirectTime": 0,
+    "serverResponseTime": 71,
+    "ttfb": 70,
+    "domContentLoadedTime": 244,
+    "tti": 237,
+    "fullyLoadedTime": 1281,
+    "lcp": {
+      "value": 312,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/2023-04-04-tg.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1281,
+    "domReadyTime": 1156,
+    "firstPaint": 119,
+    "firstContentfulPaint": 237,
+    "pageSize": 49681,
+    "domSize": 670
+  },
+  "http://jf.spbu.ru/": {
+    "url": "http://jf.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 105,
+    "ttfb": 63,
+    "domContentLoadedTime": 2051,
+    "tti": 2030,
+    "fullyLoadedTime": 2737,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/2023-04-04-tg.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2737,
+    "domReadyTime": 2618,
+    "firstPaint": 114,
+    "firstContentfulPaint": 2030,
+    "pageSize": 49681,
+    "domSize": 670
+  },
+  "https://jf.spbu.ru/about/": {
+    "url": "https://jf.spbu.ru/about/",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 83,
+    "domContentLoadedTime": 1919,
+    "tti": 1912,
+    "fullyLoadedTime": 3813,
+    "lcp": {
+      "value": 1632,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3813,
+    "domReadyTime": 2352,
+    "firstPaint": 1453,
+    "firstContentfulPaint": 1912,
+    "pageSize": 43709,
+    "domSize": 499
+  },
+  "https://jf.spbu.ru/about/6973.html": {
+    "url": "https://jf.spbu.ru/about/6973.html",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 54,
+    "domContentLoadedTime": 459,
+    "tti": 453,
+    "fullyLoadedTime": 1151,
+    "lcp": {
+      "value": 332,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1151,
+    "domReadyTime": 1018,
+    "firstPaint": 127,
+    "firstContentfulPaint": 453,
+    "pageSize": 39317,
+    "domSize": 448
+  },
+  "https://jf.spbu.ru/about/4361.html": {
+    "url": "https://jf.spbu.ru/about/4361.html",
+    "redirectTime": 0,
+    "serverResponseTime": 985,
+    "ttfb": 969,
+    "domContentLoadedTime": 1401,
+    "tti": 1397,
+    "fullyLoadedTime": 2588,
+    "lcp": {
+      "value": 1436,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://spbu.ru/themes/spbgu/markup/dist/img/logo-big-color.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2588,
+    "domReadyTime": 1339,
+    "firstPaint": 1240,
+    "firstContentfulPaint": 1397,
+    "pageSize": 84920,
+    "domSize": 796
+  },
+  "https://jf.spbu.ru/about/410/809.html": {
+    "url": "https://jf.spbu.ru/about/410/809.html",
+    "redirectTime": 0,
+    "serverResponseTime": 1065,
+    "ttfb": 1063,
+    "domContentLoadedTime": 1846,
+    "tti": 1837,
+    "fullyLoadedTime": 2440,
+    "lcp": {
+      "value": 1452,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2440,
+    "domReadyTime": 1159,
+    "firstPaint": 1273,
+    "firstContentfulPaint": 1838,
+    "pageSize": 51662,
+    "domSize": 583
+  },
+  "https://jf.spbu.ru/about/1883.html": {
+    "url": "https://jf.spbu.ru/about/1883.html",
+    "redirectTime": 0,
+    "serverResponseTime": 62,
+    "ttfb": 60,
+    "domContentLoadedTime": 490,
+    "tti": 484,
+    "fullyLoadedTime": 5447,
+    "lcp": {
+      "value": 380,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5447,
+    "domReadyTime": 5234,
+    "firstPaint": 205,
+    "firstContentfulPaint": 484,
+    "pageSize": 43106,
+    "domSize": 485
+  },
+  "https://jf.spbu.ru/about/5525.html": {
+    "url": "https://jf.spbu.ru/about/5525.html",
+    "redirectTime": 0,
+    "serverResponseTime": 277,
+    "ttfb": 276,
+    "domContentLoadedTime": 545,
+    "tti": 539,
+    "fullyLoadedTime": 1431,
+    "lcp": {
+      "value": 496,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1431,
+    "domReadyTime": 1099,
+    "firstPaint": 325,
+    "firstContentfulPaint": 539,
+    "pageSize": 41247,
+    "domSize": 471
+  },
+  "https://jf.spbu.ru/about/7681.html": {
+    "url": "https://jf.spbu.ru/about/7681.html",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 83,
+    "domContentLoadedTime": 509,
+    "tti": 500,
+    "fullyLoadedTime": 2509,
+    "lcp": {
+      "value": 508,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2509,
+    "domReadyTime": 2356,
+    "firstPaint": 145,
+    "firstContentfulPaint": 500,
+    "pageSize": 39486,
+    "domSize": 429
+  },
+  "https://jf.spbu.ru/about/9393.html": {
+    "url": "https://jf.spbu.ru/about/9393.html",
+    "redirectTime": 0,
+    "serverResponseTime": 75,
+    "ttfb": 73,
+    "domContentLoadedTime": 516,
+    "tti": 510,
+    "fullyLoadedTime": 2436,
+    "lcp": {
+      "value": 508,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2436,
+    "domReadyTime": 2148,
+    "firstPaint": 280,
+    "firstContentfulPaint": 510,
+    "pageSize": 72972,
+    "domSize": 1613
+  },
+  "https://jf.spbu.ru/about/540.html": {
+    "url": "https://jf.spbu.ru/about/540.html",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 53,
+    "domContentLoadedTime": 476,
+    "tti": 470,
+    "fullyLoadedTime": 3836,
+    "lcp": {
+      "value": 404,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3836,
+    "domReadyTime": 3680,
+    "firstPaint": 150,
+    "firstContentfulPaint": 470,
+    "pageSize": 37822,
+    "domSize": 439
+  },
+  "https://jf.spbu.ru/about/541.html": {
+    "url": "https://jf.spbu.ru/about/541.html",
+    "redirectTime": 0,
+    "serverResponseTime": 71,
+    "ttfb": 69,
+    "domContentLoadedTime": 3540,
+    "tti": 3532,
+    "fullyLoadedTime": 4580,
+    "lcp": {
+      "value": 428,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4580,
+    "domReadyTime": 4408,
+    "firstPaint": 165,
+    "firstContentfulPaint": 3532,
+    "pageSize": 39214,
+    "domSize": 459
+  },
+  "https://jf.spbu.ru/clinic/": {
+    "url": "https://jf.spbu.ru/clinic/",
+    "redirectTime": 0,
+    "serverResponseTime": 89,
+    "ttfb": 88,
+    "domContentLoadedTime": 861,
+    "tti": 855,
+    "fullyLoadedTime": 14967,
+    "lcp": {
+      "value": 940,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/slyder_images/clinic/1.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 24
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 14967,
+    "domReadyTime": 14771,
+    "firstPaint": 189,
+    "firstContentfulPaint": 855,
+    "pageSize": 45043,
+    "domSize": 507
+  },
+  "https://jf.spbu.ru/about/8092.html": {
+    "url": "https://jf.spbu.ru/about/8092.html",
+    "redirectTime": 0,
+    "serverResponseTime": 190,
+    "ttfb": 189,
+    "domContentLoadedTime": 568,
+    "tti": 562,
+    "fullyLoadedTime": 2260,
+    "lcp": {
+      "value": 548,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2260,
+    "domReadyTime": 2015,
+    "firstPaint": 238,
+    "firstContentfulPaint": 562,
+    "pageSize": 37242,
+    "domSize": 431
+  },
+  "https://jf.spbu.ru/bibl/": {
+    "url": "https://jf.spbu.ru/bibl/",
+    "redirectTime": 0,
+    "serverResponseTime": 60,
+    "ttfb": 58,
+    "domContentLoadedTime": 498,
+    "tti": 492,
+    "fullyLoadedTime": 2354,
+    "lcp": {
+      "value": 488,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2354,
+    "domReadyTime": 2016,
+    "firstPaint": 329,
+    "firstContentfulPaint": 492,
+    "pageSize": 40429,
+    "domSize": 442
+  },
+  "https://jf.spbu.ru/about/672.html": {
+    "url": "https://jf.spbu.ru/about/672.html",
+    "redirectTime": 0,
+    "serverResponseTime": 213,
+    "ttfb": 211,
+    "domContentLoadedTime": 484,
+    "tti": 479,
+    "fullyLoadedTime": 2269,
+    "lcp": {
+      "value": 444,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2269,
+    "domReadyTime": 2003,
+    "firstPaint": 261,
+    "firstContentfulPaint": 479,
+    "pageSize": 42303,
+    "domSize": 487
+  },
+  "https://jf.spbu.ru/museum/": {
+    "url": "https://jf.spbu.ru/museum/",
+    "redirectTime": 0,
+    "serverResponseTime": 2375,
+    "ttfb": 2374,
+    "domContentLoadedTime": 4400,
+    "tti": 4397,
+    "fullyLoadedTime": 12741,
+    "lcp": {
+      "value": 7424,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "http://jf.spbu.ru/upload/foto/img_1670400916_145.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 12741,
+    "domReadyTime": 10314,
+    "firstPaint": 2420,
+    "firstContentfulPaint": 4397,
+    "pageSize": 62232,
+    "domSize": 384
+  },
+  "https://jf.spbu.ru/press/": {
+    "url": "https://jf.spbu.ru/press/",
+    "redirectTime": 0,
+    "serverResponseTime": 126,
+    "ttfb": 126,
+    "domContentLoadedTime": 566,
+    "tti": 561,
+    "fullyLoadedTime": 1265,
+    "lcp": {
+      "value": 344,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1265,
+    "domReadyTime": 1088,
+    "firstPaint": 173,
+    "firstContentfulPaint": 561,
+    "pageSize": 35333,
+    "domSize": 413
+  },
+  "https://jf.spbu.ru/edu/": {
+    "url": "https://jf.spbu.ru/edu/",
+    "redirectTime": 0,
+    "serverResponseTime": 48,
+    "ttfb": 46,
+    "domContentLoadedTime": 343,
+    "tti": 337,
+    "fullyLoadedTime": 2210,
+    "lcp": {
+      "value": 300,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2210,
+    "domReadyTime": 2110,
+    "firstPaint": 94,
+    "firstContentfulPaint": 337,
+    "pageSize": 36594,
+    "domSize": 408
+  },
+  "https://jf.spbu.ru/science/": {
+    "url": "https://jf.spbu.ru/science/",
+    "redirectTime": 0,
+    "serverResponseTime": 62,
+    "ttfb": 61,
+    "domContentLoadedTime": 421,
+    "tti": 416,
+    "fullyLoadedTime": 3570,
+    "lcp": {
+      "value": 432,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_8933_2.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3570,
+    "domReadyTime": 3456,
+    "firstPaint": 110,
+    "firstContentfulPaint": 416,
+    "pageSize": 37028,
+    "domSize": 419
+  },
+  "https://jf.spbu.ru/science/7605.html": {
+    "url": "https://jf.spbu.ru/science/7605.html",
+    "redirectTime": 0,
+    "serverResponseTime": 59,
+    "ttfb": 58,
+    "domContentLoadedTime": 286,
+    "tti": 280,
+    "fullyLoadedTime": 60419,
+    "lcp": {
+      "value": 256,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 60419,
+    "domReadyTime": 60307,
+    "firstPaint": 106,
+    "firstContentfulPaint": 280,
+    "pageSize": 39129,
+    "domSize": 419
+  },
+  "https://jf.spbu.ru/nevaaward/": {
+    "url": "https://jf.spbu.ru/nevaaward/",
+    "redirectTime": 0,
+    "serverResponseTime": 66,
+    "ttfb": 65,
+    "domContentLoadedTime": 413,
+    "tti": 408,
+    "fullyLoadedTime": 1517,
+    "lcp": {
+      "value": 364,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 1517,
+    "domReadyTime": 1400,
+    "firstPaint": 112,
+    "firstContentfulPaint": 408,
+    "pageSize": 39203,
+    "domSize": 421
+  },
+  "https://jf.spbu.ru/science/5034.html": {
+    "url": "https://jf.spbu.ru/science/5034.html",
+    "redirectTime": 0,
+    "serverResponseTime": 63,
+    "ttfb": 61,
+    "domContentLoadedTime": 3608,
+    "tti": 3599,
+    "fullyLoadedTime": 5657,
+    "lcp": {
+      "value": 568,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5657,
+    "domReadyTime": 5299,
+    "firstPaint": 350,
+    "firstContentfulPaint": 3600,
+    "pageSize": 37794,
+    "domSize": 413
+  },
+  "https://jf.spbu.ru/about/825.html": {
+    "url": "https://jf.spbu.ru/about/825.html",
+    "redirectTime": 0,
+    "serverResponseTime": 126,
+    "ttfb": 124,
+    "domContentLoadedTime": 502,
+    "tti": 497,
+    "fullyLoadedTime": 2203,
+    "lcp": {
+      "value": 460,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2203,
+    "domReadyTime": 2019,
+    "firstPaint": 175,
+    "firstContentfulPaint": 497,
+    "pageSize": 46998,
+    "domSize": 565
+  },
+  "https://jf.spbu.ru/actions/": {
+    "url": "https://jf.spbu.ru/actions/",
+    "redirectTime": 0,
+    "serverResponseTime": 79,
+    "ttfb": 78,
+    "domContentLoadedTime": 375,
+    "tti": 368,
+    "fullyLoadedTime": 2254,
+    "lcp": {
+      "value": 356,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2254,
+    "domReadyTime": 2058,
+    "firstPaint": 188,
+    "firstContentfulPaint": 368,
+    "pageSize": 36772,
+    "domSize": 422
+  },
+  "https://jf.spbu.ru/science/6583.html": {
+    "url": "https://jf.spbu.ru/science/6583.html",
+    "redirectTime": 0,
+    "serverResponseTime": 427,
+    "ttfb": 423,
+    "domContentLoadedTime": 672,
+    "tti": 665,
+    "fullyLoadedTime": 2573,
+    "lcp": {
+      "value": 632,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2573,
+    "domReadyTime": 2092,
+    "firstPaint": 474,
+    "firstContentfulPaint": 665,
+    "pageSize": 35751,
+    "domSize": 400
+  },
+  "https://jf.spbu.ru/employment/": {
+    "url": "https://jf.spbu.ru/employment/",
+    "redirectTime": 0,
+    "serverResponseTime": 128,
+    "ttfb": 127,
+    "domContentLoadedTime": 572,
+    "tti": 567,
+    "fullyLoadedTime": 2522,
+    "lcp": {
+      "value": 492,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2522,
+    "domReadyTime": 2317,
+    "firstPaint": 196,
+    "firstContentfulPaint": 567,
+    "pageSize": 38464,
+    "domSize": 428
+  },
+  "https://jf.spbu.ru/actions/6651.html": {
+    "url": "https://jf.spbu.ru/actions/6651.html",
+    "redirectTime": 0,
+    "serverResponseTime": 66,
+    "ttfb": 65,
+    "domContentLoadedTime": 431,
+    "tti": 425,
+    "fullyLoadedTime": 2147,
+    "lcp": {
+      "value": 312,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2147,
+    "domReadyTime": 2029,
+    "firstPaint": 112,
+    "firstContentfulPaint": 425,
+    "pageSize": 45647,
+    "domSize": 551
+  },
+  "https://jf.spbu.ru/actions/7491.html": {
+    "url": "https://jf.spbu.ru/actions/7491.html",
+    "redirectTime": 0,
+    "serverResponseTime": 60,
+    "ttfb": 59,
+    "domContentLoadedTime": 439,
+    "tti": 433,
+    "fullyLoadedTime": 2405,
+    "lcp": {
+      "value": 436,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2405,
+    "domReadyTime": 2149,
+    "firstPaint": 249,
+    "firstContentfulPaint": 433,
+    "pageSize": 37054,
+    "domSize": 418
+  },
+  "https://jf.spbu.ru/actions/7493.html": {
+    "url": "https://jf.spbu.ru/actions/7493.html",
+    "redirectTime": 0,
+    "serverResponseTime": 81,
+    "ttfb": 80,
+    "domContentLoadedTime": 383,
+    "tti": 376,
+    "fullyLoadedTime": 2155,
+    "lcp": {
+      "value": 288,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2155,
+    "domReadyTime": 2019,
+    "firstPaint": 129,
+    "firstContentfulPaint": 376,
+    "pageSize": 36278,
+    "domSize": 415
+  },
+  "https://jf.spbu.ru/actions/7495.html": {
+    "url": "https://jf.spbu.ru/actions/7495.html",
+    "redirectTime": 0,
+    "serverResponseTime": 138,
+    "ttfb": 136,
+    "domContentLoadedTime": 373,
+    "tti": 367,
+    "fullyLoadedTime": 2342,
+    "lcp": {
+      "value": 368,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2342,
+    "domReadyTime": 2131,
+    "firstPaint": 204,
+    "firstContentfulPaint": 367,
+    "pageSize": 37154,
+    "domSize": 421
+  },
+  "https://jf.spbu.ru/actions/827.html": {
+    "url": "https://jf.spbu.ru/actions/827.html",
+    "redirectTime": 0,
+    "serverResponseTime": 68,
+    "ttfb": 67,
+    "domContentLoadedTime": 810,
+    "tti": 802,
+    "fullyLoadedTime": 2212,
+    "lcp": {
+      "value": 404,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2212,
+    "domReadyTime": 2066,
+    "firstPaint": 139,
+    "firstContentfulPaint": 802,
+    "pageSize": 44990,
+    "domSize": 500
+  },
+  "https://jf.spbu.ru/actions/985.html": {
+    "url": "https://jf.spbu.ru/actions/985.html",
+    "redirectTime": 0,
+    "serverResponseTime": 199,
+    "ttfb": 198,
+    "domContentLoadedTime": 458,
+    "tti": 447,
+    "fullyLoadedTime": 2244,
+    "lcp": {
+      "value": 444,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2244,
+    "domReadyTime": 1977,
+    "firstPaint": 260,
+    "firstContentfulPaint": 447,
+    "pageSize": 45419,
+    "domSize": 501
+  },
+  "https://jf.spbu.ru/actions/7494.html": {
+    "url": "https://jf.spbu.ru/actions/7494.html",
+    "redirectTime": 0,
+    "serverResponseTime": 92,
+    "ttfb": 89,
+    "domContentLoadedTime": 727,
+    "tti": 719,
+    "fullyLoadedTime": 60552,
+    "lcp": {
+      "value": 564,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 60552,
+    "domReadyTime": 60271,
+    "firstPaint": 271,
+    "firstContentfulPaint": 719,
+    "pageSize": 35537,
+    "domSize": 401
+  },
+  "https://jf.spbu.ru/actions/7492.html": {
+    "url": "https://jf.spbu.ru/actions/7492.html",
+    "redirectTime": 0,
+    "serverResponseTime": 134,
+    "ttfb": 132,
+    "domContentLoadedTime": 407,
+    "tti": 401,
+    "fullyLoadedTime": 2300,
+    "lcp": {
+      "value": 340,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2300,
+    "domReadyTime": 2112,
+    "firstPaint": 179,
+    "firstContentfulPaint": 401,
+    "pageSize": 38815,
+    "domSize": 435
+  },
+  "https://jf.spbu.ru/timetable/": {
+    "url": "https://jf.spbu.ru/timetable/",
+    "redirectTime": 0,
+    "serverResponseTime": 40,
+    "ttfb": 39,
+    "domContentLoadedTime": 429,
+    "tti": 422,
+    "fullyLoadedTime": 2180,
+    "lcp": {
+      "value": 296,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2180,
+    "domReadyTime": 2079,
+    "firstPaint": 97,
+    "firstContentfulPaint": 422,
+    "pageSize": 34472,
+    "domSize": 382
+  },
+  "https://jf.spbu.ru/contacts/": {
+    "url": "https://jf.spbu.ru/contacts/",
+    "redirectTime": 0,
+    "serverResponseTime": 32,
+    "ttfb": 31,
+    "domContentLoadedTime": 354,
+    "tti": 348,
+    "fullyLoadedTime": 1034,
+    "lcp": {
+      "value": 280,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1034,
+    "domReadyTime": 951,
+    "firstPaint": 79,
+    "firstContentfulPaint": 348,
+    "pageSize": 53058,
+    "domSize": 847
+  },
+  "https://jf.spbu.ru/#": {
+    "url": "https://jf.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 142,
+    "ttfb": 140,
+    "domContentLoadedTime": 2199,
+    "tti": 2178,
+    "fullyLoadedTime": 60732,
+    "lcp": {
+      "value": 904,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/2023-04-04-tg.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 60732,
+    "domReadyTime": 60211,
+    "firstPaint": 513,
+    "firstContentfulPaint": 2178,
+    "pageSize": 49709,
+    "domSize": 670
+  },
+  "https://jf.spbu.ru/stu/2308/7336.html": {
+    "url": "https://jf.spbu.ru/stu/2308/7336.html",
+    "redirectTime": 0,
+    "serverResponseTime": 63,
+    "ttfb": 63,
+    "domContentLoadedTime": 428,
+    "tti": 421,
+    "fullyLoadedTime": 567,
+    "lcp": {
+      "value": 284,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 567,
+    "domReadyTime": 452,
+    "firstPaint": 110,
+    "firstContentfulPaint": 421,
+    "pageSize": 48106,
+    "domSize": 565
+  },
+  "https://jf.spbu.ru/employment/10542.html": {
+    "url": "https://jf.spbu.ru/employment/10542.html",
+    "redirectTime": 0,
+    "serverResponseTime": 236,
+    "ttfb": 233,
+    "domContentLoadedTime": 492,
+    "tti": 486,
+    "fullyLoadedTime": 2511,
+    "lcp": {
+      "value": 468,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2511,
+    "domReadyTime": 2224,
+    "firstPaint": 278,
+    "firstContentfulPaint": 486,
+    "pageSize": 38229,
+    "domSize": 436
+  },
+  "https://jf.spbu.ru/press/10537/10597.html": {
+    "url": "https://jf.spbu.ru/press/10537/10597.html",
+    "redirectTime": 0,
+    "serverResponseTime": 110,
+    "ttfb": 109,
+    "domContentLoadedTime": 453,
+    "tti": 447,
+    "fullyLoadedTime": 2413,
+    "lcp": {
+      "value": 616,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_10597.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2413,
+    "domReadyTime": 2229,
+    "firstPaint": 176,
+    "firstContentfulPaint": 447,
+    "pageSize": 36313,
+    "domSize": 385
+  },
+  "https://jf.spbu.ru/actions/6651-16915.html": {
+    "url": "https://jf.spbu.ru/actions/6651-16915.html",
+    "redirectTime": 0,
+    "serverResponseTime": 122,
+    "ttfb": 121,
+    "domContentLoadedTime": 490,
+    "tti": 484,
+    "fullyLoadedTime": 60519,
+    "lcp": {
+      "value": 448,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_nw_16915.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 60519,
+    "domReadyTime": 60347,
+    "firstPaint": 164,
+    "firstContentfulPaint": 484,
+    "pageSize": 37689,
+    "domSize": 439
+  },
+  "https://jf.spbu.ru/actions/6651-16924.html": {
+    "url": "https://jf.spbu.ru/actions/6651-16924.html",
+    "redirectTime": 0,
+    "serverResponseTime": 64,
+    "ttfb": 63,
+    "domContentLoadedTime": 366,
+    "tti": 360,
+    "fullyLoadedTime": 1654,
+    "lcp": {
+      "value": 348,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_nw_16924.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1654,
+    "domReadyTime": 1531,
+    "firstPaint": 117,
+    "firstContentfulPaint": 360,
+    "pageSize": 40364,
+    "domSize": 447
+  },
+  "https://jf.spbu.ru/news/": {
+    "url": "https://jf.spbu.ru/news/",
+    "redirectTime": 0,
+    "serverResponseTime": 76,
+    "ttfb": 76,
+    "domContentLoadedTime": 321,
+    "tti": 314,
+    "fullyLoadedTime": 8081,
+    "lcp": {
+      "value": 404,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 8081,
+    "domReadyTime": 7953,
+    "firstPaint": 124,
+    "firstContentfulPaint": 315,
+    "pageSize": 45327,
+    "domSize": 526
+  },
+  "https://jf.spbu.ru/news/144-16928.html": {
+    "url": "https://jf.spbu.ru/news/144-16928.html",
+    "redirectTime": 0,
+    "serverResponseTime": 253,
+    "ttfb": 251,
+    "domContentLoadedTime": 573,
+    "tti": 567,
+    "fullyLoadedTime": 2465,
+    "lcp": {
+      "value": 612,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_nw_16928.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2465,
+    "domReadyTime": 2097,
+    "firstPaint": 359,
+    "firstContentfulPaint": 567,
+    "pageSize": 36681,
+    "domSize": 413
+  },
+  "https://jf.spbu.ru/news/144-16873.html": {
+    "url": "https://jf.spbu.ru/news/144-16873.html",
+    "redirectTime": 0,
+    "serverResponseTime": 56,
+    "ttfb": 54,
+    "domContentLoadedTime": 594,
+    "tti": 589,
+    "fullyLoadedTime": 8288,
+    "lcp": {
+      "value": 492,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 8288,
+    "domReadyTime": 8090,
+    "firstPaint": 190,
+    "firstContentfulPaint": 589,
+    "pageSize": 45074,
+    "domSize": 461
+  },
+  "https://jf.spbu.ru/news/144-16931.html": {
+    "url": "https://jf.spbu.ru/news/144-16931.html",
+    "redirectTime": 0,
+    "serverResponseTime": 61,
+    "ttfb": 60,
+    "domContentLoadedTime": 346,
+    "tti": 338,
+    "fullyLoadedTime": 2268,
+    "lcp": {
+      "value": 248,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2268,
+    "domReadyTime": 2156,
+    "firstPaint": 108,
+    "firstContentfulPaint": 338,
+    "pageSize": 47236,
+    "domSize": 451
+  },
+  "https://jf.spbu.ru/news/144-16669.html": {
+    "url": "https://jf.spbu.ru/news/144-16669.html",
+    "redirectTime": 0,
+    "serverResponseTime": 49,
+    "ttfb": 48,
+    "domContentLoadedTime": 640,
+    "tti": 632,
+    "fullyLoadedTime": 2206,
+    "lcp": {
+      "value": 292,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2206,
+    "domReadyTime": 2091,
+    "firstPaint": 109,
+    "firstContentfulPaint": 632,
+    "pageSize": 38807,
+    "domSize": 440
+  },
+  "https://jf.spbu.ru/news/144-16903.html": {
+    "url": "https://jf.spbu.ru/news/144-16903.html",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 53,
+    "domContentLoadedTime": 447,
+    "tti": 442,
+    "fullyLoadedTime": 2568,
+    "lcp": {
+      "value": 292,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2568,
+    "domReadyTime": 2460,
+    "firstPaint": 103,
+    "firstContentfulPaint": 442,
+    "pageSize": 38044,
+    "domSize": 412
+  },
+  "https://jf.spbu.ru/news/144-16904.html": {
+    "url": "https://jf.spbu.ru/news/144-16904.html",
+    "redirectTime": 0,
+    "serverResponseTime": 144,
+    "ttfb": 46,
+    "domContentLoadedTime": 600,
+    "tti": 592,
+    "fullyLoadedTime": 14550,
+    "lcp": {
+      "value": 480,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_nw_16904.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 14550,
+    "domReadyTime": 14376,
+    "firstPaint": 165,
+    "firstContentfulPaint": 593,
+    "pageSize": 37094,
+    "domSize": 410
+  },
+  "https://jf.spbu.ru/news/5745.html": {
+    "url": "https://jf.spbu.ru/news/5745.html",
+    "redirectTime": 0,
+    "serverResponseTime": 105,
+    "ttfb": 103,
+    "domContentLoadedTime": 411,
+    "tti": 403,
+    "fullyLoadedTime": 2158,
+    "lcp": {
+      "value": 316,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/pattern/future-fin/images/top-logo-rus.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2158,
+    "domReadyTime": 1996,
+    "firstPaint": 155,
+    "firstContentfulPaint": 403,
+    "pageSize": 44444,
+    "domSize": 539
+  },
+  "https://jf.spbu.ru/news/5745-16868.html": {
+    "url": "https://jf.spbu.ru/news/5745-16868.html",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 53,
+    "domContentLoadedTime": 289,
+    "tti": 283,
+    "fullyLoadedTime": 2125,
+    "lcp": {
+      "value": 344,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_nw_16868.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2125,
+    "domReadyTime": 2023,
+    "firstPaint": 97,
+    "firstContentfulPaint": 283,
+    "pageSize": 36857,
+    "domSize": 410
+  },
+  "https://jf.spbu.ru/news/5745-16867.html": {
+    "url": "https://jf.spbu.ru/news/5745-16867.html",
+    "redirectTime": 0,
+    "serverResponseTime": 68,
+    "ttfb": 67,
+    "domContentLoadedTime": 402,
+    "tti": 388,
+    "fullyLoadedTime": 2141,
+    "lcp": {
+      "value": 384,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2141,
+    "domReadyTime": 2005,
+    "firstPaint": 129,
+    "firstContentfulPaint": 388,
+    "pageSize": 37077,
+    "domSize": 416
+  },
+  "https://jf.spbu.ru/news/5745-16866.html": {
+    "url": "https://jf.spbu.ru/news/5745-16866.html",
+    "redirectTime": 0,
+    "serverResponseTime": 62,
+    "ttfb": 61,
+    "domContentLoadedTime": 634,
+    "tti": 626,
+    "fullyLoadedTime": 2387,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://jf.spbu.ru/images/add/img_nw_16866.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2387,
+    "domReadyTime": 2206,
+    "firstPaint": 176,
+    "firstContentfulPaint": 626,
+    "pageSize": 37033,
+    "domSize": 417
+  },
+  "https://jf.spbu.ru/photos/10376/10549.html": {
+    "url": "https://jf.spbu.ru/photos/10376/10549.html",
+    "redirectTime": 0,
+    "serverResponseTime": 137,
+    "ttfb": 137,
+    "domContentLoadedTime": 824,
+    "tti": 818,
+    "fullyLoadedTime": 1375,
+    "lcp": {
+      "value": 576,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 23
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1375,
+    "domReadyTime": 1191,
+    "firstPaint": 182,
+    "firstContentfulPaint": 818,
+    "pageSize": 41693,
+    "domSize": 484
+  }
+}

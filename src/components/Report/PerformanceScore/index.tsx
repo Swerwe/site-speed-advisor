@@ -5,7 +5,7 @@ interface PerformanceScore {
 }
 export const PerformanceScore: React.FC<PerformanceScore> = ({ performanceScore }) => {
     return <div style={{display: "flex", alignItems: "center", marginLeft: "15px"}}>
-        <PerformanceScoreChart percentage={performanceScore} />
+        <PerformanceScoreChart percentage={performanceScore} size={200} />
         <span style={{ fontWeight: 600, fontSize: "24px", maxWidth: "220px", paddingLeft: "20px"}}>Общая производительность</span>
     </div>
 }

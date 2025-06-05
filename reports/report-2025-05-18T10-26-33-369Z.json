@@ -1,0 +1,310 @@
+{
+  "https://sc.spbu.ru/": {
+    "url": "https://sc.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 198,
+    "ttfb": 196,
+    "domContentLoadedTime": 607,
+    "tti": 600,
+    "fullyLoadedTime": 2266,
+    "lcp": {
+      "value": 1028,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2266,
+    "domReadyTime": 2015,
+    "firstPaint": 243,
+    "firstContentfulPaint": 600,
+    "pageSize": 37479,
+    "domSize": 287
+  },
+  "https://sc.spbu.ru/home.html": {
+    "url": "https://sc.spbu.ru/home.html",
+    "redirectTime": 0,
+    "serverResponseTime": 195,
+    "ttfb": 193,
+    "domContentLoadedTime": 967,
+    "tti": 960,
+    "fullyLoadedTime": 8730,
+    "lcp": {
+      "value": 1052,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://sc.spbu.ru/images/posvyaschenie-v-studenty-8_0.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 8730,
+    "domReadyTime": 8338,
+    "firstPaint": 381,
+    "firstContentfulPaint": 960,
+    "pageSize": 24505,
+    "domSize": 222
+  },
+  "https://sc.spbu.ru/home/normativnye-dokumenty.html": {
+    "url": "https://sc.spbu.ru/home/normativnye-dokumenty.html",
+    "redirectTime": 0,
+    "serverResponseTime": 142,
+    "ttfb": 140,
+    "domContentLoadedTime": 377,
+    "tti": 370,
+    "fullyLoadedTime": 706,
+    "lcp": {
+      "value": 780,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 706,
+    "domReadyTime": 509,
+    "firstPaint": 189,
+    "firstContentfulPaint": 370,
+    "pageSize": 17975,
+    "domSize": 219
+  },
+  "https://sc.spbu.ru/home/administraciya-prepodavateli.html": {
+    "url": "https://sc.spbu.ru/home/administraciya-prepodavateli.html",
+    "redirectTime": 0,
+    "serverResponseTime": 181,
+    "ttfb": 164,
+    "domContentLoadedTime": 396,
+    "tti": 390,
+    "fullyLoadedTime": 60499,
+    "lcp": {
+      "value": 540,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://sc.spbu.ru/images/logonew.gif",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 81
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60499,
+    "domReadyTime": 60275,
+    "firstPaint": 211,
+    "firstContentfulPaint": 390,
+    "pageSize": 113682,
+    "domSize": 982
+  },
+  "https://sc.spbu.ru/home/protokoly-soveshchanij-direktora.html": {
+    "url": "https://sc.spbu.ru/home/protokoly-soveshchanij-direktora.html",
+    "redirectTime": 0,
+    "serverResponseTime": 219,
+    "ttfb": 216,
+    "domContentLoadedTime": 554,
+    "tti": 548,
+    "fullyLoadedTime": 2742,
+    "lcp": {
+      "value": 760,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2742,
+    "domReadyTime": 2451,
+    "firstPaint": 282,
+    "firstContentfulPaint": 548,
+    "pageSize": 36160,
+    "domSize": 335
+  },
+  "https://sc.spbu.ru/home/universitetskaya-zhizn.html": {
+    "url": "https://sc.spbu.ru/home/universitetskaya-zhizn.html",
+    "redirectTime": 0,
+    "serverResponseTime": 182,
+    "ttfb": 181,
+    "domContentLoadedTime": 501,
+    "tti": 495,
+    "fullyLoadedTime": 869,
+    "lcp": {
+      "value": 672,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 869,
+    "domReadyTime": 568,
+    "firstPaint": 294,
+    "firstContentfulPaint": 495,
+    "pageSize": 22255,
+    "domSize": 244
+  },
+  "https://sc.spbu.ru/studentu.html": {
+    "url": "https://sc.spbu.ru/studentu.html",
+    "redirectTime": 0,
+    "serverResponseTime": 194,
+    "ttfb": 193,
+    "domContentLoadedTime": 539,
+    "tti": 533,
+    "fullyLoadedTime": 915,
+    "lcp": {
+      "value": 704,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://sc.spbu.ru/images/logonew.gif",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 915,
+    "domReadyTime": 589,
+    "firstPaint": 319,
+    "firstContentfulPaint": 533,
+    "pageSize": 17824,
+    "domSize": 209
+  },
+  "https://sc.spbu.ru/studentu/fizkulturno-massovye-meropriyatiya-spbgu.html": {
+    "url": "https://sc.spbu.ru/studentu/fizkulturno-massovye-meropriyatiya-spbgu.html",
+    "redirectTime": 0,
+    "serverResponseTime": 190,
+    "ttfb": 189,
+    "domContentLoadedTime": 503,
+    "tti": 497,
+    "fullyLoadedTime": 972,
+    "lcp": {
+      "value": 872,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 972,
+    "domReadyTime": 728,
+    "firstPaint": 235,
+    "firstContentfulPaint": 497,
+    "pageSize": 19166,
+    "domSize": 319
+  },
+  "https://sc.spbu.ru/kontakty.html": {
+    "url": "https://sc.spbu.ru/kontakty.html",
+    "redirectTime": 0,
+    "serverResponseTime": 159,
+    "ttfb": 157,
+    "domContentLoadedTime": 576,
+    "tti": 570,
+    "fullyLoadedTime": 1328,
+    "lcp": {
+      "value": 708,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://sc.spbu.ru/images/logonew.gif",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 21
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1328,
+    "domReadyTime": 977,
+    "firstPaint": 342,
+    "firstContentfulPaint": 570,
+    "pageSize": 26995,
+    "domSize": 275
+  },
+  "https://sc.spbu.ru/#offcanvas": {
+    "url": "https://sc.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 273,
+    "ttfb": 271,
+    "domContentLoadedTime": 509,
+    "tti": 503,
+    "fullyLoadedTime": 1188,
+    "lcp": {
+      "value": 664,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1188,
+    "domReadyTime": 859,
+    "firstPaint": 322,
+    "firstContentfulPaint": 503,
+    "pageSize": 37340,
+    "domSize": 286
+  }
+}

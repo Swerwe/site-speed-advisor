@@ -1,0 +1,700 @@
+{
+  "https://gsom.spbu.ru/": {
+    "url": "https://gsom.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 3194,
+    "ttfb": 3142,
+    "domContentLoadedTime": 18266,
+    "tti": 18258,
+    "fullyLoadedTime": 52378,
+    "lcp": {
+      "value": 27168,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/a1/ff/site_vi_dk.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 445,
+      "longTasks": [
+        {
+          "duration": 151,
+          "startTime": 4133.5999999940395,
+          "name": "self"
+        },
+        {
+          "duration": 69,
+          "startTime": 12383.800000011921,
+          "name": "unknown"
+        },
+        {
+          "duration": 259,
+          "startTime": 18286.09999999404,
+          "name": "self"
+        },
+        {
+          "duration": 166,
+          "startTime": 18655,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 38
+      },
+      "mainThreadBlocks": 5
+    },
+    "loadTime": 52378,
+    "domReadyTime": 49110,
+    "firstPaint": 3257,
+    "firstContentfulPaint": 18258,
+    "pageSize": 746648,
+    "domSize": 12308
+  },
+  "https://gsom.spbu.ru/events/": {
+    "url": "https://gsom.spbu.ru/events/",
+    "redirectTime": 0,
+    "serverResponseTime": 751,
+    "ttfb": 749,
+    "domContentLoadedTime": 2631,
+    "tti": 2607,
+    "fullyLoadedTime": 5289,
+    "lcp": {
+      "value": 4648,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 36
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 5289,
+    "domReadyTime": 3206,
+    "firstPaint": 2077,
+    "firstContentfulPaint": 2607,
+    "pageSize": 56487,
+    "domSize": 718
+  },
+  "https://gsom.spbu.ru/pressa/": {
+    "url": "https://gsom.spbu.ru/pressa/",
+    "redirectTime": 0,
+    "serverResponseTime": 369,
+    "ttfb": 367,
+    "domContentLoadedTime": 1393,
+    "tti": 1368,
+    "fullyLoadedTime": 3789,
+    "lcp": {
+      "value": 944,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/news-stub.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 35
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3789,
+    "domReadyTime": 3324,
+    "firstPaint": 456,
+    "firstContentfulPaint": 1368,
+    "pageSize": 48931,
+    "domSize": 533
+  },
+  "https://gsom.spbu.ru/gsom/career3/": {
+    "url": "https://gsom.spbu.ru/gsom/career3/",
+    "redirectTime": 122,
+    "serverResponseTime": 537,
+    "ttfb": 518,
+    "domContentLoadedTime": 4019,
+    "tti": 4008,
+    "fullyLoadedTime": 12293,
+    "lcp": {
+      "value": 6076,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 95,
+      "longTasks": [
+        {
+          "duration": 61,
+          "startTime": 1329.5999999940395,
+          "name": "self"
+        },
+        {
+          "duration": 134,
+          "startTime": 4032.5,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 38
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 12293,
+    "domReadyTime": 11640,
+    "firstPaint": 644,
+    "firstContentfulPaint": 4008,
+    "pageSize": 352238,
+    "domSize": 5990
+  },
+  "https://gsom.spbu.ru/about-gsom/board/": {
+    "url": "https://gsom.spbu.ru/about-gsom/board/",
+    "redirectTime": 0,
+    "serverResponseTime": 438,
+    "ttfb": 436,
+    "domContentLoadedTime": 913,
+    "tti": 907,
+    "fullyLoadedTime": 3954,
+    "lcp": {
+      "value": 796,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/2020-bachelors/1.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3954,
+    "domReadyTime": 3464,
+    "firstPaint": 484,
+    "firstContentfulPaint": 907,
+    "pageSize": 47400,
+    "domSize": 502
+  },
+  "https://gsom.spbu.ru/gsom/library/": {
+    "url": "https://gsom.spbu.ru/gsom/library/",
+    "redirectTime": 0,
+    "serverResponseTime": 258,
+    "ttfb": 257,
+    "domContentLoadedTime": 1116,
+    "tti": 1108,
+    "fullyLoadedTime": 7797,
+    "lcp": {
+      "value": 1192,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 36
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 7797,
+    "domReadyTime": 7455,
+    "firstPaint": 335,
+    "firstContentfulPaint": 1109,
+    "pageSize": 47123,
+    "domSize": 584
+  },
+  "https://gsom.spbu.ru/programmes/": {
+    "url": "https://gsom.spbu.ru/programmes/",
+    "redirectTime": 0,
+    "serverResponseTime": 1009,
+    "ttfb": 1007,
+    "domContentLoadedTime": 3577,
+    "tti": 3538,
+    "fullyLoadedTime": 5488,
+    "lcp": {
+      "value": 3668,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 35
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 5488,
+    "domReadyTime": 4376,
+    "firstPaint": 1102,
+    "firstContentfulPaint": 3538,
+    "pageSize": 66864,
+    "domSize": 985
+  },
+  "https://gsom.spbu.ru/students/": {
+    "url": "https://gsom.spbu.ru/students/",
+    "redirectTime": 0,
+    "serverResponseTime": 326,
+    "ttfb": 324,
+    "domContentLoadedTime": 648,
+    "tti": 648,
+    "fullyLoadedTime": 3697,
+    "lcp": {
+      "value": 736,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/cms/data/2010_11_23_sovkomflot/444.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3697,
+    "domReadyTime": 3297,
+    "firstPaint": 392,
+    "firstContentfulPaint": 648,
+    "pageSize": 36459,
+    "domSize": 478
+  },
+  "https://gsom.spbu.ru/gsom/alumnus/": {
+    "url": "https://gsom.spbu.ru/gsom/alumnus/",
+    "redirectTime": 0,
+    "serverResponseTime": 1019,
+    "ttfb": 957,
+    "domContentLoadedTime": 6852,
+    "tti": 6830,
+    "fullyLoadedTime": 85557,
+    "lcp": {
+      "value": 68428,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/cms/data/45611.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 826,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 1704,
+          "name": "unknown"
+        },
+        {
+          "duration": 59,
+          "startTime": 1782.2999999821186,
+          "name": "unknown"
+        },
+        {
+          "duration": 233,
+          "startTime": 1915.5999999940395,
+          "name": "self"
+        },
+        {
+          "duration": 64,
+          "startTime": 4134.5999999940395,
+          "name": "unknown"
+        },
+        {
+          "duration": 51,
+          "startTime": 4201.199999988079,
+          "name": "unknown"
+        },
+        {
+          "duration": 76,
+          "startTime": 6484.5999999940395,
+          "name": "unknown"
+        },
+        {
+          "duration": 53,
+          "startTime": 6568,
+          "name": "unknown"
+        },
+        {
+          "duration": 407,
+          "startTime": 6877.899999976158,
+          "name": "self"
+        },
+        {
+          "duration": 281,
+          "startTime": 7440.899999976158,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 36
+      },
+      "mainThreadBlocks": 6
+    },
+    "loadTime": 85557,
+    "domReadyTime": 84515,
+    "firstPaint": 1032,
+    "firstContentfulPaint": 6830,
+    "pageSize": 1170783,
+    "domSize": 20316
+  },
+  "https://gsom.spbu.ru/gsom/company/": {
+    "url": "https://gsom.spbu.ru/gsom/company/",
+    "redirectTime": 0,
+    "serverResponseTime": 279,
+    "ttfb": 277,
+    "domContentLoadedTime": 1726,
+    "tti": 1718,
+    "fullyLoadedTime": 4318,
+    "lcp": {
+      "value": 1340,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/2020-career/dsc08239.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 4318,
+    "domReadyTime": 3682,
+    "firstPaint": 627,
+    "firstContentfulPaint": 1718,
+    "pageSize": 31263,
+    "domSize": 397
+  },
+  "https://gsom.spbu.ru/research/": {
+    "url": "https://gsom.spbu.ru/research/",
+    "redirectTime": 0,
+    "serverResponseTime": 685,
+    "ttfb": 667,
+    "domContentLoadedTime": 928,
+    "tti": 928,
+    "fullyLoadedTime": 3916,
+    "lcp": {
+      "value": 1012,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3916,
+    "domReadyTime": 3185,
+    "firstPaint": 721,
+    "firstContentfulPaint": 928,
+    "pageSize": 81849,
+    "domSize": 930
+  },
+  "https://gsom.spbu.ru/about-gsom3/": {
+    "url": "https://gsom.spbu.ru/about-gsom3/",
+    "redirectTime": 129,
+    "serverResponseTime": 371,
+    "ttfb": 355,
+    "domContentLoadedTime": 1419,
+    "tti": 1402,
+    "fullyLoadedTime": 7894,
+    "lcp": {
+      "value": 2788,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/cms/data/21_04_2012_vesennij_den_karery1/66.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 7894,
+    "domReadyTime": 7399,
+    "firstPaint": 486,
+    "firstContentfulPaint": 1402,
+    "pageSize": 80633,
+    "domSize": 825
+  },
+  "https://gsom.spbu.ru/about-gsom/faculty/tel/hybrid/": {
+    "url": "https://gsom.spbu.ru/about-gsom/faculty/tel/hybrid/",
+    "redirectTime": 0,
+    "serverResponseTime": 248,
+    "ttfb": 247,
+    "domContentLoadedTime": 3391,
+    "tti": 3383,
+    "fullyLoadedTime": 39293,
+    "lcp": {
+      "value": 3500,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/2020-bachelors/1.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 36
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 39293,
+    "domReadyTime": 38991,
+    "firstPaint": 298,
+    "firstContentfulPaint": 3383,
+    "pageSize": 65911,
+    "domSize": 716
+  },
+  "https://gsom.spbu.ru/about-gsom/faculty/chairs/": {
+    "url": "https://gsom.spbu.ru/about-gsom/faculty/chairs/",
+    "redirectTime": 0,
+    "serverResponseTime": 254,
+    "ttfb": 252,
+    "domContentLoadedTime": 835,
+    "tti": 833,
+    "fullyLoadedTime": 4201,
+    "lcp": {
+      "value": 916,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://gsom.spbu.ru/images/2020-emba/2/dsc0952.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 33
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4201,
+    "domReadyTime": 3725,
+    "firstPaint": 468,
+    "firstContentfulPaint": 833,
+    "pageSize": 38885,
+    "domSize": 503
+  },
+  "https://gsom.spbu.ru/students/blog/": {
+    "url": "https://gsom.spbu.ru/students/blog/",
+    "redirectTime": 0,
+    "serverResponseTime": 968,
+    "ttfb": 965,
+    "domContentLoadedTime": 2788,
+    "tti": 2763,
+    "fullyLoadedTime": 6120,
+    "lcp": {
+      "value": 4812,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 34
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 6120,
+    "domReadyTime": 5102,
+    "firstPaint": 1009,
+    "firstContentfulPaint": 2763,
+    "pageSize": 48411,
+    "domSize": 581
+  },
+  "https://gsom.spbu.ru/gsom/career/": {
+    "url": "https://gsom.spbu.ru/gsom/career/",
+    "redirectTime": 0,
+    "serverResponseTime": 577,
+    "ttfb": 559,
+    "domContentLoadedTime": 5432,
+    "tti": 5399,
+    "fullyLoadedTime": 15453,
+    "lcp": {
+      "value": 7488,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 166,
+      "longTasks": [
+        {
+          "duration": 90,
+          "startTime": 1358.0999999940395,
+          "name": "self"
+        },
+        {
+          "duration": 160,
+          "startTime": 5445.199999988079,
+          "name": "self"
+        },
+        {
+          "duration": 66,
+          "startTime": 5609.800000011921,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 38
+      },
+      "mainThreadBlocks": 3
+    },
+    "loadTime": 15453,
+    "domReadyTime": 14780,
+    "firstPaint": 667,
+    "firstContentfulPaint": 5399,
+    "pageSize": 352224,
+    "domSize": 5990
+  },
+  "https://gsom.spbu.ru/students/it/": {
+    "url": "https://gsom.spbu.ru/students/it/",
+    "redirectTime": 0,
+    "serverResponseTime": 1170,
+    "ttfb": 1168,
+    "domContentLoadedTime": 3403,
+    "tti": 3396,
+    "fullyLoadedTime": 44662,
+    "lcp": {
+      "value": 3480,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 38
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 44662,
+    "domReadyTime": 43346,
+    "firstPaint": 1308,
+    "firstContentfulPaint": 3396,
+    "pageSize": 62287,
+    "domSize": 748
+  },
+  "https://gsom.spbu.ru/students/campus3/": {
+    "url": "https://gsom.spbu.ru/students/campus3/",
+    "redirectTime": 314,
+    "serverResponseTime": 252,
+    "ttfb": 251,
+    "domContentLoadedTime": 2501,
+    "tti": 2492,
+    "fullyLoadedTime": 5117,
+    "lcp": {
+      "value": 2564,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://gsom.spbu.ru/templates/gsom/img/logo-ru.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 34
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 5117,
+    "domReadyTime": 4541,
+    "firstPaint": 568,
+    "firstContentfulPaint": 2492,
+    "pageSize": 36115,
+    "domSize": 424
+  },
+  "https://gsom.spbu.ru/about-gsom/contacts/media/": {
+    "url": "https://gsom.spbu.ru/about-gsom/contacts/media/",
+    "redirectTime": 0,
+    "serverResponseTime": 250,
+    "ttfb": 249,
+    "domContentLoadedTime": 837,
+    "tti": 836,
+    "fullyLoadedTime": 1160,
+    "lcp": {
+      "value": 1044,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 4
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1160,
+    "domReadyTime": 424,
+    "firstPaint": 731,
+    "firstContentfulPaint": 836,
+    "pageSize": 10299,
+    "domSize": 110
+  }
+}

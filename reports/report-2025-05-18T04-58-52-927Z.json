@@ -1,0 +1,525 @@
+{
+  "https://agym.spbu.ru/": {
+    "url": "https://agym.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 84,
+    "domContentLoadedTime": 303,
+    "tti": 296,
+    "fullyLoadedTime": 605,
+    "lcp": {
+      "value": 392,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 605,
+    "domReadyTime": 471,
+    "firstPaint": 129,
+    "firstContentfulPaint": 296,
+    "pageSize": 43966,
+    "domSize": 349
+  },
+  "https://agym.spbu.ru/gimnaziya/o-gimnazii.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/o-gimnazii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 93,
+    "ttfb": 92,
+    "domContentLoadedTime": 332,
+    "tti": 325,
+    "fullyLoadedTime": 18473,
+    "lcp": {
+      "value": 408,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 18473,
+    "domReadyTime": 18324,
+    "firstPaint": 141,
+    "firstContentfulPaint": 325,
+    "pageSize": 39773,
+    "domSize": 332
+  },
+  "https://agym.spbu.ru/gimnaziya/d-k-faddeev-i-m-i-bashmakov.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/d-k-faddeev-i-m-i-bashmakov.html",
+    "redirectTime": 0,
+    "serverResponseTime": 117,
+    "ttfb": 116,
+    "domContentLoadedTime": 323,
+    "tti": 317,
+    "fullyLoadedTime": 1126,
+    "lcp": {
+      "value": 588,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1126,
+    "domReadyTime": 958,
+    "firstPaint": 164,
+    "firstContentfulPaint": 317,
+    "pageSize": 34750,
+    "domSize": 282
+  },
+  "https://agym.spbu.ru/gimnaziya/vydayushchiesya-vypuskniki.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/vydayushchiesya-vypuskniki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 108,
+    "ttfb": 91,
+    "domContentLoadedTime": 318,
+    "tti": 312,
+    "fullyLoadedTime": 559,
+    "lcp": {
+      "value": 400,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 559,
+    "domReadyTime": 417,
+    "firstPaint": 137,
+    "firstContentfulPaint": 312,
+    "pageSize": 70219,
+    "domSize": 472
+  },
+  "https://agym.spbu.ru/gimnaziya/nashi-akademiki.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/nashi-akademiki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 89,
+    "ttfb": 88,
+    "domContentLoadedTime": 318,
+    "tti": 311,
+    "fullyLoadedTime": 725,
+    "lcp": {
+      "value": 344,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 725,
+    "domReadyTime": 579,
+    "firstPaint": 140,
+    "firstContentfulPaint": 311,
+    "pageSize": 21402,
+    "domSize": 283
+  },
+  "https://agym.spbu.ru/gimnaziya/sovet-roditelej.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/sovet-roditelej.html",
+    "redirectTime": 0,
+    "serverResponseTime": 82,
+    "ttfb": 81,
+    "domContentLoadedTime": 317,
+    "tti": 310,
+    "fullyLoadedTime": 718,
+    "lcp": {
+      "value": 412,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 718,
+    "domReadyTime": 583,
+    "firstPaint": 128,
+    "firstContentfulPaint": 310,
+    "pageSize": 32401,
+    "domSize": 379
+  },
+  "https://agym.spbu.ru/gimnaziya/vypuskniki-ob-akademicheskoj-gimnazii.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/vypuskniki-ob-akademicheskoj-gimnazii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 179,
+    "ttfb": 178,
+    "domContentLoadedTime": 413,
+    "tti": 406,
+    "fullyLoadedTime": 762,
+    "lcp": {
+      "value": 500,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 762,
+    "domReadyTime": 529,
+    "firstPaint": 225,
+    "firstContentfulPaint": 406,
+    "pageSize": 28027,
+    "domSize": 329
+  },
+  "https://agym.spbu.ru/gimnaziya/muzej-akademicheskoj-gimnazi.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/muzej-akademicheskoj-gimnazi.html",
+    "redirectTime": 0,
+    "serverResponseTime": 88,
+    "ttfb": 85,
+    "domContentLoadedTime": 339,
+    "tti": 331,
+    "fullyLoadedTime": 4988,
+    "lcp": {
+      "value": 456,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 4988,
+    "domReadyTime": 4846,
+    "firstPaint": 132,
+    "firstContentfulPaint": 331,
+    "pageSize": 23406,
+    "domSize": 265
+  },
+  "https://agym.spbu.ru/gimnaziya/ekho.html": {
+    "url": "https://agym.spbu.ru/gimnaziya/ekho.html",
+    "redirectTime": 0,
+    "serverResponseTime": 84,
+    "ttfb": 83,
+    "domContentLoadedTime": 350,
+    "tti": 343,
+    "fullyLoadedTime": 618,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 618,
+    "domReadyTime": 476,
+    "firstPaint": 136,
+    "firstContentfulPaint": 343,
+    "pageSize": 24121,
+    "domSize": 299
+  },
+  "https://agym.spbu.ru/obuchenie.html": {
+    "url": "https://agym.spbu.ru/obuchenie.html",
+    "redirectTime": 0,
+    "serverResponseTime": 160,
+    "ttfb": 159,
+    "domContentLoadedTime": 394,
+    "tti": 388,
+    "fullyLoadedTime": 650,
+    "lcp": {
+      "value": 428,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 650,
+    "domReadyTime": 440,
+    "firstPaint": 203,
+    "firstContentfulPaint": 388,
+    "pageSize": 24520,
+    "domSize": 287
+  },
+  "https://agym.spbu.ru/vneuchebnaya-deyatelnost.html": {
+    "url": "https://agym.spbu.ru/vneuchebnaya-deyatelnost.html",
+    "redirectTime": 0,
+    "serverResponseTime": 163,
+    "ttfb": 161,
+    "domContentLoadedTime": 428,
+    "tti": 421,
+    "fullyLoadedTime": 10616,
+    "lcp": {
+      "value": 9584,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://agym.spbu.ru/files/2025/0876.png",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 10616,
+    "domReadyTime": 10397,
+    "firstPaint": 209,
+    "firstContentfulPaint": 421,
+    "pageSize": 23612,
+    "domSize": 259
+  },
+  "https://agym.spbu.ru/kontakty.html": {
+    "url": "https://agym.spbu.ru/kontakty.html",
+    "redirectTime": 0,
+    "serverResponseTime": 90,
+    "ttfb": 88,
+    "domContentLoadedTime": 622,
+    "tti": 616,
+    "fullyLoadedTime": 2943,
+    "lcp": {
+      "value": 656,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 83,
+      "longTasks": [
+        {
+          "duration": 81,
+          "startTime": 720,
+          "name": "self"
+        },
+        {
+          "duration": 102,
+          "startTime": 806.7000000178814,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 25
+      },
+      "mainThreadBlocks": 3
+    },
+    "loadTime": 2943,
+    "domReadyTime": 2502,
+    "firstPaint": 433,
+    "firstContentfulPaint": 616,
+    "pageSize": 203716,
+    "domSize": 434
+  },
+  "https://agym.spbu.ru/vneuchebnaya-deyatelnost/universitetskaya-gimnaziya/konferentsiya-2025.html": {
+    "url": "https://agym.spbu.ru/vneuchebnaya-deyatelnost/universitetskaya-gimnaziya/konferentsiya-2025.html",
+    "redirectTime": 0,
+    "serverResponseTime": 99,
+    "ttfb": 98,
+    "domContentLoadedTime": 329,
+    "tti": 321,
+    "fullyLoadedTime": 60278,
+    "lcp": {
+      "value": 364,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60278,
+    "domReadyTime": 60118,
+    "firstPaint": 151,
+    "firstContentfulPaint": 321,
+    "pageSize": 28193,
+    "domSize": 294
+  },
+  "https://agym.spbu.ru/vneuchebnaya-deyatelnost/olimpiada-akademicheskoj-gimnazii.html": {
+    "url": "https://agym.spbu.ru/vneuchebnaya-deyatelnost/olimpiada-akademicheskoj-gimnazii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 91,
+    "ttfb": 90,
+    "domContentLoadedTime": 322,
+    "tti": 314,
+    "fullyLoadedTime": 597,
+    "lcp": {
+      "value": 416,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 597,
+    "domReadyTime": 449,
+    "firstPaint": 142,
+    "firstContentfulPaint": 314,
+    "pageSize": 24910,
+    "domSize": 280
+  },
+  "https://agym.spbu.ru/onlajn-shkola-spbgu.html": {
+    "url": "https://agym.spbu.ru/onlajn-shkola-spbgu.html",
+    "redirectTime": 0,
+    "serverResponseTime": 114,
+    "ttfb": 112,
+    "domContentLoadedTime": 624,
+    "tti": 619,
+    "fullyLoadedTime": 1318,
+    "lcp": {
+      "value": 736,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1318,
+    "domReadyTime": 849,
+    "firstPaint": 464,
+    "firstContentfulPaint": 619,
+    "pageSize": 26431,
+    "domSize": 214
+  },
+  "https://agym.spbu.ru/#offcanvas": {
+    "url": "https://agym.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 127,
+    "ttfb": 72,
+    "domContentLoadedTime": 461,
+    "tti": 454,
+    "fullyLoadedTime": 768,
+    "lcp": {
+      "value": 532,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://agym.spbu.ru/images/agym-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 768,
+    "domReadyTime": 645,
+    "firstPaint": 117,
+    "firstContentfulPaint": 454,
+    "pageSize": 43966,
+    "domSize": 349
+  }
+}

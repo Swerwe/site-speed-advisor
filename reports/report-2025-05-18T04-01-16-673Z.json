@@ -1,0 +1,346 @@
+{
+  "https://law.spbu.ru/": {
+    "url": "https://law.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 4404,
+    "ttfb": 4345,
+    "domContentLoadedTime": 5295,
+    "tti": 5294,
+    "fullyLoadedTime": 6527,
+    "lcp": {
+      "value": 4732,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://law.spbu.ru/images/slides/main/photo_2025-05-15_14-28-23.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 208,
+      "longTasks": [
+        {
+          "duration": 77,
+          "startTime": 4471,
+          "name": "unknown"
+        },
+        {
+          "duration": 59,
+          "startTime": 4555.399999976158,
+          "name": "unknown"
+        },
+        {
+          "duration": 71,
+          "startTime": 4960.799999982119,
+          "name": "unknown"
+        },
+        {
+          "duration": 97,
+          "startTime": 5313,
+          "name": "self"
+        },
+        {
+          "duration": 154,
+          "startTime": 5492.399999976158,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 5
+    },
+    "loadTime": 6527,
+    "domReadyTime": 2127,
+    "firstPaint": 4391,
+    "firstContentfulPaint": 5294,
+    "pageSize": 1163808,
+    "domSize": 13347
+  },
+  "https://law.spbu.ru/events/": {
+    "url": "https://law.spbu.ru/events/",
+    "redirectTime": 0,
+    "serverResponseTime": 764,
+    "ttfb": 762,
+    "domContentLoadedTime": 986,
+    "tti": 986,
+    "fullyLoadedTime": 1219,
+    "lcp": {
+      "value": 1012,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://law.spbu.ru/templates/gsom/img/logo-ru-svg.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1219,
+    "domReadyTime": 400,
+    "firstPaint": 810,
+    "firstContentfulPaint": 986,
+    "pageSize": 60403,
+    "domSize": 781
+  },
+  "https://law.spbu.ru/all_news/": {
+    "url": "https://law.spbu.ru/all_news/",
+    "redirectTime": 0,
+    "serverResponseTime": 756,
+    "ttfb": 753,
+    "domContentLoadedTime": 1180,
+    "tti": 1179,
+    "fullyLoadedTime": 3040,
+    "lcp": {
+      "value": 1156,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://law.spbu.ru/images/news2025/photo_5262879979526548629_y1.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 3040,
+    "domReadyTime": 2237,
+    "firstPaint": 793,
+    "firstContentfulPaint": 1179,
+    "pageSize": 69568,
+    "domSize": 845
+  },
+  "https://law.spbu.ru/blog1/": {
+    "url": "https://law.spbu.ru/blog1/",
+    "redirectTime": 0,
+    "serverResponseTime": 623,
+    "ttfb": 621,
+    "domContentLoadedTime": 841,
+    "tti": 841,
+    "fullyLoadedTime": 1374,
+    "lcp": {
+      "value": 872,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://law.spbu.ru/templates/gsom/img/logo-ru-svg.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1374,
+    "domReadyTime": 687,
+    "firstPaint": 680,
+    "firstContentfulPaint": 841,
+    "pageSize": 59327,
+    "domSize": 785
+  },
+  "https://law.spbu.ru/press/": {
+    "url": "https://law.spbu.ru/press/",
+    "redirectTime": 0,
+    "serverResponseTime": 315,
+    "ttfb": 313,
+    "domContentLoadedTime": 530,
+    "tti": 530,
+    "fullyLoadedTime": 1070,
+    "lcp": {
+      "value": 536,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://law.spbu.ru/templates/gsom/img/logo-ru-svg.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1070,
+    "domReadyTime": 701,
+    "firstPaint": 360,
+    "firstContentfulPaint": 530,
+    "pageSize": 19897,
+    "domSize": 318
+  },
+  "https://law.spbu.ru/pregraduatestudy/": {
+    "url": "https://law.spbu.ru/pregraduatestudy/",
+    "redirectTime": 0,
+    "serverResponseTime": 358,
+    "ttfb": 357,
+    "domContentLoadedTime": 636,
+    "tti": 636,
+    "fullyLoadedTime": 820,
+    "lcp": {
+      "value": 696,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 820,
+    "domReadyTime": 415,
+    "firstPaint": 400,
+    "firstContentfulPaint": 636,
+    "pageSize": 74806,
+    "domSize": 1151
+  },
+  "https://law.spbu.ru/education/": {
+    "url": "https://law.spbu.ru/education/",
+    "redirectTime": 0,
+    "serverResponseTime": 530,
+    "ttfb": 528,
+    "domContentLoadedTime": 937,
+    "tti": 936,
+    "fullyLoadedTime": 1143,
+    "lcp": {
+      "value": 860,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://law.spbu.ru/templates/gsom/img/logo-ru-svg.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1143,
+    "domReadyTime": 558,
+    "firstPaint": 578,
+    "firstContentfulPaint": 936,
+    "pageSize": 26666,
+    "domSize": 412
+  },
+  "https://law.spbu.ru/science/": {
+    "url": "https://law.spbu.ru/science/",
+    "redirectTime": 0,
+    "serverResponseTime": 983,
+    "ttfb": 965,
+    "domContentLoadedTime": 8014,
+    "tti": 8011,
+    "fullyLoadedTime": 68913,
+    "lcp": {
+      "value": 1952,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://law.spbu.ru/templates/gsom/img/logo-ru-svg.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 2
+    },
+    "loadTime": 68913,
+    "domReadyTime": 67896,
+    "firstPaint": 1009,
+    "firstContentfulPaint": 8011,
+    "pageSize": 140631,
+    "domSize": 1522
+  },
+  "https://law.spbu.ru/expert-activity/": {
+    "url": "https://law.spbu.ru/expert-activity/",
+    "redirectTime": 0,
+    "serverResponseTime": 343,
+    "ttfb": 341,
+    "domContentLoadedTime": 605,
+    "tti": 605,
+    "fullyLoadedTime": 1268,
+    "lcp": {
+      "value": 608,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://law.spbu.ru/templates/gsom/img/logo-ru-svg.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1268,
+    "domReadyTime": 871,
+    "firstPaint": 389,
+    "firstContentfulPaint": 605,
+    "pageSize": 25350,
+    "domSize": 312
+  },
+  "https://law.spbu.ru/aboutfaculty/": {
+    "url": "https://law.spbu.ru/aboutfaculty/",
+    "redirectTime": 234,
+    "serverResponseTime": 408,
+    "ttfb": 407,
+    "domContentLoadedTime": 811,
+    "tti": 811,
+    "fullyLoadedTime": 1336,
+    "lcp": {
+      "value": 828,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://law.spbu.ru/templates/gsom/img/logo-ru-svg.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1336,
+    "domReadyTime": 685,
+    "firstPaint": 644,
+    "firstContentfulPaint": 811,
+    "pageSize": 71709,
+    "domSize": 1043
+  }
+}

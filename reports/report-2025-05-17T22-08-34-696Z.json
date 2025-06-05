@@ -1,0 +1,970 @@
+{
+  "https://psy.spbu.ru/": {
+    "url": "https://psy.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 88,
+    "ttfb": 87,
+    "domContentLoadedTime": 322,
+    "tti": 321,
+    "fullyLoadedTime": 1999,
+    "lcp": {
+      "value": 1568,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://psy.spbu.ru/images/carousel/Banner-AR-2025.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1999,
+    "domReadyTime": 1857,
+    "firstPaint": 133,
+    "firstContentfulPaint": 321,
+    "pageSize": 26740,
+    "domSize": 257
+  },
+  "https://psy.spbu.ru/#": {
+    "url": "https://psy.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 99,
+    "ttfb": 98,
+    "domContentLoadedTime": 472,
+    "tti": 471,
+    "fullyLoadedTime": 1179,
+    "lcp": {
+      "value": 596,
+      "lcpElementType": "text",
+      "lcpElementTag": "h3"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1179,
+    "domReadyTime": 876,
+    "firstPaint": 295,
+    "firstContentfulPaint": 471,
+    "pageSize": 26740,
+    "domSize": 257
+  },
+  "https://psy.spbu.ru/department": {
+    "url": "https://psy.spbu.ru/department",
+    "redirectTime": 0,
+    "serverResponseTime": 130,
+    "ttfb": 84,
+    "domContentLoadedTime": 426,
+    "tti": 425,
+    "fullyLoadedTime": 832,
+    "lcp": {
+      "value": 496,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 832,
+    "domReadyTime": 623,
+    "firstPaint": 203,
+    "firstContentfulPaint": 425,
+    "pageSize": 23463,
+    "domSize": 196
+  },
+  "https://psy.spbu.ru/department/chairs": {
+    "url": "https://psy.spbu.ru/department/chairs",
+    "redirectTime": 0,
+    "serverResponseTime": 109,
+    "ttfb": 107,
+    "domContentLoadedTime": 449,
+    "tti": 447,
+    "fullyLoadedTime": 60482,
+    "lcp": {
+      "value": 544,
+      "lcpElementType": "text",
+      "lcpElementTag": "h2"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60482,
+    "domReadyTime": 60302,
+    "firstPaint": 167,
+    "firstContentfulPaint": 447,
+    "pageSize": 18573,
+    "domSize": 202
+  },
+  "https://psy.spbu.ru/department/1764-grantovaya-proektnaya-i-publikatsionnaya-aktivnost-npr": {
+    "url": "https://psy.spbu.ru/department/1764-grantovaya-proektnaya-i-publikatsionnaya-aktivnost-npr",
+    "redirectTime": 0,
+    "serverResponseTime": 125,
+    "ttfb": 106,
+    "domContentLoadedTime": 378,
+    "tti": 377,
+    "fullyLoadedTime": 756,
+    "lcp": {
+      "value": 516,
+      "lcpElementType": "text",
+      "lcpElementTag": "h3"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 756,
+    "domReadyTime": 583,
+    "firstPaint": 152,
+    "firstContentfulPaint": 377,
+    "pageSize": 123635,
+    "domSize": 2492
+  },
+  "https://psy.spbu.ru/department/psychcentre": {
+    "url": "https://psy.spbu.ru/department/psychcentre",
+    "redirectTime": 0,
+    "serverResponseTime": 91,
+    "ttfb": 90,
+    "domContentLoadedTime": 334,
+    "tti": 333,
+    "fullyLoadedTime": 743,
+    "lcp": {
+      "value": 432,
+      "lcpElementType": "text",
+      "lcpElementTag": "h4"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 743,
+    "domReadyTime": 585,
+    "firstPaint": 150,
+    "firstContentfulPaint": 333,
+    "pageSize": 19270,
+    "domSize": 200
+  },
+  "https://psy.spbu.ru/department/comissions": {
+    "url": "https://psy.spbu.ru/department/comissions",
+    "redirectTime": 0,
+    "serverResponseTime": 117,
+    "ttfb": 99,
+    "domContentLoadedTime": 789,
+    "tti": 788,
+    "fullyLoadedTime": 60901,
+    "lcp": {
+      "value": 964,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 17
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60901,
+    "domReadyTime": 60429,
+    "firstPaint": 464,
+    "firstContentfulPaint": 788,
+    "pageSize": 44120,
+    "domSize": 368
+  },
+  "https://psy.spbu.ru/department/biblio": {
+    "url": "https://psy.spbu.ru/department/biblio",
+    "redirectTime": 0,
+    "serverResponseTime": 167,
+    "ttfb": 165,
+    "domContentLoadedTime": 413,
+    "tti": 412,
+    "fullyLoadedTime": 2474,
+    "lcp": {
+      "value": 492,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 15
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2474,
+    "domReadyTime": 2218,
+    "firstPaint": 247,
+    "firstContentfulPaint": 412,
+    "pageSize": 28794,
+    "domSize": 278
+  },
+  "https://psy.spbu.ru/department/disser": {
+    "url": "https://psy.spbu.ru/department/disser",
+    "redirectTime": 0,
+    "serverResponseTime": 84,
+    "ttfb": 84,
+    "domContentLoadedTime": 611,
+    "tti": 609,
+    "fullyLoadedTime": 894,
+    "lcp": {
+      "value": 696,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 894,
+    "domReadyTime": 556,
+    "firstPaint": 332,
+    "firstContentfulPaint": 609,
+    "pageSize": 19061,
+    "domSize": 189
+  },
+  "https://psy.spbu.ru/department/2176-kadrovyj-rezerv": {
+    "url": "https://psy.spbu.ru/department/2176-kadrovyj-rezerv",
+    "redirectTime": 0,
+    "serverResponseTime": 107,
+    "ttfb": 84,
+    "domContentLoadedTime": 441,
+    "tti": 440,
+    "fullyLoadedTime": 827,
+    "lcp": {
+      "value": 564,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 827,
+    "domReadyTime": 648,
+    "firstPaint": 169,
+    "firstContentfulPaint": 440,
+    "pageSize": 19899,
+    "domSize": 198
+  },
+  "https://psy.spbu.ru/department/phones": {
+    "url": "https://psy.spbu.ru/department/phones",
+    "redirectTime": 0,
+    "serverResponseTime": 174,
+    "ttfb": 173,
+    "domContentLoadedTime": 412,
+    "tti": 411,
+    "fullyLoadedTime": 856,
+    "lcp": {
+      "value": 480,
+      "lcpElementType": "text",
+      "lcpElementTag": "h2"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 44
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 856,
+    "domReadyTime": 633,
+    "firstPaint": 215,
+    "firstContentfulPaint": 411,
+    "pageSize": 57374,
+    "domSize": 547
+  },
+  "https://psy.spbu.ru/department/administration": {
+    "url": "https://psy.spbu.ru/department/administration",
+    "redirectTime": 0,
+    "serverResponseTime": 96,
+    "ttfb": 95,
+    "domContentLoadedTime": 430,
+    "tti": 429,
+    "fullyLoadedTime": 810,
+    "lcp": {
+      "value": 504,
+      "lcpElementType": "text",
+      "lcpElementTag": "h4"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 19
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 810,
+    "domReadyTime": 618,
+    "firstPaint": 180,
+    "firstContentfulPaint": 429,
+    "pageSize": 31529,
+    "domSize": 316
+  },
+  "https://psy.spbu.ru/department/info-teachers": {
+    "url": "https://psy.spbu.ru/department/info-teachers",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 84,
+    "domContentLoadedTime": 440,
+    "tti": 438,
+    "fullyLoadedTime": 1294,
+    "lcp": {
+      "value": 532,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "button"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1294,
+    "domReadyTime": 1070,
+    "firstPaint": 215,
+    "firstContentfulPaint": 438,
+    "pageSize": 33160,
+    "domSize": 293
+  },
+  "https://psy.spbu.ru/abitur/abiturfirst": {
+    "url": "https://psy.spbu.ru/abitur/abiturfirst",
+    "redirectTime": 0,
+    "serverResponseTime": 89,
+    "ttfb": 87,
+    "domContentLoadedTime": 397,
+    "tti": 396,
+    "fullyLoadedTime": 761,
+    "lcp": {
+      "value": 532,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 761,
+    "domReadyTime": 614,
+    "firstPaint": 135,
+    "firstContentfulPaint": 396,
+    "pageSize": 27393,
+    "domSize": 229
+  },
+  "https://psy.spbu.ru/abitur/postgrade4": {
+    "url": "https://psy.spbu.ru/abitur/postgrade4",
+    "redirectTime": 0,
+    "serverResponseTime": 88,
+    "ttfb": 86,
+    "domContentLoadedTime": 349,
+    "tti": 348,
+    "fullyLoadedTime": 796,
+    "lcp": {
+      "value": 432,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 796,
+    "domReadyTime": 649,
+    "firstPaint": 136,
+    "firstContentfulPaint": 348,
+    "pageSize": 21405,
+    "domSize": 198
+  },
+  "https://psy.spbu.ru/abitur/foreign": {
+    "url": "https://psy.spbu.ru/abitur/foreign",
+    "redirectTime": 0,
+    "serverResponseTime": 103,
+    "ttfb": 102,
+    "domContentLoadedTime": 1997,
+    "tti": 1995,
+    "fullyLoadedTime": 2364,
+    "lcp": {
+      "value": 2440,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2364,
+    "domReadyTime": 1000,
+    "firstPaint": 1355,
+    "firstContentfulPaint": 1995,
+    "pageSize": 19158,
+    "domSize": 189
+  },
+  "https://psy.spbu.ru/abitur/courses-smalldpt": {
+    "url": "https://psy.spbu.ru/abitur/courses-smalldpt",
+    "redirectTime": 0,
+    "serverResponseTime": 96,
+    "ttfb": 94,
+    "domContentLoadedTime": 417,
+    "tti": 415,
+    "fullyLoadedTime": 852,
+    "lcp": {
+      "value": 556,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 852,
+    "domReadyTime": 623,
+    "firstPaint": 219,
+    "firstContentfulPaint": 415,
+    "pageSize": 18607,
+    "domSize": 193
+  },
+  "https://psy.spbu.ru/students/schedule": {
+    "url": "https://psy.spbu.ru/students/schedule",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 84,
+    "domContentLoadedTime": 427,
+    "tti": 426,
+    "fullyLoadedTime": 758,
+    "lcp": {
+      "value": 520,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 758,
+    "domReadyTime": 601,
+    "firstPaint": 150,
+    "firstContentfulPaint": 426,
+    "pageSize": 20091,
+    "domSize": 197
+  },
+  "https://psy.spbu.ru/students/programs-of-education": {
+    "url": "https://psy.spbu.ru/students/programs-of-education",
+    "redirectTime": 0,
+    "serverResponseTime": 97,
+    "ttfb": 96,
+    "domContentLoadedTime": 439,
+    "tti": 438,
+    "fullyLoadedTime": 1172,
+    "lcp": {
+      "value": 652,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1172,
+    "domReadyTime": 1015,
+    "firstPaint": 148,
+    "firstContentfulPaint": 438,
+    "pageSize": 37115,
+    "domSize": 261
+  },
+  "https://psy.spbu.ru/students/perepodgotov": {
+    "url": "https://psy.spbu.ru/students/perepodgotov",
+    "redirectTime": 0,
+    "serverResponseTime": 105,
+    "ttfb": 104,
+    "domContentLoadedTime": 356,
+    "tti": 355,
+    "fullyLoadedTime": 772,
+    "lcp": {
+      "value": 452,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 772,
+    "domReadyTime": 616,
+    "firstPaint": 149,
+    "firstContentfulPaint": 355,
+    "pageSize": 17605,
+    "domSize": 183
+  },
+  "https://psy.spbu.ru/students/how-to-study-more": {
+    "url": "https://psy.spbu.ru/students/how-to-study-more",
+    "redirectTime": 0,
+    "serverResponseTime": 92,
+    "ttfb": 91,
+    "domContentLoadedTime": 350,
+    "tti": 348,
+    "fullyLoadedTime": 1136,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1136,
+    "domReadyTime": 990,
+    "firstPaint": 138,
+    "firstContentfulPaint": 349,
+    "pageSize": 17926,
+    "domSize": 186
+  },
+  "https://psy.spbu.ru/students/gak": {
+    "url": "https://psy.spbu.ru/students/gak",
+    "redirectTime": 0,
+    "serverResponseTime": 105,
+    "ttfb": 104,
+    "domContentLoadedTime": 469,
+    "tti": 468,
+    "fullyLoadedTime": 919,
+    "lcp": {
+      "value": 644,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 2,
+      "longTasks": [
+        {
+          "duration": 52,
+          "startTime": 830.0999999940395,
+          "name": "self"
+        }
+      ],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 919,
+    "domReadyTime": 701,
+    "firstPaint": 208,
+    "firstContentfulPaint": 468,
+    "pageSize": 23704,
+    "domSize": 223
+  },
+  "https://psy.spbu.ru/students/transfer": {
+    "url": "https://psy.spbu.ru/students/transfer",
+    "redirectTime": 0,
+    "serverResponseTime": 82,
+    "ttfb": 81,
+    "domContentLoadedTime": 359,
+    "tti": 357,
+    "fullyLoadedTime": 760,
+    "lcp": {
+      "value": 436,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 760,
+    "domReadyTime": 602,
+    "firstPaint": 148,
+    "firstContentfulPaint": 357,
+    "pageSize": 24041,
+    "domSize": 218
+  },
+  "https://psy.spbu.ru/students/payment": {
+    "url": "https://psy.spbu.ru/students/payment",
+    "redirectTime": 0,
+    "serverResponseTime": 118,
+    "ttfb": 117,
+    "domContentLoadedTime": 487,
+    "tti": 485,
+    "fullyLoadedTime": 1466,
+    "lcp": {
+      "value": 580,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1466,
+    "domReadyTime": 1212,
+    "firstPaint": 168,
+    "firstContentfulPaint": 485,
+    "pageSize": 18063,
+    "domSize": 186
+  },
+  "https://psy.spbu.ru/students/informal": {
+    "url": "https://psy.spbu.ru/students/informal",
+    "redirectTime": 0,
+    "serverResponseTime": 84,
+    "ttfb": 83,
+    "domContentLoadedTime": 500,
+    "tti": 499,
+    "fullyLoadedTime": 843,
+    "lcp": {
+      "value": 596,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 15
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 843,
+    "domReadyTime": 707,
+    "firstPaint": 129,
+    "firstContentfulPaint": 499,
+    "pageSize": 24402,
+    "domSize": 215
+  },
+  "https://psy.spbu.ru/students/practic": {
+    "url": "https://psy.spbu.ru/students/practic",
+    "redirectTime": 0,
+    "serverResponseTime": 77,
+    "ttfb": 76,
+    "domContentLoadedTime": 313,
+    "tti": 311,
+    "fullyLoadedTime": 1162,
+    "lcp": {
+      "value": 404,
+      "lcpElementType": "text",
+      "lcpElementTag": "h4"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1162,
+    "domReadyTime": 1029,
+    "firstPaint": 124,
+    "firstContentfulPaint": 311,
+    "pageSize": 93725,
+    "domSize": 869
+  },
+  "https://psy.spbu.ru/scientific/sci-info": {
+    "url": "https://psy.spbu.ru/scientific/sci-info",
+    "redirectTime": 0,
+    "serverResponseTime": 80,
+    "ttfb": 80,
+    "domContentLoadedTime": 297,
+    "tti": 296,
+    "fullyLoadedTime": 717,
+    "lcp": {
+      "value": 460,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 717,
+    "domReadyTime": 578,
+    "firstPaint": 130,
+    "firstContentfulPaint": 296,
+    "pageSize": 18671,
+    "domSize": 198
+  },
+  "https://psy.spbu.ru/scientific/contest-ananyev": {
+    "url": "https://psy.spbu.ru/scientific/contest-ananyev",
+    "redirectTime": 0,
+    "serverResponseTime": 110,
+    "ttfb": 110,
+    "domContentLoadedTime": 553,
+    "tti": 551,
+    "fullyLoadedTime": 1299,
+    "lcp": {
+      "value": 652,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "li"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1299,
+    "domReadyTime": 1130,
+    "firstPaint": 164,
+    "firstContentfulPaint": 551,
+    "pageSize": 64988,
+    "domSize": 355
+  },
+  "https://psy.spbu.ru/scientific/2185-center-neurocognitive-research-spb": {
+    "url": "https://psy.spbu.ru/scientific/2185-center-neurocognitive-research-spb",
+    "redirectTime": 0,
+    "serverResponseTime": 93,
+    "ttfb": 92,
+    "domContentLoadedTime": 401,
+    "tti": 399,
+    "fullyLoadedTime": 703,
+    "lcp": {
+      "value": 468,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 703,
+    "domReadyTime": 555,
+    "firstPaint": 141,
+    "firstContentfulPaint": 399,
+    "pageSize": 26572,
+    "domSize": 243
+  },
+  "https://psy.spbu.ru/graduate/calendar": {
+    "url": "https://psy.spbu.ru/graduate/calendar",
+    "redirectTime": 0,
+    "serverResponseTime": 114,
+    "ttfb": 113,
+    "domContentLoadedTime": 434,
+    "tti": 433,
+    "fullyLoadedTime": 2204,
+    "lcp": {
+      "value": 528,
+      "lcpElementType": "text",
+      "lcpElementTag": "h2"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2204,
+    "domReadyTime": 1963,
+    "firstPaint": 233,
+    "firstContentfulPaint": 433,
+    "pageSize": 24373,
+    "domSize": 323
+  },
+  "https://psy.spbu.ru/graduate/qualification": {
+    "url": "https://psy.spbu.ru/graduate/qualification",
+    "redirectTime": 0,
+    "serverResponseTime": 195,
+    "ttfb": 194,
+    "domContentLoadedTime": 531,
+    "tti": 530,
+    "fullyLoadedTime": 816,
+    "lcp": {
+      "value": 600,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 816,
+    "domReadyTime": 569,
+    "firstPaint": 239,
+    "firstContentfulPaint": 530,
+    "pageSize": 27184,
+    "domSize": 244
+  },
+  "https://psy.spbu.ru/graduate/trainers": {
+    "url": "https://psy.spbu.ru/graduate/trainers",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 83,
+    "domContentLoadedTime": 395,
+    "tti": 393,
+    "fullyLoadedTime": 1823,
+    "lcp": {
+      "value": 476,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1823,
+    "domReadyTime": 1632,
+    "firstPaint": 183,
+    "firstContentfulPaint": 393,
+    "pageSize": 21068,
+    "domSize": 259
+  }
+}

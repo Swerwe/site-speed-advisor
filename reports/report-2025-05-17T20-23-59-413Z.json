@@ -1,0 +1,1536 @@
+{
+  "https://arts.spbu.ru/#main-content-area": {
+    "url": "https://arts.spbu.ru/#main-content-area",
+    "redirectTime": 0,
+    "serverResponseTime": 64,
+    "ttfb": 63,
+    "domContentLoadedTime": 237,
+    "tti": 231,
+    "fullyLoadedTime": 856,
+    "lcp": {
+      "value": 276,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 856,
+    "domReadyTime": 740,
+    "firstPaint": 112,
+    "firstContentfulPaint": 231,
+    "pageSize": 47112,
+    "domSize": 411
+  },
+  "https://arts.spbu.ru/": {
+    "url": "https://arts.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 68,
+    "ttfb": 67,
+    "domContentLoadedTime": 271,
+    "tti": 266,
+    "fullyLoadedTime": 853,
+    "lcp": {
+      "value": 816,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 853,
+    "domReadyTime": 733,
+    "firstPaint": 115,
+    "firstContentfulPaint": 266,
+    "pageSize": 47112,
+    "domSize": 411
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete",
+    "redirectTime": 0,
+    "serverResponseTime": 83,
+    "ttfb": 82,
+    "domContentLoadedTime": 514,
+    "tti": 507,
+    "fullyLoadedTime": 796,
+    "lcp": {
+      "value": 580,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 796,
+    "domReadyTime": 662,
+    "firstPaint": 129,
+    "firstContentfulPaint": 507,
+    "pageSize": 37636,
+    "domSize": 331
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedry": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedry",
+    "redirectTime": 0,
+    "serverResponseTime": 47,
+    "ttfb": 46,
+    "domContentLoadedTime": 404,
+    "tti": 399,
+    "fullyLoadedTime": 990,
+    "lcp": {
+      "value": 472,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 990,
+    "domReadyTime": 799,
+    "firstPaint": 184,
+    "firstContentfulPaint": 399,
+    "pageSize": 29576,
+    "domSize": 229
+  },
+  "https://arts.spbu.ru/fakultet/nauka": {
+    "url": "https://arts.spbu.ru/fakultet/nauka",
+    "redirectTime": 0,
+    "serverResponseTime": 76,
+    "ttfb": 74,
+    "domContentLoadedTime": 335,
+    "tti": 320,
+    "fullyLoadedTime": 1689,
+    "lcp": {
+      "value": 436,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1689,
+    "domReadyTime": 1484,
+    "firstPaint": 197,
+    "firstContentfulPaint": 320,
+    "pageSize": 32063,
+    "domSize": 239
+  },
+  "https://arts.spbu.ru/postupayushchim": {
+    "url": "https://arts.spbu.ru/postupayushchim",
+    "redirectTime": 0,
+    "serverResponseTime": 59,
+    "ttfb": 57,
+    "domContentLoadedTime": 1232,
+    "tti": 1216,
+    "fullyLoadedTime": 61341,
+    "lcp": {
+      "value": 1280,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "li"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 61341,
+    "domReadyTime": 60222,
+    "firstPaint": 1110,
+    "firstContentfulPaint": 1216,
+    "pageSize": 29596,
+    "domSize": 191
+  },
+  "https://arts.spbu.ru/studentam": {
+    "url": "https://arts.spbu.ru/studentam",
+    "redirectTime": 0,
+    "serverResponseTime": 53,
+    "ttfb": 53,
+    "domContentLoadedTime": 325,
+    "tti": 319,
+    "fullyLoadedTime": 931,
+    "lcp": {
+      "value": 480,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://arts.spbu.ru/sites/default/files/art2_logo.gif",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 931,
+    "domReadyTime": 801,
+    "firstPaint": 126,
+    "firstContentfulPaint": 319,
+    "pageSize": 28278,
+    "domSize": 222
+  },
+  "https://arts.spbu.ru/vypusknikam": {
+    "url": "https://arts.spbu.ru/vypusknikam",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 53,
+    "domContentLoadedTime": 256,
+    "tti": 250,
+    "fullyLoadedTime": 655,
+    "lcp": {
+      "value": 328,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 655,
+    "domReadyTime": 536,
+    "firstPaint": 113,
+    "firstContentfulPaint": 250,
+    "pageSize": 23923,
+    "domSize": 171
+  },
+  "https://arts.spbu.ru/fakultet/novosti": {
+    "url": "https://arts.spbu.ru/fakultet/novosti",
+    "redirectTime": 0,
+    "serverResponseTime": 52,
+    "ttfb": 51,
+    "domContentLoadedTime": 214,
+    "tti": 210,
+    "fullyLoadedTime": 506,
+    "lcp": {
+      "value": 320,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 506,
+    "domReadyTime": 402,
+    "firstPaint": 100,
+    "firstContentfulPaint": 210,
+    "pageSize": 48657,
+    "domSize": 347
+  },
+  "http://arts.spbu.ru/fakultet/kafedry/kafedra-informatsionnykh-sistem-v-iskusstve-i-gumanitarnykh-naukakh": {
+    "url": "http://arts.spbu.ru/fakultet/kafedry/kafedra-informatsionnykh-sistem-v-iskusstve-i-gumanitarnykh-naukakh",
+    "redirectTime": 0,
+    "serverResponseTime": 69,
+    "ttfb": 52,
+    "domContentLoadedTime": 2124,
+    "tti": 2116,
+    "fullyLoadedTime": 20295,
+    "lcp": {
+      "value": 2168,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 20295,
+    "domReadyTime": 18694,
+    "firstPaint": 1591,
+    "firstContentfulPaint": 2116,
+    "pageSize": 54249,
+    "domSize": 276
+  },
+  "http://arts.spbu.ru/sites/default/files/zhivopis.pdf": {
+    "url": "http://arts.spbu.ru/sites/default/files/zhivopis.pdf",
+    "redirectTime": 0,
+    "serverResponseTime": 39,
+    "ttfb": 37,
+    "domContentLoadedTime": 280,
+    "tti": 279,
+    "fullyLoadedTime": 280,
+    "lcp": {
+      "value": 0
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 0
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 280,
+    "domReadyTime": 9,
+    "firstPaint": 259,
+    "firstContentfulPaint": 279,
+    "pageSize": 242,
+    "domSize": 4
+  },
+  "http://arts.spbu.ru/fakultet/kafedry/kafedra-izobrazitelnogo-iskusstva/dekorativno-prikladnoe-iskusstvo/dekorativno-prik": {
+    "url": "http://arts.spbu.ru/fakultet/kafedry/kafedra-izobrazitelnogo-iskusstva/dekorativno-prikladnoe-iskusstvo/dekorativno-prik",
+    "redirectTime": 0,
+    "serverResponseTime": 56,
+    "ttfb": 56,
+    "domContentLoadedTime": 233,
+    "tti": 227,
+    "fullyLoadedTime": 503,
+    "lcp": {
+      "value": 296,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 503,
+    "domReadyTime": 391,
+    "firstPaint": 108,
+    "firstContentfulPaint": 227,
+    "pageSize": 33789,
+    "domSize": 237
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya/film-paint": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya/film-paint",
+    "redirectTime": 0,
+    "serverResponseTime": 58,
+    "ttfb": 57,
+    "domContentLoadedTime": 215,
+    "tti": 211,
+    "fullyLoadedTime": 60305,
+    "lcp": {
+      "value": 292,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 60305,
+    "domReadyTime": 60193,
+    "firstPaint": 106,
+    "firstContentfulPaint": 211,
+    "pageSize": 34290,
+    "domSize": 251
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/priem-dekana": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/priem-dekana",
+    "redirectTime": 0,
+    "serverResponseTime": 54,
+    "ttfb": 52,
+    "domContentLoadedTime": 604,
+    "tti": 597,
+    "fullyLoadedTime": 879,
+    "lcp": {
+      "value": 644,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 879,
+    "domReadyTime": 469,
+    "firstPaint": 403,
+    "firstContentfulPaint": 597,
+    "pageSize": 28266,
+    "domSize": 194
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/uchenyi-sovet/povestki-dnya": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/uchenyi-sovet/povestki-dnya",
+    "redirectTime": 0,
+    "serverResponseTime": 53,
+    "ttfb": 52,
+    "domContentLoadedTime": 277,
+    "tti": 272,
+    "fullyLoadedTime": 60464,
+    "lcp": {
+      "value": 420,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60464,
+    "domReadyTime": 60325,
+    "firstPaint": 133,
+    "firstContentfulPaint": 272,
+    "pageSize": 27065,
+    "domSize": 193
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/uchenyi-sovet/protokoly": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/uchenyi-sovet/protokoly",
+    "redirectTime": 0,
+    "serverResponseTime": 61,
+    "ttfb": 60,
+    "domContentLoadedTime": 343,
+    "tti": 338,
+    "fullyLoadedTime": 834,
+    "lcp": {
+      "value": 424,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 834,
+    "domReadyTime": 723,
+    "firstPaint": 107,
+    "firstContentfulPaint": 338,
+    "pageSize": 27366,
+    "domSize": 195
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/komissii-fakulteta": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/komissii-fakulteta",
+    "redirectTime": 0,
+    "serverResponseTime": 58,
+    "ttfb": 56,
+    "domContentLoadedTime": 376,
+    "tti": 369,
+    "fullyLoadedTime": 895,
+    "lcp": {
+      "value": 444,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 895,
+    "domReadyTime": 758,
+    "firstPaint": 129,
+    "firstContentfulPaint": 369,
+    "pageSize": 30306,
+    "domSize": 224
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/komissii-fakulteta/komissiya-po-perevodam-i-vosstanovleniyam": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/komissii-fakulteta/komissiya-po-perevodam-i-vosstanovleniyam",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 54,
+    "domContentLoadedTime": 949,
+    "tti": 940,
+    "fullyLoadedTime": 1375,
+    "lcp": {
+      "value": 1028,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1375,
+    "domReadyTime": 1009,
+    "firstPaint": 360,
+    "firstContentfulPaint": 940,
+    "pageSize": 34363,
+    "domSize": 298
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/komissii-fakulteta/nauchnaya-komissiya-v-oblasti-iskusstva": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/komissii-fakulteta/nauchnaya-komissiya-v-oblasti-iskusstva",
+    "redirectTime": 0,
+    "serverResponseTime": 59,
+    "ttfb": 57,
+    "domContentLoadedTime": 236,
+    "tti": 229,
+    "fullyLoadedTime": 522,
+    "lcp": {
+      "value": 368,
+      "lcpElementType": "text",
+      "lcpElementTag": "div",
+      "lcpElementUrl": "https://arts.spbu.ru/sites/default/files/art2_logo.gif",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 522,
+    "domReadyTime": 413,
+    "firstPaint": 103,
+    "firstContentfulPaint": 229,
+    "pageSize": 47575,
+    "domSize": 503
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/administratsiya": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/administratsiya",
+    "redirectTime": 0,
+    "serverResponseTime": 56,
+    "ttfb": 54,
+    "domContentLoadedTime": 787,
+    "tti": 780,
+    "fullyLoadedTime": 973,
+    "lcp": {
+      "value": 884,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 973,
+    "domReadyTime": 626,
+    "firstPaint": 340,
+    "firstContentfulPaint": 780,
+    "pageSize": 38833,
+    "domSize": 303
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/spisok-i-reiting-prepodavatelei": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/spisok-i-reiting-prepodavatelei",
+    "redirectTime": 0,
+    "serverResponseTime": 58,
+    "ttfb": 56,
+    "domContentLoadedTime": 365,
+    "tti": 360,
+    "fullyLoadedTime": 708,
+    "lcp": {
+      "value": 416,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 708,
+    "domReadyTime": 525,
+    "firstPaint": 176,
+    "firstContentfulPaint": 360,
+    "pageSize": 161967,
+    "domSize": 1266
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/uchebnyi-otdel": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/uchebnyi-otdel",
+    "redirectTime": 0,
+    "serverResponseTime": 128,
+    "ttfb": 125,
+    "domContentLoadedTime": 368,
+    "tti": 360,
+    "fullyLoadedTime": 868,
+    "lcp": {
+      "value": 404,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 868,
+    "domReadyTime": 685,
+    "firstPaint": 174,
+    "firstContentfulPaint": 360,
+    "pageSize": 36871,
+    "domSize": 333
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/otdel-po-obespecheniyu-dogovornogo-obucheniya": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/otdel-po-obespecheniyu-dogovornogo-obucheniya",
+    "redirectTime": 0,
+    "serverResponseTime": 70,
+    "ttfb": 69,
+    "domContentLoadedTime": 432,
+    "tti": 424,
+    "fullyLoadedTime": 660,
+    "lcp": {
+      "value": 472,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 660,
+    "domReadyTime": 541,
+    "firstPaint": 115,
+    "firstContentfulPaint": 424,
+    "pageSize": 36862,
+    "domSize": 233
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/biblioteka": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/biblioteka",
+    "redirectTime": 0,
+    "serverResponseTime": 48,
+    "ttfb": 47,
+    "domContentLoadedTime": 741,
+    "tti": 734,
+    "fullyLoadedTime": 1360,
+    "lcp": {
+      "value": 808,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1360,
+    "domReadyTime": 1091,
+    "firstPaint": 260,
+    "firstContentfulPaint": 734,
+    "pageSize": 30231,
+    "domSize": 223
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/protokoly": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/protokoly",
+    "redirectTime": 0,
+    "serverResponseTime": 59,
+    "ttfb": 58,
+    "domContentLoadedTime": 331,
+    "tti": 321,
+    "fullyLoadedTime": 528,
+    "lcp": {
+      "value": 400,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 528,
+    "domReadyTime": 419,
+    "firstPaint": 105,
+    "firstContentfulPaint": 321,
+    "pageSize": 47214,
+    "domSize": 490
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/kadrovyi-rezerv": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/kadrovyi-rezerv",
+    "redirectTime": 0,
+    "serverResponseTime": 67,
+    "ttfb": 65,
+    "domContentLoadedTime": 350,
+    "tti": 343,
+    "fullyLoadedTime": 939,
+    "lcp": {
+      "value": 440,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 939,
+    "domReadyTime": 731,
+    "firstPaint": 200,
+    "firstContentfulPaint": 343,
+    "pageSize": 29589,
+    "domSize": 222
+  },
+  "https://arts.spbu.ru/fakultet/o-fakultete/ofitsialnye-dokumenty": {
+    "url": "https://arts.spbu.ru/fakultet/o-fakultete/ofitsialnye-dokumenty",
+    "redirectTime": 0,
+    "serverResponseTime": 696,
+    "ttfb": 694,
+    "domContentLoadedTime": 21534,
+    "tti": 21523,
+    "fullyLoadedTime": 22591,
+    "lcp": {
+      "value": 22280,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 22591,
+    "domReadyTime": 21841,
+    "firstPaint": 742,
+    "firstContentfulPaint": 21523,
+    "pageSize": 64772,
+    "domSize": 570
+  },
+  "http://arts.spbu.ru/fakultet/o-fakultete/spisok-i-reiting-prepodavatelei": {
+    "url": "http://arts.spbu.ru/fakultet/o-fakultete/spisok-i-reiting-prepodavatelei",
+    "redirectTime": 0,
+    "serverResponseTime": 2606,
+    "ttfb": 69,
+    "domContentLoadedTime": 8027,
+    "tti": 8021,
+    "fullyLoadedTime": 8412,
+    "lcp": {
+      "value": 8108,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 8412,
+    "domReadyTime": 6536,
+    "firstPaint": 1867,
+    "firstContentfulPaint": 8021,
+    "pageSize": 161967,
+    "domSize": 1266
+  },
+  "https://arts.spbu.ru/ru/fakultet/kafedry/kafedra-informatsionnykh-sistem-v-iskusstve-i-gumanitarnykh-naukakh": {
+    "url": "https://arts.spbu.ru/ru/fakultet/kafedry/kafedra-informatsionnykh-sistem-v-iskusstve-i-gumanitarnykh-naukakh",
+    "redirectTime": 0,
+    "serverResponseTime": 87,
+    "ttfb": 63,
+    "domContentLoadedTime": 485,
+    "tti": 478,
+    "fullyLoadedTime": 19432,
+    "lcp": {
+      "value": 520,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 19432,
+    "domReadyTime": 19304,
+    "firstPaint": 123,
+    "firstContentfulPaint": 478,
+    "pageSize": 54249,
+    "domSize": 276
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-izobrazitelnogo-iskusstva": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-izobrazitelnogo-iskusstva",
+    "redirectTime": 0,
+    "serverResponseTime": 41,
+    "ttfb": 40,
+    "domContentLoadedTime": 206,
+    "tti": 202,
+    "fullyLoadedTime": 635,
+    "lcp": {
+      "value": 280,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 635,
+    "domReadyTime": 543,
+    "firstPaint": 87,
+    "firstContentfulPaint": 202,
+    "pageSize": 29830,
+    "domSize": 220
+  },
+  "https://arts.spbu.ru/ru/fakultet/kafedry/kafedra-dizaina": {
+    "url": "https://arts.spbu.ru/ru/fakultet/kafedry/kafedra-dizaina",
+    "redirectTime": 0,
+    "serverResponseTime": 57,
+    "ttfb": 56,
+    "domContentLoadedTime": 597,
+    "tti": 590,
+    "fullyLoadedTime": 1171,
+    "lcp": {
+      "value": 644,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1171,
+    "domReadyTime": 1062,
+    "firstPaint": 104,
+    "firstContentfulPaint": 590,
+    "pageSize": 35604,
+    "domSize": 257
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya",
+    "redirectTime": 0,
+    "serverResponseTime": 61,
+    "ttfb": 43,
+    "domContentLoadedTime": 1276,
+    "tti": 1268,
+    "fullyLoadedTime": 2105,
+    "lcp": {
+      "value": 2132,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://arts.spbu.ru/sites/default/files/images/photo_2023-11-07_10-34-24.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2105,
+    "domReadyTime": 1348,
+    "firstPaint": 750,
+    "firstContentfulPaint": 1268,
+    "pageSize": 37903,
+    "domSize": 271
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-organa-klavesina-i-karilona": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-organa-klavesina-i-karilona",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 54,
+    "domContentLoadedTime": 241,
+    "tti": 235,
+    "fullyLoadedTime": 522,
+    "lcp": {
+      "value": 312,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 522,
+    "domReadyTime": 415,
+    "firstPaint": 101,
+    "firstContentfulPaint": 235,
+    "pageSize": 31907,
+    "domSize": 244
+  },
+  "https://arts.spbu.ru/ru/fakultet/kafedry/kafedra-restavratsii": {
+    "url": "https://arts.spbu.ru/ru/fakultet/kafedry/kafedra-restavratsii",
+    "redirectTime": 0,
+    "serverResponseTime": 130,
+    "ttfb": 129,
+    "domContentLoadedTime": 402,
+    "tti": 397,
+    "fullyLoadedTime": 1014,
+    "lcp": {
+      "value": 444,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1014,
+    "domReadyTime": 826,
+    "firstPaint": 181,
+    "firstContentfulPaint": 397,
+    "pageSize": 33363,
+    "domSize": 239
+  },
+  "http://arts.spbu.ru/fakultet/kafedry/kafedra-teatralnogo-iskusstva": {
+    "url": "http://arts.spbu.ru/fakultet/kafedry/kafedra-teatralnogo-iskusstva",
+    "redirectTime": 0,
+    "serverResponseTime": 1678,
+    "ttfb": 1645,
+    "domContentLoadedTime": 2150,
+    "tti": 2146,
+    "fullyLoadedTime": 3023,
+    "lcp": {
+      "value": 2196,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3023,
+    "domReadyTime": 1330,
+    "firstPaint": 1691,
+    "firstContentfulPaint": 2146,
+    "pageSize": 37510,
+    "domSize": 262
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-dizaina": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-dizaina",
+    "redirectTime": 0,
+    "serverResponseTime": 45,
+    "ttfb": 44,
+    "domContentLoadedTime": 327,
+    "tti": 320,
+    "fullyLoadedTime": 895,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 895,
+    "domReadyTime": 777,
+    "firstPaint": 113,
+    "firstContentfulPaint": 320,
+    "pageSize": 35604,
+    "domSize": 257
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-izobrazitelnogo-iskusstva/dekorativno-prikladnoe-iskusstvo/dekorativno-prik": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-izobrazitelnogo-iskusstva/dekorativno-prikladnoe-iskusstvo/dekorativno-prik",
+    "redirectTime": 0,
+    "serverResponseTime": 103,
+    "ttfb": 50,
+    "domContentLoadedTime": 905,
+    "tti": 899,
+    "fullyLoadedTime": 1209,
+    "lcp": {
+      "value": 992,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1209,
+    "domReadyTime": 1110,
+    "firstPaint": 95,
+    "firstContentfulPaint": 899,
+    "pageSize": 33789,
+    "domSize": 237
+  },
+  "http://arts.spbu.ru/fakultet/kafedry/kafedra-restavratsii": {
+    "url": "http://arts.spbu.ru/fakultet/kafedry/kafedra-restavratsii",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 53,
+    "domContentLoadedTime": 340,
+    "tti": 333,
+    "fullyLoadedTime": 525,
+    "lcp": {
+      "value": 388,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 525,
+    "domReadyTime": 326,
+    "firstPaint": 190,
+    "firstContentfulPaint": 333,
+    "pageSize": 33502,
+    "domSize": 240
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya/film-dress": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya/film-dress",
+    "redirectTime": 0,
+    "serverResponseTime": 47,
+    "ttfb": 46,
+    "domContentLoadedTime": 292,
+    "tti": 287,
+    "fullyLoadedTime": 905,
+    "lcp": {
+      "value": 336,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 905,
+    "domReadyTime": 741,
+    "firstPaint": 158,
+    "firstContentfulPaint": 287,
+    "pageSize": 35360,
+    "domSize": 253
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya/mult": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-masterstva-khudozhnika-kino-i-televideniya/mult",
+    "redirectTime": 0,
+    "serverResponseTime": 55,
+    "ttfb": 54,
+    "domContentLoadedTime": 1390,
+    "tti": 1376,
+    "fullyLoadedTime": 1698,
+    "lcp": {
+      "value": 1448,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1698,
+    "domReadyTime": 422,
+    "firstPaint": 1268,
+    "firstContentfulPaint": 1376,
+    "pageSize": 40462,
+    "domSize": 276
+  },
+  "https://arts.spbu.ru/fakultet/kafedry/kafedra-informatsionnykh-sistem-v-iskusstve-i-gumanitarnykh-naukakh": {
+    "url": "https://arts.spbu.ru/fakultet/kafedry/kafedra-informatsionnykh-sistem-v-iskusstve-i-gumanitarnykh-naukakh",
+    "redirectTime": 0,
+    "serverResponseTime": 73,
+    "ttfb": 71,
+    "domContentLoadedTime": 506,
+    "tti": 499,
+    "fullyLoadedTime": 18578,
+    "lcp": {
+      "value": 560,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 31
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 18578,
+    "domReadyTime": 18429,
+    "firstPaint": 142,
+    "firstContentfulPaint": 499,
+    "pageSize": 54248,
+    "domSize": 276
+  },
+  "https://arts.spbu.ru/ru/fakultet/obrazovanie/muzykalno-instrumentalnoe-iskusstvo": {
+    "url": "https://arts.spbu.ru/ru/fakultet/obrazovanie/muzykalno-instrumentalnoe-iskusstvo",
+    "redirectTime": 0,
+    "serverResponseTime": 46,
+    "ttfb": 46,
+    "domContentLoadedTime": 233,
+    "tti": 228,
+    "fullyLoadedTime": 749,
+    "lcp": {
+      "value": 520,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 749,
+    "domReadyTime": 652,
+    "firstPaint": 94,
+    "firstContentfulPaint": 228,
+    "pageSize": 29136,
+    "domSize": 205
+  },
+  "https://arts.spbu.ru/ru/fakultet/obrazovanie/vokalnoe-iskusstvo": {
+    "url": "https://arts.spbu.ru/ru/fakultet/obrazovanie/vokalnoe-iskusstvo",
+    "redirectTime": 0,
+    "serverResponseTime": 49,
+    "ttfb": 47,
+    "domContentLoadedTime": 333,
+    "tti": 329,
+    "fullyLoadedTime": 911,
+    "lcp": {
+      "value": 372,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 911,
+    "domReadyTime": 683,
+    "firstPaint": 220,
+    "firstContentfulPaint": 329,
+    "pageSize": 31807,
+    "domSize": 221
+  },
+  "https://arts.spbu.ru/khudozhniki-kino-po-kostyumam-spbgu-otkryli-vystavku-svoikh-rabot-v-dome-kino": {
+    "url": "https://arts.spbu.ru/khudozhniki-kino-po-kostyumam-spbgu-otkryli-vystavku-svoikh-rabot-v-dome-kino",
+    "redirectTime": 0,
+    "serverResponseTime": 58,
+    "ttfb": 56,
+    "domContentLoadedTime": 318,
+    "tti": 302,
+    "fullyLoadedTime": 750,
+    "lcp": {
+      "value": 416,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 750,
+    "domReadyTime": 632,
+    "firstPaint": 114,
+    "firstContentfulPaint": 302,
+    "pageSize": 37076,
+    "domSize": 196
+  },
+  "https://arts.spbu.ru/18-maya-2025-spektakl-moi-bednyi-marat-vals-dlinoyu-v-zhizn": {
+    "url": "https://arts.spbu.ru/18-maya-2025-spektakl-moi-bednyi-marat-vals-dlinoyu-v-zhizn",
+    "redirectTime": 0,
+    "serverResponseTime": 50,
+    "ttfb": 49,
+    "domContentLoadedTime": 318,
+    "tti": 304,
+    "fullyLoadedTime": 791,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 791,
+    "domReadyTime": 616,
+    "firstPaint": 170,
+    "firstContentfulPaint": 304,
+    "pageSize": 28738,
+    "domSize": 174
+  },
+  "https://arts.spbu.ru/studenty-dizainery-spbgu-stali-prizerami-mezhdunarodnogo-konkursa-multimedia-fest": {
+    "url": "https://arts.spbu.ru/studenty-dizainery-spbgu-stali-prizerami-mezhdunarodnogo-konkursa-multimedia-fest",
+    "redirectTime": 0,
+    "serverResponseTime": 109,
+    "ttfb": 108,
+    "domContentLoadedTime": 271,
+    "tti": 258,
+    "fullyLoadedTime": 1446,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1446,
+    "domReadyTime": 1288,
+    "firstPaint": 152,
+    "firstContentfulPaint": 258,
+    "pageSize": 37842,
+    "domSize": 198
+  },
+  "https://arts.spbu.ru/spetsialist-spbgu-i-genrikh-teragerts-pogovorili-o-tsenakh-v-mire-iskusstva": {
+    "url": "https://arts.spbu.ru/spetsialist-spbgu-i-genrikh-teragerts-pogovorili-o-tsenakh-v-mire-iskusstva",
+    "redirectTime": 0,
+    "serverResponseTime": 111,
+    "ttfb": 110,
+    "domContentLoadedTime": 285,
+    "tti": 281,
+    "fullyLoadedTime": 482,
+    "lcp": {
+      "value": 360,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 482,
+    "domReadyTime": 318,
+    "firstPaint": 157,
+    "firstContentfulPaint": 281,
+    "pageSize": 24944,
+    "domSize": 157
+  },
+  "https://arts.spbu.ru/ekspozitsiya-gosudarstvennogo-ermitazha-sozdannaya-vmeste-s-botanikami-spbgu-stala-vystavkoi-goda": {
+    "url": "https://arts.spbu.ru/ekspozitsiya-gosudarstvennogo-ermitazha-sozdannaya-vmeste-s-botanikami-spbgu-stala-vystavkoi-goda",
+    "redirectTime": 0,
+    "serverResponseTime": 61,
+    "ttfb": 59,
+    "domContentLoadedTime": 347,
+    "tti": 343,
+    "fullyLoadedTime": 809,
+    "lcp": {
+      "value": 388,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 809,
+    "domReadyTime": 650,
+    "firstPaint": 155,
+    "firstContentfulPaint": 343,
+    "pageSize": 26244,
+    "domSize": 158
+  },
+  "https://arts.spbu.ru/poiski-krasnoarmeitsev-i-astronomy-lgu-na-fronte-o-chem-rasskazhet-spetsialnyi-nomer-zhurnala-sankt": {
+    "url": "https://arts.spbu.ru/poiski-krasnoarmeitsev-i-astronomy-lgu-na-fronte-o-chem-rasskazhet-spetsialnyi-nomer-zhurnala-sankt",
+    "redirectTime": 0,
+    "serverResponseTime": 40,
+    "ttfb": 40,
+    "domContentLoadedTime": 270,
+    "tti": 267,
+    "fullyLoadedTime": 550,
+    "lcp": {
+      "value": 588,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 550,
+    "domReadyTime": 463,
+    "firstPaint": 84,
+    "firstContentfulPaint": 267,
+    "pageSize": 25675,
+    "domSize": 158
+  },
+  "https://arts.spbu.ru/18-aprelya-2025-otkrytaya-lektsiya-kiberimmunitet-dlya-tsifrovoi-ery": {
+    "url": "https://arts.spbu.ru/18-aprelya-2025-otkrytaya-lektsiya-kiberimmunitet-dlya-tsifrovoi-ery",
+    "redirectTime": 0,
+    "serverResponseTime": 50,
+    "ttfb": 49,
+    "domContentLoadedTime": 229,
+    "tti": 224,
+    "fullyLoadedTime": 3602,
+    "lcp": {
+      "value": 280,
+      "lcpElementType": "text",
+      "lcpElementTag": "p"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 3602,
+    "domReadyTime": 3497,
+    "firstPaint": 100,
+    "firstContentfulPaint": 224,
+    "pageSize": 25710,
+    "domSize": 164
+  },
+  "https://arts.spbu.ru/#": {
+    "url": "https://arts.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 57,
+    "ttfb": 56,
+    "domContentLoadedTime": 370,
+    "tti": 364,
+    "fullyLoadedTime": 936,
+    "lcp": {
+      "value": 920,
+      "lcpElementType": "text",
+      "lcpElementTag": "div"
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 30
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 936,
+    "domReadyTime": 818,
+    "firstPaint": 113,
+    "firstContentfulPaint": 364,
+    "pageSize": 47112,
+    "domSize": 411
+  }
+}

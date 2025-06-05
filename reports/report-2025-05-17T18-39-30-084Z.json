@@ -1,0 +1,994 @@
+{
+  "https://history.spbu.ru/": {
+    "url": "https://history.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 198,
+    "ttfb": 196,
+    "domContentLoadedTime": 454,
+    "tti": 445,
+    "fullyLoadedTime": 1563,
+    "lcp": {
+      "value": 1600,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1563,
+    "domReadyTime": 1304,
+    "firstPaint": 242,
+    "firstContentfulPaint": 445,
+    "pageSize": 39489,
+    "domSize": 379
+  },
+  "https://history.spbu.ru/institut.html": {
+    "url": "https://history.spbu.ru/institut.html",
+    "redirectTime": 0,
+    "serverResponseTime": 171,
+    "ttfb": 169,
+    "domContentLoadedTime": 410,
+    "tti": 401,
+    "fullyLoadedTime": 1469,
+    "lcp": {
+      "value": 440,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1469,
+    "domReadyTime": 1244,
+    "firstPaint": 212,
+    "firstContentfulPaint": 401,
+    "pageSize": 39555,
+    "domSize": 384
+  },
+  "https://history.spbu.ru/institut/struktura.html": {
+    "url": "https://history.spbu.ru/institut/struktura.html",
+    "redirectTime": 0,
+    "serverResponseTime": 102,
+    "ttfb": 101,
+    "domContentLoadedTime": 732,
+    "tti": 722,
+    "fullyLoadedTime": 60760,
+    "lcp": {
+      "value": 1636,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60760,
+    "domReadyTime": 60411,
+    "firstPaint": 338,
+    "firstContentfulPaint": 722,
+    "pageSize": 25411,
+    "domSize": 331
+  },
+  "https://history.spbu.ru/institut/kafedry.html": {
+    "url": "https://history.spbu.ru/institut/kafedry.html",
+    "redirectTime": 0,
+    "serverResponseTime": 95,
+    "ttfb": 94,
+    "domContentLoadedTime": 411,
+    "tti": 402,
+    "fullyLoadedTime": 60439,
+    "lcp": {
+      "value": 4684,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 60439,
+    "domReadyTime": 60195,
+    "firstPaint": 231,
+    "firstContentfulPaint": 402,
+    "pageSize": 27691,
+    "domSize": 386
+  },
+  "https://history.spbu.ru/institut/istoriya-fakulteta.html": {
+    "url": "https://history.spbu.ru/institut/istoriya-fakulteta.html",
+    "redirectTime": 0,
+    "serverResponseTime": 317,
+    "ttfb": 315,
+    "domContentLoadedTime": 772,
+    "tti": 763,
+    "fullyLoadedTime": 2321,
+    "lcp": {
+      "value": 2072,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2321,
+    "domReadyTime": 1933,
+    "firstPaint": 378,
+    "firstContentfulPaint": 763,
+    "pageSize": 68145,
+    "domSize": 408
+  },
+  "https://history.spbu.ru/institut/istoriya-fakulteta/fotoletopis-istoricheskogo-fakulteta.html": {
+    "url": "https://history.spbu.ru/institut/istoriya-fakulteta/fotoletopis-istoricheskogo-fakulteta.html",
+    "redirectTime": 0,
+    "serverResponseTime": 101,
+    "ttfb": 100,
+    "domContentLoadedTime": 549,
+    "tti": 540,
+    "fullyLoadedTime": 1600,
+    "lcp": {
+      "value": 1628,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1600,
+    "domReadyTime": 1446,
+    "firstPaint": 145,
+    "firstContentfulPaint": 540,
+    "pageSize": 29893,
+    "domSize": 367
+  },
+  "https://history.spbu.ru/institut/gallery.html": {
+    "url": "https://history.spbu.ru/institut/gallery.html",
+    "redirectTime": 0,
+    "serverResponseTime": 120,
+    "ttfb": 109,
+    "domContentLoadedTime": 401,
+    "tti": 391,
+    "fullyLoadedTime": 1545,
+    "lcp": {
+      "value": 1316,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 28
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1545,
+    "domReadyTime": 1378,
+    "firstPaint": 154,
+    "firstContentfulPaint": 392,
+    "pageSize": 40451,
+    "domSize": 499
+  },
+  "https://history.spbu.ru/institut/ekspertnaya-deyatelnost.html": {
+    "url": "https://history.spbu.ru/institut/ekspertnaya-deyatelnost.html",
+    "redirectTime": 0,
+    "serverResponseTime": 147,
+    "ttfb": 128,
+    "domContentLoadedTime": 777,
+    "tti": 768,
+    "fullyLoadedTime": 2471,
+    "lcp": {
+      "value": 2096,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2471,
+    "domReadyTime": 2174,
+    "firstPaint": 285,
+    "firstContentfulPaint": 768,
+    "pageSize": 28039,
+    "domSize": 349
+  },
+  "https://history.spbu.ru/institut/meropriyatiya-vstrechi.html": {
+    "url": "https://history.spbu.ru/institut/meropriyatiya-vstrechi.html",
+    "redirectTime": 0,
+    "serverResponseTime": 115,
+    "ttfb": 98,
+    "domContentLoadedTime": 1234,
+    "tti": 1223,
+    "fullyLoadedTime": 2696,
+    "lcp": {
+      "value": 2308,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 29
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 2696,
+    "domReadyTime": 2171,
+    "firstPaint": 516,
+    "firstContentfulPaint": 1223,
+    "pageSize": 40919,
+    "domSize": 409
+  },
+  "https://history.spbu.ru/institut/materialy-soveshchanij-direktora-instituta-istorii.html": {
+    "url": "https://history.spbu.ru/institut/materialy-soveshchanij-direktora-instituta-istorii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 141,
+    "ttfb": 138,
+    "domContentLoadedTime": 629,
+    "tti": 619,
+    "fullyLoadedTime": 2437,
+    "lcp": {
+      "value": 2056,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2437,
+    "domReadyTime": 2210,
+    "firstPaint": 210,
+    "firstContentfulPaint": 619,
+    "pageSize": 27456,
+    "domSize": 346
+  },
+  "https://history.spbu.ru/#": {
+    "url": "https://history.spbu.ru/#",
+    "redirectTime": 0,
+    "serverResponseTime": 112,
+    "ttfb": 110,
+    "domContentLoadedTime": 573,
+    "tti": 564,
+    "fullyLoadedTime": 1322,
+    "lcp": {
+      "value": 772,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1322,
+    "domReadyTime": 1004,
+    "firstPaint": 308,
+    "firstContentfulPaint": 564,
+    "pageSize": 39489,
+    "domSize": 379
+  },
+  "https://history.spbu.ru/uchebnyj-otdel/37-sluzhba-obespecheniya-osnovnykh-obrazovatelnykh-programm-po-napravleniyam-istoriya-psikhologiya-i-filosofiya/dnevnaya-forma-obucheniya.html": {
+    "url": "https://history.spbu.ru/uchebnyj-otdel/37-sluzhba-obespecheniya-osnovnykh-obrazovatelnykh-programm-po-napravleniyam-istoriya-psikhologiya-i-filosofiya/dnevnaya-forma-obucheniya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 108,
+    "ttfb": 106,
+    "domContentLoadedTime": 448,
+    "tti": 439,
+    "fullyLoadedTime": 864,
+    "lcp": {
+      "value": 476,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 864,
+    "domReadyTime": 697,
+    "firstPaint": 158,
+    "firstContentfulPaint": 439,
+    "pageSize": 30516,
+    "domSize": 378
+  },
+  "https://history.spbu.ru/obuchenie/osnovnye-obrazovatelnye-programmy.html": {
+    "url": "https://history.spbu.ru/obuchenie/osnovnye-obrazovatelnye-programmy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 97,
+    "ttfb": 96,
+    "domContentLoadedTime": 474,
+    "tti": 465,
+    "fullyLoadedTime": 1059,
+    "lcp": {
+      "value": 496,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1059,
+    "domReadyTime": 888,
+    "firstPaint": 163,
+    "firstContentfulPaint": 465,
+    "pageSize": 29878,
+    "domSize": 353
+  },
+  "https://history.spbu.ru/obuchenie/dopolnitelnye-obrazovatelnye-programmy.html": {
+    "url": "https://history.spbu.ru/obuchenie/dopolnitelnye-obrazovatelnye-programmy.html",
+    "redirectTime": 0,
+    "serverResponseTime": 176,
+    "ttfb": 151,
+    "domContentLoadedTime": 783,
+    "tti": 773,
+    "fullyLoadedTime": 2938,
+    "lcp": {
+      "value": 2072,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2938,
+    "domReadyTime": 2700,
+    "firstPaint": 227,
+    "firstContentfulPaint": 773,
+    "pageSize": 30359,
+    "domSize": 351
+  },
+  "https://history.spbu.ru/obuchenie/raspisanie.html": {
+    "url": "https://history.spbu.ru/obuchenie/raspisanie.html",
+    "redirectTime": 0,
+    "serverResponseTime": 118,
+    "ttfb": 116,
+    "domContentLoadedTime": 405,
+    "tti": 397,
+    "fullyLoadedTime": 820,
+    "lcp": {
+      "value": 436,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 820,
+    "domReadyTime": 591,
+    "firstPaint": 220,
+    "firstContentfulPaint": 397,
+    "pageSize": 26859,
+    "domSize": 325
+  },
+  "https://history.spbu.ru/obuchenie/distsipliny-po-vyboru.html": {
+    "url": "https://history.spbu.ru/obuchenie/distsipliny-po-vyboru.html",
+    "redirectTime": 0,
+    "serverResponseTime": 97,
+    "ttfb": 96,
+    "domContentLoadedTime": 569,
+    "tti": 561,
+    "fullyLoadedTime": 13384,
+    "lcp": {
+      "value": 1816,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 13384,
+    "domReadyTime": 13057,
+    "firstPaint": 314,
+    "firstContentfulPaint": 561,
+    "pageSize": 31271,
+    "domSize": 355
+  },
+  "https://history.spbu.ru/obuchenie/oplata-obucheniya.html": {
+    "url": "https://history.spbu.ru/obuchenie/oplata-obucheniya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 111,
+    "ttfb": 110,
+    "domContentLoadedTime": 436,
+    "tti": 426,
+    "fullyLoadedTime": 1141,
+    "lcp": {
+      "value": 460,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1141,
+    "domReadyTime": 976,
+    "firstPaint": 157,
+    "firstContentfulPaint": 426,
+    "pageSize": 27488,
+    "domSize": 334
+  },
+  "https://history.spbu.ru/obuchenie/tsentralnaya-komissiya-po-perevodam-i-vosstnovleniyam.html": {
+    "url": "https://history.spbu.ru/obuchenie/tsentralnaya-komissiya-po-perevodam-i-vosstnovleniyam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 103,
+    "ttfb": 102,
+    "domContentLoadedTime": 521,
+    "tti": 512,
+    "fullyLoadedTime": 1686,
+    "lcp": {
+      "value": 1564,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1686,
+    "domReadyTime": 1416,
+    "firstPaint": 256,
+    "firstContentfulPaint": 512,
+    "pageSize": 28720,
+    "domSize": 343
+  },
+  "https://history.spbu.ru/obuchenie/obshchezhitie.html": {
+    "url": "https://history.spbu.ru/obuchenie/obshchezhitie.html",
+    "redirectTime": 0,
+    "serverResponseTime": 127,
+    "ttfb": 126,
+    "domContentLoadedTime": 497,
+    "tti": 488,
+    "fullyLoadedTime": 1271,
+    "lcp": {
+      "value": 532,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1271,
+    "domReadyTime": 1066,
+    "firstPaint": 195,
+    "firstContentfulPaint": 488,
+    "pageSize": 25730,
+    "domSize": 324
+  },
+  "https://history.spbu.ru/obuchenie/informatsiya-dlya-inostrannykh-obuchayushchikhsya.html": {
+    "url": "https://history.spbu.ru/obuchenie/informatsiya-dlya-inostrannykh-obuchayushchikhsya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 98,
+    "ttfb": 96,
+    "domContentLoadedTime": 541,
+    "tti": 532,
+    "fullyLoadedTime": 938,
+    "lcp": {
+      "value": 580,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 938,
+    "domReadyTime": 659,
+    "firstPaint": 272,
+    "firstContentfulPaint": 532,
+    "pageSize": 27409,
+    "domSize": 333
+  },
+  "https://history.spbu.ru/obuchenie/praktiki.html": {
+    "url": "https://history.spbu.ru/obuchenie/praktiki.html",
+    "redirectTime": 0,
+    "serverResponseTime": 119,
+    "ttfb": 117,
+    "domContentLoadedTime": 351,
+    "tti": 343,
+    "fullyLoadedTime": 790,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 790,
+    "domReadyTime": 614,
+    "firstPaint": 167,
+    "firstContentfulPaint": 343,
+    "pageSize": 34923,
+    "domSize": 379
+  },
+  "https://history.spbu.ru/obuchenie/first-year.html": {
+    "url": "https://history.spbu.ru/obuchenie/first-year.html",
+    "redirectTime": 0,
+    "serverResponseTime": 102,
+    "ttfb": 101,
+    "domContentLoadedTime": 429,
+    "tti": 420,
+    "fullyLoadedTime": 1361,
+    "lcp": {
+      "value": 1288,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1361,
+    "domReadyTime": 1206,
+    "firstPaint": 145,
+    "firstContentfulPaint": 420,
+    "pageSize": 27887,
+    "domSize": 340
+  },
+  "https://history.spbu.ru/obuchenie/informatsiya-dlya-vypusknikov.html": {
+    "url": "https://history.spbu.ru/obuchenie/informatsiya-dlya-vypusknikov.html",
+    "redirectTime": 0,
+    "serverResponseTime": 335,
+    "ttfb": 334,
+    "domContentLoadedTime": 638,
+    "tti": 629,
+    "fullyLoadedTime": 1759,
+    "lcp": {
+      "value": 1680,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1759,
+    "domReadyTime": 1366,
+    "firstPaint": 382,
+    "firstContentfulPaint": 629,
+    "pageSize": 27694,
+    "domSize": 334
+  },
+  "https://history.spbu.ru/obuchenie/kursovaya-rabota.html": {
+    "url": "https://history.spbu.ru/obuchenie/kursovaya-rabota.html",
+    "redirectTime": 0,
+    "serverResponseTime": 114,
+    "ttfb": 113,
+    "domContentLoadedTime": 388,
+    "tti": 379,
+    "fullyLoadedTime": 870,
+    "lcp": {
+      "value": 416,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 870,
+    "domReadyTime": 685,
+    "firstPaint": 177,
+    "firstContentfulPaint": 379,
+    "pageSize": 27954,
+    "domSize": 333
+  },
+  "https://history.spbu.ru/nauka/konferentsii.html": {
+    "url": "https://history.spbu.ru/nauka/konferentsii.html",
+    "redirectTime": 0,
+    "serverResponseTime": 127,
+    "ttfb": 126,
+    "domContentLoadedTime": 5083,
+    "tti": 5074,
+    "fullyLoadedTime": 7282,
+    "lcp": {
+      "value": 6728,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 7282,
+    "domReadyTime": 2863,
+    "firstPaint": 4407,
+    "firstContentfulPaint": 5074,
+    "pageSize": 26452,
+    "domSize": 320
+  },
+  "https://history.spbu.ru/nauka/nauchnaya-komissiya.html": {
+    "url": "https://history.spbu.ru/nauka/nauchnaya-komissiya.html",
+    "redirectTime": 0,
+    "serverResponseTime": 203,
+    "ttfb": 202,
+    "domContentLoadedTime": 530,
+    "tti": 521,
+    "fullyLoadedTime": 1363,
+    "lcp": {
+      "value": 1408,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1363,
+    "domReadyTime": 1099,
+    "firstPaint": 249,
+    "firstContentfulPaint": 521,
+    "pageSize": 26384,
+    "domSize": 329
+  },
+  "https://history.spbu.ru/nauka/nauchnye-tsentry.html": {
+    "url": "https://history.spbu.ru/nauka/nauchnye-tsentry.html",
+    "redirectTime": 0,
+    "serverResponseTime": 98,
+    "ttfb": 97,
+    "domContentLoadedTime": 498,
+    "tti": 489,
+    "fullyLoadedTime": 2267,
+    "lcp": {
+      "value": 524,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2267,
+    "domReadyTime": 2033,
+    "firstPaint": 224,
+    "firstContentfulPaint": 489,
+    "pageSize": 29613,
+    "domSize": 356
+  },
+  "https://history.spbu.ru/nauka/science-projects.html": {
+    "url": "https://history.spbu.ru/nauka/science-projects.html",
+    "redirectTime": 0,
+    "serverResponseTime": 124,
+    "ttfb": 119,
+    "domContentLoadedTime": 456,
+    "tti": 447,
+    "fullyLoadedTime": 2086,
+    "lcp": {
+      "value": 2048,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 18
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2086,
+    "domReadyTime": 1907,
+    "firstPaint": 168,
+    "firstContentfulPaint": 447,
+    "pageSize": 31871,
+    "domSize": 368
+  },
+  "https://history.spbu.ru/biblioteka.html": {
+    "url": "https://history.spbu.ru/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 123,
+    "ttfb": 123,
+    "domContentLoadedTime": 350,
+    "tti": 343,
+    "fullyLoadedTime": 1255,
+    "lcp": {
+      "value": 480,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1255,
+    "domReadyTime": 1075,
+    "firstPaint": 176,
+    "firstContentfulPaint": 343,
+    "pageSize": 29492,
+    "domSize": 383
+  },
+  "https://history.spbu.ru/contacts.html": {
+    "url": "https://history.spbu.ru/contacts.html",
+    "redirectTime": 0,
+    "serverResponseTime": 102,
+    "ttfb": 101,
+    "domContentLoadedTime": 476,
+    "tti": 467,
+    "fullyLoadedTime": 1128,
+    "lcp": {
+      "value": 512,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/history-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1128,
+    "domReadyTime": 965,
+    "firstPaint": 155,
+    "firstContentfulPaint": 467,
+    "pageSize": 27442,
+    "domSize": 387
+  },
+  "https://history.spbu.ru/#offcanvas": {
+    "url": "https://history.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 94,
+    "ttfb": 94,
+    "domContentLoadedTime": 330,
+    "tti": 322,
+    "fullyLoadedTime": 1518,
+    "lcp": {
+      "value": 1556,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://history.spbu.ru/images/banners/2023-guide-hist-954x254.jpg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 1518,
+    "domReadyTime": 1359,
+    "firstPaint": 144,
+    "firstContentfulPaint": 322,
+    "pageSize": 39489,
+    "domSize": 379
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "https://bio.spbu.ru/": {
+    "url": "https://bio.spbu.ru/",
+    "redirectTime": 0,
+    "serverResponseTime": 97,
+    "ttfb": 97,
+    "domContentLoadedTime": 559,
+    "tti": 549,
+    "fullyLoadedTime": 1118,
+    "lcp": {
+      "value": 644,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1118,
+    "domReadyTime": 968,
+    "firstPaint": 143,
+    "firstContentfulPaint": 549,
+    "pageSize": 21337,
+    "domSize": 176
+  },
+  "https://bio.spbu.ru/anons.html": {
+    "url": "https://bio.spbu.ru/anons.html",
+    "redirectTime": 0,
+    "serverResponseTime": 107,
+    "ttfb": 106,
+    "domContentLoadedTime": 338,
+    "tti": 332,
+    "fullyLoadedTime": 854,
+    "lcp": {
+      "value": 376,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 16
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 854,
+    "domReadyTime": 691,
+    "firstPaint": 155,
+    "firstContentfulPaint": 332,
+    "pageSize": 17931,
+    "domSize": 189
+  },
+  "https://bio.spbu.ru/fakul-tet.html": {
+    "url": "https://bio.spbu.ru/fakul-tet.html",
+    "redirectTime": 0,
+    "serverResponseTime": 98,
+    "ttfb": 97,
+    "domContentLoadedTime": 416,
+    "tti": 410,
+    "fullyLoadedTime": 680,
+    "lcp": {
+      "value": 488,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 680,
+    "domReadyTime": 527,
+    "firstPaint": 148,
+    "firstContentfulPaint": 410,
+    "pageSize": 12487,
+    "domSize": 128
+  },
+  "https://bio.spbu.ru/abiturientam.html": {
+    "url": "https://bio.spbu.ru/abiturientam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 91,
+    "ttfb": 90,
+    "domContentLoadedTime": 527,
+    "tti": 520,
+    "fullyLoadedTime": 1064,
+    "lcp": {
+      "value": 592,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 1064,
+    "domReadyTime": 801,
+    "firstPaint": 255,
+    "firstContentfulPaint": 520,
+    "pageSize": 14789,
+    "domSize": 133
+  },
+  "https://bio.spbu.ru/studentam.html": {
+    "url": "https://bio.spbu.ru/studentam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 85,
+    "ttfb": 84,
+    "domContentLoadedTime": 1360,
+    "tti": 1355,
+    "fullyLoadedTime": 2452,
+    "lcp": {
+      "value": 1388,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 2452,
+    "domReadyTime": 1274,
+    "firstPaint": 1169,
+    "firstContentfulPaint": 1355,
+    "pageSize": 10745,
+    "domSize": 142
+  },
+  "https://bio.spbu.ru/nauka.html": {
+    "url": "https://bio.spbu.ru/nauka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 102,
+    "ttfb": 98,
+    "domContentLoadedTime": 330,
+    "tti": 324,
+    "fullyLoadedTime": 808,
+    "lcp": {
+      "value": 428,
+      "lcpElementType": "text",
+      "lcpElementTag": "p",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 0
+    },
+    "loadTime": 808,
+    "domReadyTime": 650,
+    "firstPaint": 149,
+    "firstContentfulPaint": 324,
+    "pageSize": 12046,
+    "domSize": 122
+  },
+  "https://bio.spbu.ru/sotrudnikam.html": {
+    "url": "https://bio.spbu.ru/sotrudnikam.html",
+    "redirectTime": 0,
+    "serverResponseTime": 78,
+    "ttfb": 78,
+    "domContentLoadedTime": 436,
+    "tti": 429,
+    "fullyLoadedTime": 635,
+    "lcp": {
+      "value": 476,
+      "lcpElementType": "largest-contentful-paint",
+      "lcpElementTag": "img",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 12
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 635,
+    "domReadyTime": 506,
+    "firstPaint": 125,
+    "firstContentfulPaint": 429,
+    "pageSize": 11023,
+    "domSize": 139
+  },
+  "https://bio.spbu.ru/biblioteka.html": {
+    "url": "https://bio.spbu.ru/biblioteka.html",
+    "redirectTime": 0,
+    "serverResponseTime": 171,
+    "ttfb": 170,
+    "domContentLoadedTime": 557,
+    "tti": 551,
+    "fullyLoadedTime": 922,
+    "lcp": {
+      "value": 628,
+      "lcpElementType": "text",
+      "lcpElementTag": "h6",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 13
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 922,
+    "domReadyTime": 700,
+    "firstPaint": 214,
+    "firstContentfulPaint": 551,
+    "pageSize": 9553,
+    "domSize": 111
+  },
+  "https://bio.spbu.ru/#offcanvas": {
+    "url": "https://bio.spbu.ru/#offcanvas",
+    "redirectTime": 0,
+    "serverResponseTime": 86,
+    "ttfb": 85,
+    "domContentLoadedTime": 456,
+    "tti": 447,
+    "fullyLoadedTime": 836,
+    "lcp": {
+      "value": 540,
+      "lcpElementType": "text",
+      "lcpElementTag": "h1",
+      "lcpElementUrl": "https://bio.spbu.ru/images/bio-logo.svg",
+      "isPreloaded": false
+    },
+    "tbt": {
+      "value": 0,
+      "longTasks": [],
+      "scripts": {
+        "withDefer": 0,
+        "withAsync": 0,
+        "total": 14
+      },
+      "mainThreadBlocks": 1
+    },
+    "loadTime": 836,
+    "domReadyTime": 696,
+    "firstPaint": 133,
+    "firstContentfulPaint": 447,
+    "pageSize": 21476,
+    "domSize": 177
+  }
+}
